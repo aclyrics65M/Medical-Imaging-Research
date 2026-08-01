@@ -1,0 +1,2 @@
+### This is the text document for Research Articles
+## A folder containing the various research articles used in the medical imaging research collaboration project.
