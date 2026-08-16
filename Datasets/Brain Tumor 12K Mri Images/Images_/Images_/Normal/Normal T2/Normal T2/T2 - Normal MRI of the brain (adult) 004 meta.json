@@ -1,0 +1,23 @@
+{
+    "filename": "T2 - Normal MRI of the brain (adult) 004.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 250,
+        "y": 237
+    },
+    "point_normalized": {
+        "x": 0.48931629024879353,
+        "y": 0.4640567186982474
+    },
+    "location": [],
+    "location_str": "",
+    "description": "There are no areas of restricted diffusion and the brain parenchyma is unremarkable in signal. There is no evidence of intracranial hemorrhage or abnormal susceptibility. The ventricles and cortical sulci are within normal limits. The major flow voids are maintained.",
+    "pixel_stats": {
+        "mean": 20.364131927490234,
+        "std": 35.00481636623962,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

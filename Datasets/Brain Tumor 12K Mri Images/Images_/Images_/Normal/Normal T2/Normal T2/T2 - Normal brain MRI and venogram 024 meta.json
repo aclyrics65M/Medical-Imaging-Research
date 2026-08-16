@@ -1,0 +1,23 @@
+{
+    "filename": "T2 - Normal brain MRI and venogram 024.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 250,
+        "y": 232
+    },
+    "point_normalized": {
+        "x": 0.4902086437333133,
+        "y": 0.4550978530552575
+    },
+    "location": [],
+    "location_str": "",
+    "description": "Normal exam and normal venography.",
+    "pixel_stats": {
+        "mean": 53.37116241455078,
+        "std": 51.12384489435764,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

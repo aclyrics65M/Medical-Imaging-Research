@@ -1,0 +1,23 @@
+{
+    "filename": "T2 - Normal brain MRI (non-focal epilepsy protocol) 094.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 250,
+        "y": 257
+    },
+    "point_normalized": {
+        "x": 0.48931629024879353,
+        "y": 0.502961677095689
+    },
+    "location": [],
+    "location_str": "",
+    "description": "",
+    "pixel_stats": {
+        "mean": 53.91825866699219,
+        "std": 57.014604619770154,
+        "min": 10,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

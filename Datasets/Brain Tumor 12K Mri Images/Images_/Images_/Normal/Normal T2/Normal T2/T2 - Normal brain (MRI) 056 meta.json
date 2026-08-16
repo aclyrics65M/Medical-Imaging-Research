@@ -1,0 +1,23 @@
+{
+    "filename": "T2 - Normal brain (MRI) 056.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 256,
+        "y": 242
+    },
+    "point_normalized": {
+        "x": 0.5007545877408714,
+        "y": 0.47386097369145697
+    },
+    "location": [],
+    "location_str": "",
+    "description": "Normal appearance of a young person's brain on a 1.5T scanner other than borderline low-lying tonsils. Note, however, that McRae’s line (basion to the opisthion) needs to be measured A) in the midline and B) from the tip of the cortical bone - and not the fat-rich bone marrow. The tonsils are rounded (not peg-like) and, although no scale is present to effect a precise measurement, at most these tonsils are 2-4 mm below McRae's line and thus of dubious significance. Minor retroflexion of the odontoid process. No syrinx.",
+    "pixel_stats": {
+        "mean": 30.776763916015625,
+        "std": 38.031077487494244,
+        "min": 0,
+        "max": 245
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

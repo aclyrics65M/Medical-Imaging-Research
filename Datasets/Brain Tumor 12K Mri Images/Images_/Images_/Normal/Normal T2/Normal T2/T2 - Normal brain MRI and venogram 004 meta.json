@@ -1,0 +1,23 @@
+{
+    "filename": "T2 - Normal brain MRI and venogram 004.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 262,
+        "y": 259
+    },
+    "point_normalized": {
+        "x": 0.5121928852329493,
+        "y": 0.5065418236688224
+    },
+    "location": [],
+    "location_str": "",
+    "description": "Normal brain parenchymal signal with preserved grey–white differentiation.\n\nNo focal lesion, mass effect, diffusion restriction, or abnormal enhancement.\n\nVentricles and CSF spaces are normal.\n\nMRV shows patent dural venous sinuses and deep venous system without thrombosis.",
+    "pixel_stats": {
+        "mean": 42.473960876464844,
+        "std": 42.815365983892406,
+        "min": 10,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

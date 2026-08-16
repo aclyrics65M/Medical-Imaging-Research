@@ -1,0 +1,25 @@
+{
+    "filename": "T2 - Normal brain MRI (TLE protocol) temporal 096.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 253,
+        "y": 238
+    },
+    "point_normalized": {
+        "x": 0.4958524602442666,
+        "y": 0.46490210804846716
+    },
+    "location": [
+        "temporal"
+    ],
+    "location_str": "temporal",
+    "description": "Multiplanar, multisequence imaging has been obtained through the brain including whole brain and dedicated temporal lobe / hippocampus coronal sequences on the 3T scanner.\n\nNo intra- or extra-axial mass, collection or region of signal abnormality identified. The grey-white matter junction and appearance of the cortex is unremarkable, with no evidence of cortical dysplasia or grey matter heterotopia.\n\nThe mesial temporal lobes, including the hippocampi, are unremarkable in size, signal and morphology.",
+    "pixel_stats": {
+        "mean": 49.2839241027832,
+        "std": 57.51176142652004,
+        "min": 13,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

@@ -1,0 +1,23 @@
+{
+    "filename": "T1C+ - Normal brain MRI with post-contrast FLAIR 103.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 256,
+        "y": 251
+    },
+    "point_normalized": {
+        "x": 0.5023886302397397,
+        "y": 0.49183544117900796
+    },
+    "location": [],
+    "location_str": "",
+    "description": "Normal examination of the brain including post-contrast T1 volumetric MPRAGE and post-contrast FL",
+    "pixel_stats": {
+        "mean": 38.858978271484375,
+        "std": 36.8747952062443,
+        "min": 10,
+        "max": 201
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

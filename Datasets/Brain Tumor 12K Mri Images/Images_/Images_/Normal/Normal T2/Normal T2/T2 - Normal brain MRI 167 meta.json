@@ -1,0 +1,23 @@
+{
+    "filename": "T2 - Normal brain MRI 167.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 249,
+        "y": 231
+    },
+    "point_normalized": {
+        "x": 0.4876822477499253,
+        "y": 0.451829768057521
+    },
+    "location": [],
+    "location_str": "",
+    "description": "Technique: Multiplanar and multisequence imaging has been obtained through the brain including T1 and isotropic acquisition.\n\nFindings: Appearance and intensity of brain parenchyma are normal. Ventricular system and cisternal spaces appear normal. No evidence of intracranial space occupying lesion or obvious vascular anomaly is detected. The visualized orbits, paranasal sinuses and calvarium appear unremarkable.\n\nConclusion: Normal exam.",
+    "pixel_stats": {
+        "mean": 59.63661575317383,
+        "std": 57.21720224550887,
+        "min": 5,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

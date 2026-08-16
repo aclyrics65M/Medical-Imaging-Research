@@ -1,0 +1,23 @@
+{
+    "filename": "T2 - Normal MRI Brain 061.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 257,
+        "y": 240
+    },
+    "point_normalized": {
+        "x": 0.5023886302397397,
+        "y": 0.46980423554507195
+    },
+    "location": [],
+    "location_str": "",
+    "description": "No abnormal signal intensity of brain parenchyma. The white and grey matter differentiation are normal. No restricted diffusion. No blooming artefact on SWI. No hydrocephalus.",
+    "pixel_stats": {
+        "mean": 41.71535110473633,
+        "std": 50.7789729351285,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

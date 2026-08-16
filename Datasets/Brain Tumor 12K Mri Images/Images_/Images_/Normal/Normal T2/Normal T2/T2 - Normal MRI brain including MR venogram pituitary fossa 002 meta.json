@@ -1,0 +1,25 @@
+{
+    "filename": "T2 - Normal MRI brain including MR venogram pituitary fossa 002.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 258,
+        "y": 239
+    },
+    "point_normalized": {
+        "x": 0.5056567152374762,
+        "y": 0.4681361525719364
+    },
+    "location": [
+        "pituitary fossa"
+    ],
+    "location_str": "pituitary fossa",
+    "description": "Normal MRI, other than a partially empty pituitary fossa, demonstrating normal venous anatomy.",
+    "pixel_stats": {
+        "mean": 50.88405227661133,
+        "std": 58.871665868895775,
+        "min": 12,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

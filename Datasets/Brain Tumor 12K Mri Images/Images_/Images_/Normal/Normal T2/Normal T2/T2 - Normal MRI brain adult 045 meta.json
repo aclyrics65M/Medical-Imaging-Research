@@ -1,0 +1,23 @@
+{
+    "filename": "T2 - Normal MRI brain adult 045.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 256,
+        "y": 246
+    },
+    "point_normalized": {
+        "x": 0.5023886302397397,
+        "y": 0.4820311861857983
+    },
+    "location": [],
+    "location_str": "",
+    "description": "The whole 'sha-bang' of non-contrasted sequences for an MRI brain.\n\nNormal intracranial appearances.",
+    "pixel_stats": {
+        "mean": 49.24017333984375,
+        "std": 57.165464287315196,
+        "min": 9,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

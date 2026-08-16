@@ -1,0 +1,25 @@
+{
+    "filename": "T2 - Normal MRI brain - neurodegenerative protocol temporal 045.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 250,
+        "y": 223
+    },
+    "point_normalized": {
+        "x": 0.48931629024879353,
+        "y": 0.4361475004605219
+    },
+    "location": [
+        "temporal"
+    ],
+    "location_str": "temporal",
+    "description": "No parenchymal signal abnormality identified. Cerebral volume is age appropriate. Mesial temporal lobes appear normal. No evidence of restricted diffusion. Ventricles and basal cisterns are normal.",
+    "pixel_stats": {
+        "mean": 63.64784622192383,
+        "std": 60.834145371807416,
+        "min": 6,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

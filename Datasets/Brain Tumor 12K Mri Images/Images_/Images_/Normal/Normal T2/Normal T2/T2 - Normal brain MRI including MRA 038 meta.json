@@ -1,0 +1,23 @@
+{
+    "filename": "T2 - Normal brain MRI including MRA 038.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 248,
+        "y": 267
+    },
+    "point_normalized": {
+        "x": 0.4876822477499253,
+        "y": 0.522882248657505
+    },
+    "location": [],
+    "location_str": "",
+    "description": "Normal appearances of the brain.",
+    "pixel_stats": {
+        "mean": 53.40378952026367,
+        "std": 53.29856053408939,
+        "min": 7,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

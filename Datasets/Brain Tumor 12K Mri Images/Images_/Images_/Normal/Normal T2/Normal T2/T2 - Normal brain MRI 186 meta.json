@@ -1,0 +1,23 @@
+{
+    "filename": "T2 - Normal brain MRI 186.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 255,
+        "y": 244
+    },
+    "point_normalized": {
+        "x": 0.49912054524200317,
+        "y": 0.47712905868919353
+    },
+    "location": [],
+    "location_str": "",
+    "description": "Appearance and intensity of brain parenchyma are normal. Ventricular system and cisternal spaces appear normal. No evidence of intracranial space occupying lesion or obvious vascular anomaly is detected. The visualized orbits, paranasal sinuses and calvarium appear unremarkable.",
+    "pixel_stats": {
+        "mean": 53.54823684692383,
+        "std": 55.60652735305604,
+        "min": 10,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

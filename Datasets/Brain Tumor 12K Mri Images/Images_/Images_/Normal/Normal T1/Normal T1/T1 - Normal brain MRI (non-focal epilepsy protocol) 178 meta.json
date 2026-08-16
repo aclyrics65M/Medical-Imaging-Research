@@ -1,0 +1,23 @@
+{
+    "filename": "T1 - Normal brain MRI (non-focal epilepsy protocol) 178.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 250,
+        "y": 266
+    },
+    "point_normalized": {
+        "x": 0.48931629024879353,
+        "y": 0.5211177104016719
+    },
+    "location": [],
+    "location_str": "",
+    "description": "",
+    "pixel_stats": {
+        "mean": 40.36360549926758,
+        "std": 46.07792412434103,
+        "min": 8,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}
