@@ -1,0 +1,26 @@
+{
+    "filename": "T2 - Glioblastoma NOS temporal , brainstem 010.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 315,
+        "y": 312
+    },
+    "point_normalized": {
+        "x": 0.6167716051605184,
+        "y": 0.6111205435963915
+    },
+    "location": [
+        "temporal",
+        "brainstem"
+    ],
+    "location_str": "temporal brainstem",
+    "description": "An irregular shape, ill defined, intra axial space occupying lesion is seen involving the posterior aspect of left temporal lobe. The lesion is surrounded by moderate perifocal edema (grade II) and exerting significant mass effect in form of effacement of overlying sulci, compression of left aspect of brainstem and mildline shift to the right side of about 5 mm. It displays heterogeneous low signal on T1, iso signal on FLAIR and heterogeneous high signal on T2 with rim of diffusion restriction surrounding the lesion as well as marginal enhancement on post contrast images. MRS revealed inverted Cho/NAA ratio and significant lipid/lactate rise owing to intratumoral necrosis.",
+    "pixel_stats": {
+        "mean": 28.967391967773438,
+        "std": 37.26786157150967,
+        "min": 0,
+        "max": 246
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

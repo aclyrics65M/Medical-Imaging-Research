@@ -1,0 +1,26 @@
+{
+    "filename": "T1C+ - Petroclival meningioma infratentorial , petroclival 016.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 286,
+        "y": 299
+    },
+    "point_normalized": {
+        "x": 0.5733309421193018,
+        "y": 0.5846808316263021
+    },
+    "location": [
+        "infratentorial",
+        "petroclival"
+    ],
+    "location_str": "infratentorial petroclival",
+    "description": "Well-defined extra-axial infratentorial space-occupying lesion, measuring about 4*3.8*2.5 cm, attached to dura in the left petroclival region with obtuse angles at dural margins, extending into the left internal acoustic canal, isointense on T1 and hyperintense on T2 and FLAIR, with avid homogeneous enhancement on post-contrast T1 sequences, and high ADC value indicating high diffusion.\n\nA mass effect is noted on the medial temporal lobe, brainstem, left cerebellar hemisphere and the 4th ventricle, without causing hydrocephalus. Minimal surrounding edema is noted.\n\nSigns of extra-axial mass are noted:\n\ndural-based lesion (dural tail sign)\n\nwiding of adjucent CSF spaces (meniscus sign) and (CSF cleft sign)\n\nvessels pushed inward (displaced vessels)\n\ninward bowing of the gray-white matter junction (white matter bulking sign)\n\nThe previous findings indicate Petroclival meningioma",
+    "pixel_stats": {
+        "mean": 43.65599060058594,
+        "std": 60.972211143599324,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

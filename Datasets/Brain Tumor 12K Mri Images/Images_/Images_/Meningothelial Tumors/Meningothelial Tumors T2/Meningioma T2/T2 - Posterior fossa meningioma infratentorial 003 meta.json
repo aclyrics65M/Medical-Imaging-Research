@@ -1,0 +1,25 @@
+{
+    "filename": "T2 - Posterior fossa meningioma infratentorial 003.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 198,
+        "y": 405
+    },
+    "point_normalized": {
+        "x": 0.3532197848535858,
+        "y": 0.792385785450938
+    },
+    "location": [
+        "infratentorial"
+    ],
+    "location_str": "infratentorial",
+    "description": "MR images show a well defined extra-axial mass at the right infratentorial region, measuring 5.8 cm x 4.6 cm. It has a broad base to the dura. The mass also demonstrates homogeneous contrast enhancement with a prominent dural tail.",
+    "pixel_stats": {
+        "mean": 59.16608428955078,
+        "std": 57.41072898248435,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

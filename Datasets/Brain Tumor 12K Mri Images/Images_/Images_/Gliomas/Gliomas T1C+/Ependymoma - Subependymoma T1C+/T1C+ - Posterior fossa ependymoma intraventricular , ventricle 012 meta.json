@@ -1,0 +1,26 @@
+{
+    "filename": "T1C+ - Posterior fossa ependymoma intraventricular , ventricle 012.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 239,
+        "y": 330
+    },
+    "point_normalized": {
+        "x": 0.4697077802623743,
+        "y": 0.6473985572673352
+    },
+    "location": [
+        "intraventricular",
+        "ventricle"
+    ],
+    "location_str": "intraventricular ventricle",
+    "description": "Large intraventricular mass in the fourth ventricle extending bilaterally into the foramenae of Luschka.\n\nHydrocephalus has developed.",
+    "pixel_stats": {
+        "mean": 48.42548370361328,
+        "std": 79.72473438845903,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

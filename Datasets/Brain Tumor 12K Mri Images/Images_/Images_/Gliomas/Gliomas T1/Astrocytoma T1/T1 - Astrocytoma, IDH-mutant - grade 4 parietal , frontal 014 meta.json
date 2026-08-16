@@ -1,0 +1,26 @@
+{
+    "filename": "T1 - Astrocytoma, IDH-mutant - grade 4 parietal , frontal 014.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 297,
+        "y": 296
+    },
+    "point_normalized": {
+        "x": 0.5808226701854166,
+        "y": 0.5784396936190261
+    },
+    "location": [
+        "parietal",
+        "frontal"
+    ],
+    "location_str": "parietal frontal",
+    "description": "A burr hole is located in the left parietal bone with a tract extending through the middle frontal gyrus to the anterior margin of the tumor. Presumably, this represents a burr hole biopsy tract.\n\nA large intraparenchymal mass with prominent T2/FLAIR mismatch as well as central areas of presumed necrosis with surrounding irregular enhancement is surrounded by peritumoral edema and significant non-enhancing tumor. The mass is centered upon the splenium of the corpus callosum. Foci of increased CBV is present particularly in the enhancing components. ADC values are generally facilitated. No spectroscopy has been performed.\n\nFeatures are almost certainly those of high-grade diffuse adult-type glioma. In this age group, an IDH mutation is likely, even in the setting of necrosis, and the presence of T2/FLAIR mismatch in the non-enhancing components makes an oligodendroglioma unlikely. As such, an astrocytoma, IDH-mutant WHO CNS5 grade 4 is considered most likely.",
+    "pixel_stats": {
+        "mean": 42.494747161865234,
+        "std": 46.446027905239575,
+        "min": 10,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

@@ -1,0 +1,26 @@
+{
+    "filename": "T1C+ - Meningioma posterior fossa , temporal 023.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 325,
+        "y": 302
+    },
+    "point_normalized": {
+        "x": 0.6363801151469377,
+        "y": 0.589900686838408
+    },
+    "location": [
+        "posterior fossa",
+        "temporal"
+    ],
+    "location_str": "posterior fossa temporal",
+    "description": "A very large extra axial tumor is located on the left side, appearing to arise from the tentorium with the largest component extending above and a smaller component and below, into the posterior fossa. Overall it measures 65 x 60x 70mm, is homogeneous in signal intensity and demonstrates vivid contrast enhancement. There is no evidence of necrosis or hemorrhage. A number of prominent vessels are seen coursing over its surface and extending into the tumor itself. It elevates and distorts the temporal lobe, and isolates the temporal horn of the left lateral ventricle. Medially it markedly distorts the mid brain, pushing it towards the right and resulting in 9mm of midline shift. The right lateral ventricle is dilated consistent with obstructive hydrocephalus, and there is prominence of the optic nerve dural sheathes. The mass does not involve the transverse or sigmoid sinuses on the left, and the main outflow of the superior sagittal sinus is towards the right.\n\nConclusion: Very large extra axial mass almost certainly represents a meningioma.",
+    "pixel_stats": {
+        "mean": 20.088890075683594,
+        "std": 30.502691849501996,
+        "min": 0,
+        "max": 230
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

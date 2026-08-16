@@ -1,0 +1,26 @@
+{
+    "filename": "T1 - Angiomatous meningioma anterior cranial fossa , frontal 012.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 207,
+        "y": 105
+    },
+    "point_normalized": {
+        "x": 0.40598012280651186,
+        "y": 0.2056964442920065
+    },
+    "location": [
+        "anterior cranial fossa",
+        "frontal"
+    ],
+    "location_str": "anterior cranial fossa frontal",
+    "description": "A mildly T2 hyperintense, vividly enhancing, extraaxial mass arises from a broad dural base along the anterior wall and floor of right anterior cranial fossa, with mass effect on the right frontal pole and orbital gyri. A small enhancing dural tail extends medially.\n\nNumerous FLAIR hyperintense foci involve the supratentorial white matter, and there is patchy signal abnormality of the brainstem. Appearances are consistent with moderately severe for age microvascular ischemia.\n\nMultiple foci of susceptibility artefact is likely to be secondary to amyloid angiopathy. Ventricles and sulci are within limits for age.\n\nFeatures are those of a meningioma.",
+    "pixel_stats": {
+        "mean": 32.40842819213867,
+        "std": 38.42267581156353,
+        "min": 0,
+        "max": 223
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

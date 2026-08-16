@@ -1,0 +1,25 @@
+{
+    "filename": "T2 - Central neurocytoma ventricle 108.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 273,
+        "y": 215
+    },
+    "point_normalized": {
+        "x": 0.5334354377182368,
+        "y": 0.42024520431483664
+    },
+    "location": [
+        "ventricle"
+    ],
+    "location_str": "ventricle",
+    "description": "Within the body of the left lateral ventricle is a mass with heterogeneous signal on all sequences, and only faint irregular enhancement. The lateral ventricle does not follow CSF signal with signal drop out on gradient echo imaging consistent with blood.",
+    "pixel_stats": {
+        "mean": 46.17184829711914,
+        "std": 54.05110707824783,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

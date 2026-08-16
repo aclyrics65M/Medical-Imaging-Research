@@ -1,0 +1,26 @@
+{
+    "filename": "T2 - Meningioma with peritumoural cyst frontal , ventricle 004.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 334,
+        "y": 245
+    },
+    "point_normalized": {
+        "x": 0.6527205401356203,
+        "y": 0.48021558410187554
+    },
+    "location": [
+        "frontal",
+        "ventricle"
+    ],
+    "location_str": "frontal ventricle",
+    "description": "An enhancing mass located peripherally on the left side significantly distorts the middle and superior frontal gyri extending as far back as the precentral sulcus. The primary motor cortex abuts the posterior aspect of this mass, which appears extra-axial with a broad dural base and reactive dural tail. The mass itself is somewhat hyperintense to cortex on T2 and hypointense to cortex on T1 with homogeneous contrast enhancement and prominent T2 shine through, but only intermediate to restricted diffusion similar to the adjacent brain. No abnormal flow voids are noted within it. MR spectroscopy demonstrates dominant choline peak, reduced creatine and NAA and possibly a small alanine peak (not shown). MR perfusion demonstrates elevation of cerebral blood volume (CBV). A number of perineural cysts, without enhancing margins, and with intervening vessels are noted anteriorly.\n\nThere is very little if any surrounding edema in the adjacent brain, and only a few small regions of high T2 signal within the white matter, consistent with chronic small vessel ischemic change and entirely within normal limits for this age. The left lateral ventricle, although distorted, does not appear obstructed, and no ventriculomegaly is present beyond that expected for a patient of this age and with this degree of cerebral volume loss.\n\nAppearances are those of an extra-axial mass most likely a meningioma, although signal intensity and peritumoural cysts are slightly atypical. Hemangiopericytoma or even rarer other dural masses are thought nonetheless to be unlikely.",
+    "pixel_stats": {
+        "mean": 38.25048828125,
+        "std": 51.10065900887166,
+        "min": 0,
+        "max": 242
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

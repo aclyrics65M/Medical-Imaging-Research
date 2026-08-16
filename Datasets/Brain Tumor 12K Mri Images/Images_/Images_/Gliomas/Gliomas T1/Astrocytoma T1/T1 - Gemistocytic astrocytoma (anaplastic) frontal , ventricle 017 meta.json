@@ -1,0 +1,26 @@
+{
+    "filename": "T1 - Gemistocytic astrocytoma (anaplastic) frontal , ventricle 017.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 198,
+        "y": 332
+    },
+    "point_normalized": {
+        "x": 0.3880056553189609,
+        "y": 0.6495489104205814
+    },
+    "location": [
+        "frontal",
+        "ventricle"
+    ],
+    "location_str": "frontal ventricle",
+    "description": "Large intra-axial ill-marginated right frontal lesion. Heterogeneous enhancement over 3.5 x 4.5cm (axial), corresponding to areas of diffusion restriction and patchy increased CBV. Elevation of choline, NAA depression, myo-inositol elevation and a lactate peak are noted on MRS.  There are patchy internal areas of non-enhancement. Extensive surrounding bright flair signal involving the white matter and cortex. Medially this bright signal extends to the subependymal region of the anterior right lateral ventricle and internal capsule anterior limb. Superiorly it extends into the centrum semiovale at level of middle frontal gyrus. Inferiorly it extends through the right insular into the anterior right temporal lobe.\n\nThere is significant mass effect, with right uncal herniation and midbrain distortion, and 1.1 CM leftward midline shift of the septum pellucidum. There is effacement of the right lateral ventricle, and entrapment of the left lateral ventricle with periventricular bright flair signal is seen.\n\nMildly prominent left retrocerebellar extraaxial CSF space is noted, probably incidental.\n\nConclusion:  The mass is clearly a primary brain tumor, with grade III or IV components. The size and heterogeneity of the lesion with cystic and ill defined FLAIR suppressing areas (separate to the enhancing component) suggesting an underlying non-fibrillary subtype (esp gemistocytic).",
+    "pixel_stats": {
+        "mean": 35.206886291503906,
+        "std": 42.61413300240044,
+        "min": 0,
+        "max": 246
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

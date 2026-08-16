@@ -1,0 +1,26 @@
+{
+    "filename": "T1C+ - Astrocytoma frontal , falx 036.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 238,
+        "y": 132
+    },
+    "point_normalized": {
+        "x": 0.4664396952646378,
+        "y": 0.2596198467546593
+    },
+    "location": [
+        "frontal",
+        "falx"
+    ],
+    "location_str": "frontal falx",
+    "description": "Right frontal lesion has 2 components:a nodular component medially that has herniated beneath the falx to cross midline with multiple small vessels and wispy enhancement, and a crescentic lateral component that demonstrates the T2 FLAIR mismatch sign. There is additional surrounding peritumoural edema. The lesion appears intra-axial and solitary. Local mass effect has compressed the right frontal horn and created a midline shift of 1 cm and has displaced the 2 A2 branches (in close proximity to its left posterior margin)\n\nNo significant diffusion restriction. No calcification on CT. No internal hemorrhage.\n\nConclusion:\n\nSolitary right frontal intra-axial lesion is most likely to represent a glioma. The T2 FLAIR mismatch favors a non 1p19q codeleted IDH mutant diffuse astrocytoma while the more medial nodule of wispy enhancement with internal vascularity is suspicious for a high-grade/anaplastic component.",
+    "pixel_stats": {
+        "mean": 57.1812744140625,
+        "std": 58.626132257580245,
+        "min": 2,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

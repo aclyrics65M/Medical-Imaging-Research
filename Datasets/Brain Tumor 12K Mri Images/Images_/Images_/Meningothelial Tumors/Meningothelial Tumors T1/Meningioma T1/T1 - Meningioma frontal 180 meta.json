@@ -1,0 +1,25 @@
+{
+    "filename": "T1 - Meningioma frontal 180.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 354,
+        "y": 163
+    },
+    "point_normalized": {
+        "x": 0.6919375601084587,
+        "y": 0.318445376713917
+    },
+    "location": [
+        "frontal"
+    ],
+    "location_str": "frontal",
+    "description": "Large left frontal convexity extra-axial heterogeneously enhancing dural based tumor is associated with dural thickening and central 'spoke-wheel' vascularity. There is considerable mass-effect on the underlying brain and in some locations, it is difficult to identify a clear plane between the mass and the brain; this may represent focal brain invasion. The adjacent superior frontal gyrus appears thickened, although this likely due to mass effect rather than a primary gyral abnormality. There is no extension into or through the adjacent bone.\n\nModerately extensive white matter disease, likely of ischemic nature. Old superior right cerebellar infarct.\n\nThe mass most likely represents a meningioma. Far less likely differential diagnoses to consider are dural metastases or a hemangiopericytoma (although the spoke-wheel vascularity and absence of skull destruction make this unlikely).",
+    "pixel_stats": {
+        "mean": 44.348358154296875,
+        "std": 47.85534264140031,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

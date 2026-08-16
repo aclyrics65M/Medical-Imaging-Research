@@ -1,0 +1,26 @@
+{
+    "filename": "T2 - Low-grade astrocytoma frontal , ventricle 007.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 150,
+        "y": 208
+    },
+    "point_normalized": {
+        "x": 0.29649927538233795,
+        "y": 0.4084992737367263
+    },
+    "location": [
+        "frontal",
+        "ventricle"
+    ],
+    "location_str": "frontal ventricle",
+    "description": "MRI shows an ill defined right frontal mass which is heterogeneously low signal at T1 and high signal at long TR images associated with mild compression of frontal horn of the lateral ventricle and also mild effacement of the overlying cortex. There is no obvious contrast enhancement and no gross surrounding edema.",
+    "pixel_stats": {
+        "mean": 47.71336364746094,
+        "std": 51.38081605923486,
+        "min": 0,
+        "max": 251
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

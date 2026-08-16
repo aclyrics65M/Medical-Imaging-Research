@@ -1,0 +1,26 @@
+{
+    "filename": "T1C+ - Pilocytic astrocytoma and hypertrophic olivary degeneration posterior fossa , ventricle 010.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 249,
+        "y": 350
+    },
+    "point_normalized": {
+        "x": 0.4876822477499253,
+        "y": 0.6854921761388905
+    },
+    "location": [
+        "posterior fossa",
+        "ventricle"
+    ],
+    "location_str": "posterior fossa ventricle",
+    "description": "There is a large midline posterior fossa lesion centered on the cerebellar vermis. The lesion is cystic with heterogeneous signal, predominantly high T2 signal and with low T1 signal. Following the administration of contrast, there are nodular areas of enhancement, but there is also thin peripheral enhancement at the margins of the cystic component. No meningeal enhancement demonstrated.\n\nThe lesion is exerting mass effect with effacement of the fourth ventricle and mild to moderate hydrocephalus. No transependymal edema. There is slight inferior displacement of the cerebellar tonsils around the brainstem.\n\nA linear enhancing structure in the right temporal lobe is consistent with a developmental venous anomaly. No other focal lesions.\n\nThe lesion carries a differential, but given the demographics and the cystic appearance a pilocytic astrocytoma is favored. A hemangioblastoma could have similar appearances, but would be expected to have visible flow voids and lack enhancement of the cyst wall.",
+    "pixel_stats": {
+        "mean": 49.634578704833984,
+        "std": 44.62577072024545,
+        "min": 0,
+        "max": 241
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

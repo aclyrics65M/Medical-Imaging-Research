@@ -1,0 +1,26 @@
+{
+    "filename": "T1C+ - Oligodendroglioma (IDH-mt, 1p19q codeleted) frontal , parietal 001.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 291,
+        "y": 267
+    },
+    "point_normalized": {
+        "x": 0.5853979803202348,
+        "y": 0.5227006890724505
+    },
+    "location": [
+        "frontal",
+        "parietal"
+    ],
+    "location_str": "frontal parietal",
+    "description": "In the left posterior part of the superior frontal gyrus, extending medially to involve the anterosuperior part of the paracentral lobule, there is a region of hypoattenuation with the involvement of the overlying cortex and positive mass effect. There is associated low attenuation in the white matter extending into the precentral gyrus (edema/tumor spread). On postcontrast imaging, no abnormal enhancement is demonstrated. The remainder of the brain is unremarkable in appearance. Ventricles are within normal limits in size. No focal osseous lesion. Small subcutaneous nodule is demonstrated beneath the left parietal scalp, most likely representing a sebaceous cyst/epidermal cyst.",
+    "pixel_stats": {
+        "mean": 39.62583923339844,
+        "std": 49.85466988040649,
+        "min": 0,
+        "max": 225
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

@@ -1,0 +1,26 @@
+{
+    "filename": "T2 - Pilocytic astrocytoma posterior fossa , ventricle 054.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 248,
+        "y": 282
+    },
+    "point_normalized": {
+        "x": 0.486048205251057,
+        "y": 0.5539290561360021
+    },
+    "location": [
+        "posterior fossa",
+        "ventricle"
+    ],
+    "location_str": "posterior fossa ventricle",
+    "description": "There is a large midline posterior fossa mass with both solid and cystic components centered in the cerebellum/fourth ventricle with resultant supratentorial hydrocephalus and transependymal seepage. It measures 96x77x60 mm in its longitudinal, AP and transverse dimensions. The solid component shows avid heterogeneous enhancement while the cystic component shows rim enhancement post gadolinium administration. No diffusion restriction or blooming artefacts is seen. There is perilesional edema and associated mass effect evidenced by significant compression and thinning of the brainstem.\n\nA defect is noted in the right occipital bone likely post intervention.\n\nVentriculoperitoneal shunt tip noted in the right lateral ventricle.",
+    "pixel_stats": {
+        "mean": 28.502681732177734,
+        "std": 57.19930025068642,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

@@ -1,0 +1,23 @@
+{
+    "filename": "T2 - Glioblastoma NOS 008.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 255,
+        "y": 249
+    },
+    "point_normalized": {
+        "x": 0.49912054524200317,
+        "y": 0.4877730306591413
+    },
+    "location": [],
+    "location_str": "",
+    "description": "A large heterogenous hemorrhagic mass in the left thalamus is present with marked non-communicating hydrocephalus.",
+    "pixel_stats": {
+        "mean": 40.98447799682617,
+        "std": 58.128203202154985,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

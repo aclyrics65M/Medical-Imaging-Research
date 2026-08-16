@@ -1,0 +1,26 @@
+{
+    "filename": "T1C+ - Medulloblastoma ventricle , posterior fossa 016.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 253,
+        "y": 336
+    },
+    "point_normalized": {
+        "x": 0.4942184177453983,
+        "y": 0.6578836659639116
+    },
+    "location": [
+        "ventricle",
+        "posterior fossa"
+    ],
+    "location_str": "ventricle posterior fossa",
+    "description": "There is a hyperdense mass arising from the roof of the 4th ventricle causing hydrocephalus.  Following contrast, there is a heterogeneous enhancement of this posterior fossa mass.\n\nNo other lesions are seen in the posterior fossa or the cerebral hemispheres.\n\nFeatures are those of a tumor with high cellularity arising from the roof of the fourth ventricle, and medulloblastoma should be highly considered. Cerebellar metastasis, choroid plexus papilloma, ependymoma are  much less likely differentials.",
+    "pixel_stats": {
+        "mean": 21.258136749267578,
+        "std": 29.551873014076673,
+        "min": 1,
+        "max": 209
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

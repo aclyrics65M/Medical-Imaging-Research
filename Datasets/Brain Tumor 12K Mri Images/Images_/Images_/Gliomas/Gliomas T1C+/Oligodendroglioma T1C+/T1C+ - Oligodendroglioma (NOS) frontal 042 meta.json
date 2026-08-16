@@ -1,0 +1,25 @@
+{
+    "filename": "T1C+ - Oligodendroglioma (NOS) frontal 042.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 212,
+        "y": 239
+    },
+    "point_normalized": {
+        "x": 0.4141503353008532,
+        "y": 0.46775033767452334
+    },
+    "location": [
+        "frontal"
+    ],
+    "location_str": "frontal",
+    "description": "Well-defined intra axial lesion of heterogeneous attenuation with internal coarse calcifications located in right anterior frontal lobe in predominantly cortical-subcortical location with perilesional edema.\n\nThe remainder of the brain is unremarkable in appearance. Ventricles are within normal limits in size. No focal osseous lesion.",
+    "pixel_stats": {
+        "mean": 18.380329132080078,
+        "std": 28.206046678029793,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

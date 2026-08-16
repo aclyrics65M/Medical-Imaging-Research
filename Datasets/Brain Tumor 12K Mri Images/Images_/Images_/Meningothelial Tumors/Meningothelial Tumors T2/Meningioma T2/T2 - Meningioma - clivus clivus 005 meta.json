@@ -1,0 +1,25 @@
+{
+    "filename": "T2 - Meningioma - clivus clivus 005.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 256,
+        "y": 266
+    },
+    "point_normalized": {
+        "x": 0.5023912080223182,
+        "y": 0.5218779829827799
+    },
+    "location": [
+        "clivus"
+    ],
+    "location_str": "clivus",
+    "description": "A large mass arises from the surface of the clivus and extends into the left internal acoustic meatus. It is isointense to grey matter on both T1 and T2 sequences and demonstrates vivid contrast enhancement. It displaces the basilar artery and distorts the brain stem and results in moderate hydrocephalus. No bony invasion.",
+    "pixel_stats": {
+        "mean": 43.063350677490234,
+        "std": 52.6401123288334,
+        "min": 0,
+        "max": 252
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

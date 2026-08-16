@@ -1,0 +1,25 @@
+{
+    "filename": "T2 - Oligodendroglioma frontal 116.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 327,
+        "y": 285
+    },
+    "point_normalized": {
+        "x": 0.6396482001446742,
+        "y": 0.5573787069521706
+    },
+    "location": [
+        "frontal"
+    ],
+    "location_str": "frontal",
+    "description": "Left-sided ill-defined high T2 signal left insular lesion involving cortex and subjacent white matter extending up into the periventricular white matter of the posterior left frontal lobe is again demonstrated. Embedded within the lesion are multiple areas of coarse calcification. Some intrinsic high T1 signal is present, along with some vessels, but no convincing parenchymal enhancement. MR spectroscopy (not shown) demonstrates elevation of choline and mild loss of. Cerebral blood volume is not elevated. ADC demonstrates facilitated diffusion.\n\nConclusion: Appearances are characteristic of a diffuse glioma, and the presence of calcification and morphological features strongly suggest that this represents an oligodendroglioma.",
+    "pixel_stats": {
+        "mean": 57.07126235961914,
+        "std": 58.203445486869974,
+        "min": 8,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

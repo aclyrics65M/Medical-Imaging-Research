@@ -1,0 +1,26 @@
+{
+    "filename": "T2 - Meningioma interhemispheric , ventricle 013.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 231,
+        "y": 267
+    },
+    "point_normalized": {
+        "x": 0.45173331277482337,
+        "y": 0.5220595550345892
+    },
+    "location": [
+        "interhemispheric",
+        "ventricle"
+    ],
+    "location_str": "interhemispheric ventricle",
+    "description": "Interhemispheric mass inferiorly displacing and flattening the corpus callosum and entrapping the right lateral ventricle trigone and temporal horn has imaging morphology most consistent with a meningioma arising from the free edge of the falx.",
+    "pixel_stats": {
+        "mean": 35.64038848876953,
+        "std": 44.15303922769571,
+        "min": 0,
+        "max": 239
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

@@ -1,0 +1,25 @@
+{
+    "filename": "T1 - Oligodendroglioma frontal 175.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 249,
+        "y": 161
+    },
+    "point_normalized": {
+        "x": 0.48524086291742674,
+        "y": 0.3184567214608803
+    },
+    "location": [
+        "frontal"
+    ],
+    "location_str": "frontal",
+    "description": "There is a large right frontal mass with little to no contrast enhancement. There is mild surrounding edema. There are multiple cysts within the mass. There is extension of abnormal signal across the anterior corpus callosum into the left frontal lobe. There is mass effect in this region resulting in a moderate leftward shift of the septum pellucidum.",
+    "pixel_stats": {
+        "mean": 36.87017059326172,
+        "std": 46.08263212489651,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

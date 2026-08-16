@@ -1,0 +1,25 @@
+{
+    "filename": "T2 - Ganglioglioma occipital 001.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 230,
+        "y": 381
+    },
+    "point_normalized": {
+        "x": 0.4461217622411981,
+        "y": 0.7463205424781236
+    },
+    "location": [
+        "occipital"
+    ],
+    "location_str": "occipital",
+    "description": "MRI of the brain demonstrates a well circumscribed mass appearing to be located within the cortex (in a sulcus) of the right occipital lobe. It slightly hypointense to adjacent grey matter, hyperintense on T2 weighted images and demonstrates homogeneous contrast enhancement with only as small amount of surrounding edema.",
+    "pixel_stats": {
+        "mean": 46.490692138671875,
+        "std": 50.236725654293906,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

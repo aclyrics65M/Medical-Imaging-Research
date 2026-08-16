@@ -1,0 +1,25 @@
+{
+    "filename": "T2 - Ganglioglioma temporal 059.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 358,
+        "y": 170
+    },
+    "point_normalized": {
+        "x": 0.7001077726028001,
+        "y": 0.33396309561292903
+    },
+    "location": [
+        "temporal"
+    ],
+    "location_str": "temporal",
+    "description": "In the medial left anterior temporal lobe is an area of abnormality characterized by T2 hyperintense cortical and subcortical expansion with an internal cystic focus and a few tiny cystic foci towards the periphery of the lesion. This lesion contains susceptibility artefact compatible with blood product or calcification. Post contrast sequences demonstrate minor enhancement. No diffusion restriction. MRS demonstrates minimal choline elevation with no NAA depression or lactate peak on spectroscopy. No cerebral blood volume (CBV) increase.\n\nThe remainder of the brain demonstrates abnormal T2 signal with no diffusion restriction or susceptibility artefact. The hippocampal formations are normal and symmetric in size, signal and architecture.\n\nConclusion: T2 hyperintense expansile lesion in the medial left anterior temporal pole containing cystic areas and foci of susceptibility artefact. This is likely to be a low-grade glial tumor such as a ganglioglioma or a DNET.",
+    "pixel_stats": {
+        "mean": 57.42335891723633,
+        "std": 60.34379014866608,
+        "min": 15,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

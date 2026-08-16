@@ -1,0 +1,26 @@
+{
+    "filename": "T1C+ - Pilocytic astrocytoma posterior fossa , frontal 007.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 234,
+        "y": 374
+    },
+    "point_normalized": {
+        "x": 0.45826948277029644,
+        "y": 0.7307285084117666
+    },
+    "location": [
+        "posterior fossa",
+        "frontal"
+    ],
+    "location_str": "posterior fossa frontal",
+    "description": "Posterior fossa cystic mass with mural nodule.\n\nVP shunt inserted via right frontal approach, its tip in the foramen of Monro.",
+    "pixel_stats": {
+        "mean": 39.381805419921875,
+        "std": 48.37505393246075,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

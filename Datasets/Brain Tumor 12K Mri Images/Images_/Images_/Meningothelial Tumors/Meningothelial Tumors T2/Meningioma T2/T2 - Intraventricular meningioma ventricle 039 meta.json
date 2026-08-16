@@ -1,0 +1,25 @@
+{
+    "filename": "T2 - Intraventricular meningioma ventricle 039.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 313,
+        "y": 310
+    },
+    "point_normalized": {
+        "x": 0.6135035201627819,
+        "y": 0.6076084779717926
+    },
+    "location": [
+        "ventricle"
+    ],
+    "location_str": "ventricle",
+    "description": "Solid and homogeneously enhancing mass within the left lateral ventricle trigone involving the choroid plexus but also with a broad ependymal contact surface. Angiogram circle of Willis is normal.",
+    "pixel_stats": {
+        "mean": 54.89365768432617,
+        "std": 56.074307885331734,
+        "min": 8,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

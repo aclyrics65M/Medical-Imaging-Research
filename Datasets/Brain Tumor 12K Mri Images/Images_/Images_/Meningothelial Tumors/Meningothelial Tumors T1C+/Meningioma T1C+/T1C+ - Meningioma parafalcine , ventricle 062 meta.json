@@ -1,0 +1,26 @@
+{
+    "filename": "T1C+ - Meningioma parafalcine , ventricle 062.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 324,
+        "y": 354
+    },
+    "point_normalized": {
+        "x": 0.6347460726480694,
+        "y": 0.6928226685398049
+    },
+    "location": [
+        "parafalcine",
+        "ventricle"
+    ],
+    "location_str": "parafalcine ventricle",
+    "description": "A large, well-defined left parafalcine dural-based frontoparietal convexity extra-axial mass with a wide dural tail and CSF cleft, causes a mass effect on the underlying brain tissue, resulting in the effacement of cortical sulci and ipsilateral lateral ventricle with a midline shift of about 5 mm, measuring about 7.4 x 5 x 4.7 cm in the AP, TS, and CC dimensions, respectively.\n\nIt shows hypo-intense T1, heterogenous T2 signal, and mild diffusion restriction, with solid internal postcontrast enhancement.\n\nNo evidence of bone destruction. No acute infarction.\n\nMultiple bilateral T2/FLAIR hyperintensities were seen involving the periventricular and subcortical white matter without diffusion restriction or mass effect suggesting mild small vessel disease.\n\nOld lacunar infarction is noted in the right frontal lobe.\n\nCapacious CSF spaces and basal cisterns compatible with the patient's age.",
+    "pixel_stats": {
+        "mean": 44.85499954223633,
+        "std": 53.15748975587825,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

@@ -1,0 +1,25 @@
+{
+    "filename": "T1 - Meningioma frontal 260.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 158,
+        "y": 234
+    },
+    "point_normalized": {
+        "x": 0.3112056578721523,
+        "y": 0.4591545912016426
+    },
+    "location": [
+        "frontal"
+    ],
+    "location_str": "frontal",
+    "description": "There is a right frontal well-defined lobulated extra-axial large vividly-enhancing mass lesion with a broad-based dural tail, and radiating dural-based vessels giving a sunburst appearance, it is causing a mass effect upon adjacent brain parenchyma, resulting in about 0.3 cm shifting of midline structures to the contralateral side, associated with subtle underlying calvarial hyperostosis without restricted diffusion, hemorrhagic or calcified components.\n\nNo significant peri-tumoural edematous changes.",
+    "pixel_stats": {
+        "mean": 26.82666015625,
+        "std": 43.31594863252204,
+        "min": 0,
+        "max": 252
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

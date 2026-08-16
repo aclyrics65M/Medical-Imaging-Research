@@ -1,0 +1,26 @@
+{
+    "filename": "T1 - Schwannoma of the hypoglossal nerve posterior fossa , brainstem 003.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 248,
+        "y": 335
+    },
+    "point_normalized": {
+        "x": 0.4824071408004607,
+        "y": 0.6551262124293148
+    },
+    "location": [
+        "posterior fossa",
+        "brainstem"
+    ],
+    "location_str": "posterior fossa brainstem",
+    "description": "A hypodense well-circumscribed lesion inferiorly within the posterior fossa on the right elevates the cerebellar hemisphere and displaces the brainstem towards the left. A small focus of calcification is present that may be related to the mass or belong to normal choroid plexus. No hydrocephalus.",
+    "pixel_stats": {
+        "mean": 36.4732551574707,
+        "std": 50.83916125811127,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

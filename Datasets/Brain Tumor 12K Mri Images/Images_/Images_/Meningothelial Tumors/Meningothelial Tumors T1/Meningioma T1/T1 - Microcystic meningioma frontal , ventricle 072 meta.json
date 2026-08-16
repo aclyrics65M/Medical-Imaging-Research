@@ -1,0 +1,26 @@
+{
+    "filename": "T1 - Microcystic meningioma frontal , ventricle 072.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 311,
+        "y": 178
+    },
+    "point_normalized": {
+        "x": 0.6383997814960272,
+        "y": 0.3510127542881398
+    },
+    "location": [
+        "frontal",
+        "ventricle"
+    ],
+    "location_str": "frontal ventricle",
+    "description": "No radiographic sign of an acute infarct.\n\nThe arteries of the neck (not shown) and head are patent, with no stenosis.\n\nLeft frontal hypodense non-enhancing (necrotic? cystic?) extra-axial mass measuring 3.7 x 5.3 x 3.9 cm (TRV x AP x CC), with rim enhancement. Perifocal vasogenic edema. Mass effect expressed as extensive sulcal effacement, deformation of the left ventricle, and minimal subfalcine herniation.\n\nLeft occipital nodule lateral to the occipital horn of the left ventricle, with focus of calcification - cavernoma most probably.",
+    "pixel_stats": {
+        "mean": 62.73480224609375,
+        "std": 52.96571311512206,
+        "min": 0,
+        "max": 219
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

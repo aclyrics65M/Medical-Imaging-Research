@@ -1,0 +1,23 @@
+{
+    "filename": "T2 - Meningioma 107.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 322,
+        "y": 214
+    },
+    "point_normalized": {
+        "x": 0.6510329481834316,
+        "y": 0.41993757122880415
+    },
+    "location": [],
+    "location_str": "",
+    "description": "A well defined, extra-axial lesion in the left frontoparietal region with iso-signal intensity comparing to gray matter in T1 weighted images and in T2 weighted images.\n\nPost-contrast avid enhancement is noted and evident dural tail sign.\n\nCSF fluid noted surrounding the lesion, a CSF cleft sign.\n\nPeripheral mild edema is noted.",
+    "pixel_stats": {
+        "mean": 36.34407424926758,
+        "std": 52.382437186058574,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

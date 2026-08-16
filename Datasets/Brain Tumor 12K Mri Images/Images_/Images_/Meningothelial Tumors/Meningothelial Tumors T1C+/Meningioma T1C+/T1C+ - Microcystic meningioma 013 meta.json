@@ -1,0 +1,23 @@
+{
+    "filename": "T1C+ - Microcystic meningioma 013.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 381,
+        "y": 376
+    },
+    "point_normalized": {
+        "x": 0.7474950050699799,
+        "y": 0.7363120267183502
+    },
+    "location": [],
+    "location_str": "",
+    "description": "There is a left frontoparietal abnormality with areas of calcification and possible fluid level, measuring approximately 2 cm. This is predominantly surrounded by encephalomalacic changes, with probable minimal parenchymal edema. No abnormal enhancement was detected. There is no convincing evidence of recurrence or residue of a high grade neoplasm at this region, and the appearance is more compatible with chronic post-interventional (surgical +/- radiotherapy) changes.\n\nIn addition, there is a large left parietotemporal hypoattenuating abnormality, approximately measuring 5 cm, which appears extra-axial. This lesion contains some heterogeneous internal densities with minor enhancement of these foci. There is minimal mass effect with less than 3 mm subfalcine herniation.",
+    "pixel_stats": {
+        "mean": 62.519065856933594,
+        "std": 66.10303854339352,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

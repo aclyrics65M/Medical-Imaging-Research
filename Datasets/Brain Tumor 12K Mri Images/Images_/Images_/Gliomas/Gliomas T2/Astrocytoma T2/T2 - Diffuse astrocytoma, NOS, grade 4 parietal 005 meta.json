@@ -1,0 +1,25 @@
+{
+    "filename": "T2 - Diffuse astrocytoma, NOS, grade 4 parietal 005.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 359,
+        "y": 347
+    },
+    "point_normalized": {
+        "x": 0.7017418151016683,
+        "y": 0.6797503285488588
+    },
+    "location": [
+        "parietal"
+    ],
+    "location_str": "parietal",
+    "description": "Fairly well-defined left parietal intra-axial cortical and subcortical space-occupying lesion.\n\nit elicits heterogeneous, relatively high T2/FLAIR signal intensity (demonstrating T2/FLAIR mismatch). It shows marginal post-contrast enhancement with a central area of diffusion restriction\n\nsurrounding perilesional vasogenic edema, eliciting high T2/FLAIR signal intensity\n\nit induces mass effect in the form of effacement of the related cortical sulci\n\nFew bilateral cerebral subcortical and deep periventricular white matter foci of high T2/FLAIR signal intensity, with no associated edema or mass effect.\n\nVariable degrees of pansinusitis.\n\nMRS examination applied to the aforementioned lesion showed:\n\nelevated choline (Cho) peak\n\nreduced N-acetylaspartate (NAA) peak\n\nelevated lipid/lactate peaks",
+    "pixel_stats": {
+        "mean": 22.761756896972656,
+        "std": 39.524122225046106,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

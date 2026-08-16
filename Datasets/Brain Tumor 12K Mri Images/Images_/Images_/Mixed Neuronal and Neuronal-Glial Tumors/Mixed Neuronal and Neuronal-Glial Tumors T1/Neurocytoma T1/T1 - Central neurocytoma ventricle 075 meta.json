@@ -1,0 +1,25 @@
+{
+    "filename": "T1 - Central neurocytoma ventricle 075.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 230,
+        "y": 258
+    },
+    "point_normalized": {
+        "x": 0.45173331277482337,
+        "y": 0.5063602640837678
+    },
+    "location": [
+        "ventricle"
+    ],
+    "location_str": "ventricle",
+    "description": "A large mass located in the body of the right lateral ventricle, sending a tongue of tumor to the third ventricle through the right foramen of Monro. It is lobulated with numerous cystic areas. The mass is of similar signal to white matter on T1 and T2 weighted sequences with restricted diffusion and speckled regions of susceptibility induced signal drop out. Following administration of contrast the mass only demonstrates faint heterogeneous enhancement.",
+    "pixel_stats": {
+        "mean": 45.38838195800781,
+        "std": 55.2025213155067,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

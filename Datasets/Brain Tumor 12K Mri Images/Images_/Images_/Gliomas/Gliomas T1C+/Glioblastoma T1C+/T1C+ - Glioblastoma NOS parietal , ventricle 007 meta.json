@@ -1,0 +1,26 @@
+{
+    "filename": "T1C+ - Glioblastoma NOS parietal , ventricle 007.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 314,
+        "y": 333
+    },
+    "point_normalized": {
+        "x": 0.6151375626616502,
+        "y": 0.6511829529194497
+    },
+    "location": [
+        "parietal",
+        "ventricle"
+    ],
+    "location_str": "parietal ventricle",
+    "description": "MRI of the brain demonstrates a large heterogeneously enhancing tumor in the left parietal lobe extending down towards the ventricle. It has a non-enhancing central fluid signal component suggesting central necrosis. There is surrounding edema with mass effect.",
+    "pixel_stats": {
+        "mean": 50.647884368896484,
+        "std": 55.26959988909317,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

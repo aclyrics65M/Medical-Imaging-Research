@@ -1,0 +1,23 @@
+{
+    "filename": "T2 - Oligodendroglioma 011.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 241,
+        "y": 158
+    },
+    "point_normalized": {
+        "x": 0.4713418227612426,
+        "y": 0.3119092067184439
+    },
+    "location": [],
+    "location_str": "",
+    "description": "A T2/FLAIR hyperintense lesion involving the anterior portion of the right cingulate gyrus. Particularly inferiorly, this involves and expands the overlying cortex. ADC values are elevated to 1400 × 10-6 mm2/s. No enhancement. No calcification. MR perfusion demonstrates a modest increase in cerebral blood volume. MR spectroscopy demonstrates an elevated choline peak without NAA depression.\n\nTiny scattered foci of T2/FLAIR white matter hyperintensity, more than expected for age, but do not have the typical distribution of multiple sclerosis. The ventricular size and sulcal pattern are appropriate for the patient's age. Parenchymal volumes are preserved.\n\nRight anterior cingulate gyrus signal abnormality is most compatible with glioma. There is a mild increase in cerebral blood volume without other features of higher grade. Nonetheless, this could indicate a higher grade tumor or alternatively an oligodendroglioma.",
+    "pixel_stats": {
+        "mean": 48.73257827758789,
+        "std": 53.2430785766278,
+        "min": 10,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

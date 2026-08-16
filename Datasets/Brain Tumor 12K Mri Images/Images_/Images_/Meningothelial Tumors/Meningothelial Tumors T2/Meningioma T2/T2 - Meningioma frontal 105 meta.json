@@ -1,0 +1,25 @@
+{
+    "filename": "T2 - Meningioma frontal 105.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 166,
+        "y": 210
+    },
+    "point_normalized": {
+        "x": 0.32591204036196675,
+        "y": 0.41064962065659505
+    },
+    "location": [
+        "frontal"
+    ],
+    "location_str": "frontal",
+    "description": "Right frontal extra axial mass with low intermediate T1, low T2 signal, avid enhancement after contrast administration with typical dural tail sign.",
+    "pixel_stats": {
+        "mean": 42.46109390258789,
+        "std": 64.49309234288891,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

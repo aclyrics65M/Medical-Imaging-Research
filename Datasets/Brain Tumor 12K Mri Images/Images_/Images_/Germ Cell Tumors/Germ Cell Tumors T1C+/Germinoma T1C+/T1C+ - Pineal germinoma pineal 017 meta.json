@@ -1,0 +1,25 @@
+{
+    "filename": "T1C+ - Pineal germinoma pineal 017.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 259,
+        "y": 326
+    },
+    "point_normalized": {
+        "x": 0.5072907577363445,
+        "y": 0.6389106045907379
+    },
+    "location": [
+        "pineal"
+    ],
+    "location_str": "pineal",
+    "description": "There is a large pineal region mass with moderate enhancement with compression of the tectum resulting in obstructive hydrocephalus.\nOn SWAN imaging the pineal calcification is confirmed to be placed centrally. On T2 the pineal mass is hyperintense. Diffusion-weighted imaging (DWI) shows restriction with low apparent diffusion coefficient (ADC) values.",
+    "pixel_stats": {
+        "mean": 28.616683959960938,
+        "std": 38.97601171755148,
+        "min": 0,
+        "max": 244
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

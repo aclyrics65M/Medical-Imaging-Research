@@ -1,0 +1,25 @@
+{
+    "filename": "T1C+ - Cerebellopontine angle meningioma clivus 003.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 278,
+        "y": 301
+    },
+    "point_normalized": {
+        "x": 0.5448737352103147,
+        "y": 0.6029449247085571
+    },
+    "location": [
+        "clivus"
+    ],
+    "location_str": "clivus",
+    "description": "Left cerebellopontine angel extra-axial dural-based space occupying lesion is noted overlying the left internal auditory canal opening (porus acusticus). It indents and compresses the left aspect of the pons, left middle cerebellar peduncle and left CPA neuronal structures (VII and VIII nerve roots).\n\nIt shows minimal extension through the left internal auditory canal. The lesion shows homogeneous low signal on T1, mild hyperintensity on T2, bright signal on FLAIR, no diffusion restriction on DWI, and avid homogeneous enhancement after contrast administration.\n\nIt shows large dural tail extending to the clivus to reach the contralateral cerebellopontine angel that could be augmented by the effect of gamma knife radiation therapy.",
+    "pixel_stats": {
+        "mean": 46.3048095703125,
+        "std": 54.53553825926628,
+        "min": 0,
+        "max": 249
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

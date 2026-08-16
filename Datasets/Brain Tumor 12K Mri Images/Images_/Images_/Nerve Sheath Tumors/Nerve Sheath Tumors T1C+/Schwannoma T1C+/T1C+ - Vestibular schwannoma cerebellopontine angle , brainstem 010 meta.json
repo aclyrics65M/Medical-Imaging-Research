@@ -1,0 +1,26 @@
+{
+    "filename": "T1C+ - Vestibular schwannoma cerebellopontine angle , brainstem 010.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 217,
+        "y": 311
+    },
+    "point_normalized": {
+        "x": 0.42395459029406285,
+        "y": 0.6078808266994405
+    },
+    "location": [
+        "cerebellopontine angle",
+        "brainstem"
+    ],
+    "location_str": "cerebellopontine angle brainstem",
+    "description": "Extraaxial lesion (52 x 47 x 50mm) is seen in the right cerebellopontine angle. The lesion is extending into the right internal auditory canal and jugular foramen. Lesion appears hypointense on T1 and heterogeneously hyperintense on T2 & FLAIR sequence and shows intense heterogeneous enhancement on post contrast study.\n\nLesion causes significant compression over right lateral aspect of brainstem and 4th ventricle with its distortions and resultant upstream obstructive hydrocephalus. Lesion also causes mass effect in the form of cerebellar tonsillar herniation into the foramen magna.",
+    "pixel_stats": {
+        "mean": 39.770023345947266,
+        "std": 50.896348917384856,
+        "min": 2,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

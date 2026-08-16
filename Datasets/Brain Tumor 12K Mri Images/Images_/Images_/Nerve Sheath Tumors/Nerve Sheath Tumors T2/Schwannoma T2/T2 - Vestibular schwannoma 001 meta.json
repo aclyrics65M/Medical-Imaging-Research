@@ -1,0 +1,23 @@
+{
+    "filename": "T2 - Vestibular schwannoma 001.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 278,
+        "y": 306
+    },
+    "point_normalized": {
+        "x": 0.5432396927114463,
+        "y": 0.598076571706231
+    },
+    "location": [],
+    "location_str": "",
+    "description": "There is an extra-axial expansive mass in the left cerebelopontine angle, with oval shape, well-defined, heterogeneous, hypointense in T1, hyperintense in T2 and FLAIR, foci of hemosiderine are well noted with great enhancement in contrast phase. It exerts mass effect displacing bulb, midbrain and left cerebellar lobe to the right side, spreading through the ipsilateral pontocerebellar cistern and the internal acoustic meatus with involvement of the VII cranial nerve.",
+    "pixel_stats": {
+        "mean": 59.872459411621094,
+        "std": 60.654658719586635,
+        "min": 5,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

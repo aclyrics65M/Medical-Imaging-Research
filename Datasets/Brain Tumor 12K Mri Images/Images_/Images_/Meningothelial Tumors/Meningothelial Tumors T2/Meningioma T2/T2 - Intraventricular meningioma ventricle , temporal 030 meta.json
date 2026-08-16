@@ -1,0 +1,26 @@
+{
+    "filename": "T2 - Intraventricular meningioma ventricle , temporal 030.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 306,
+        "y": 302
+    },
+    "point_normalized": {
+        "x": 0.5987971376729675,
+        "y": 0.5898779911111041
+    },
+    "location": [
+        "ventricle",
+        "temporal"
+    ],
+    "location_str": "ventricle temporal",
+    "description": "Centered within the trigone of the left lateral ventricle is a large rounded mass, which vividly and homogeneously enhances. It is surrounded by a high T2 signal within the white matter of the temporal and parietal lobes, consistent with vasogenic edema. The mass is intraventricular and isointense to grey matter on T1 and T2-weighted sequences and demonstrates moderate diffusion restriction and elevated cerebral blood volume of blood flow on perfusion.\n\nIn the floor of the left middle cranial fossa is an extra-axial well-circumscribed vividly enhancing mass with similar signal intensity, associated with minor hyperostosis, characteristic of a meningioma. The remainder of the brain is unremarkable in appearance.\n\nLeft trigonal intraventricular lesion almost certainly represents an intraventricular meningioma. Second smaller middle cranial fossa meningioma in the middle cranial fossa.",
+    "pixel_stats": {
+        "mean": 29.112857818603516,
+        "std": 39.32067873840636,
+        "min": 0,
+        "max": 251
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

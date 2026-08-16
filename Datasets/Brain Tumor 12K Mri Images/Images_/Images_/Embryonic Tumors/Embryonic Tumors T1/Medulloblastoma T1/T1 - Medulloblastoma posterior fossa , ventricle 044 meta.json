@@ -1,0 +1,26 @@
+{
+    "filename": "T1 - Medulloblastoma posterior fossa , ventricle 044.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 213,
+        "y": 318
+    },
+    "point_normalized": {
+        "x": 0.4174184202985898,
+        "y": 0.6219574136649796
+    },
+    "location": [
+        "posterior fossa",
+        "ventricle"
+    ],
+    "location_str": "posterior fossa ventricle",
+    "description": "Well-defined rounded hyperdense lesion is seen at the right aspect of the posterior fossa with surrounding hypodense rim of cerebellar edema. It exerts mass effect compressing the cerebellum and 4th ventricle with moderate supratentorial hydrocephalus and crowding at the foramen magnum.",
+    "pixel_stats": {
+        "mean": 41.459598541259766,
+        "std": 29.735347704752375,
+        "min": 25,
+        "max": 209
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

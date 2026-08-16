@@ -1,0 +1,25 @@
+{
+    "filename": "T2 - Medulloblastoma ventricle 025.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 255,
+        "y": 329
+    },
+    "point_normalized": {
+        "x": 0.49901387519041823,
+        "y": 0.6427971278990317
+    },
+    "location": [
+        "ventricle"
+    ],
+    "location_str": "ventricle",
+    "description": "Centered on the posterior wall of the fourth ventricle is a T2 FLAIR hyperintense, minimal enhancing lesion causing localized mass effect with nearly complete effacement of the fourth ventricle. The lateral and third ventricles are, however, normal in caliber, with no evidence of hydrocephalus. The lesion demonstrates low ADC values (~600 x 10^-6 mm^2/s) indicating high cellularity. No abnormal susceptibility.\n\nMultiple punctate white matter lesions which are T2 FLAIR hyperintense and T1 hypointense are scattered throughout both cerebral hemispheres.\n\nMinimally enhancing lesion centered on the fourth ventricle with low ADC values is favored to represent a medulloblastoma.",
+    "pixel_stats": {
+        "mean": 39.086334228515625,
+        "std": 50.04751907905983,
+        "min": 0,
+        "max": 248
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

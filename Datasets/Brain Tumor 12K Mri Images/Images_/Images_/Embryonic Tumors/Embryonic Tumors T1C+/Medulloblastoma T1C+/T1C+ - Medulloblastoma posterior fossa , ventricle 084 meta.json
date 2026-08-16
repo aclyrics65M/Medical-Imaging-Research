@@ -1,0 +1,26 @@
+{
+    "filename": "T1C+ - Medulloblastoma posterior fossa , ventricle 084.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 307,
+        "y": 343
+    },
+    "point_normalized": {
+        "x": 0.6020652226707041,
+        "y": 0.6732254970669715
+    },
+    "location": [
+        "posterior fossa",
+        "ventricle"
+    ],
+    "location_str": "posterior fossa ventricle",
+    "description": "Posterior fossa intra-axial lesion involving the majority of the left cerebellar hemisphere is irregular shape, with lobulated, well-circumscribed margins. It has heterogeneous signal intensity, slightly hypointense on T1 and hyperintense on T2/FLAIR. The solid components demonstrate prominent diffusion restriction (ADC values lower than adjacent normal cerebellum and corresponding high DWI signal) and intense enhancement.\n\nThe mass exerts significant mass effect, compressing the fourth ventricle and upward herniation of the superior parts of the cerebellum on the left, distorting the midbrain.\n\nA right frontal ventricular shunt has been placed to alleviate hydrocephalus.\n\nThe lesion most likely represents a medulloblastoma, in this age group most commonly of the SHH molecular subtype.",
+    "pixel_stats": {
+        "mean": 54.94620132446289,
+        "std": 61.15612232433994,
+        "min": 6,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

@@ -1,0 +1,23 @@
+{
+    "filename": "T2 - Medulloblastoma 036.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 224,
+        "y": 347
+    },
+    "point_normalized": {
+        "x": 0.43176622987312224,
+        "y": 0.6799318943672907
+    },
+    "location": [],
+    "location_str": "",
+    "description": "Right cerebellar hemisphere intra-axial mass showing heterogenous signal intensity on T2WI, restricted diffusion and heterogeneous enhancement on post-contrast T1WI.\n\nAssociated vasogenic edema.\n\nMass effect displaces pons anteriorly effacing the prepontine cistern and the cerebellar tonsils inferiorly through the foramen magnum.",
+    "pixel_stats": {
+        "mean": 44.13827133178711,
+        "std": 48.93048525131034,
+        "min": 0,
+        "max": 217
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

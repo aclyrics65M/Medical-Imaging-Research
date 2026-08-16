@@ -1,0 +1,23 @@
+{
+    "filename": "T1C+ - Ganglioglioma 017.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 317,
+        "y": 348
+    },
+    "point_normalized": {
+        "x": 0.620039690158255,
+        "y": 0.6797503285488588
+    },
+    "location": [],
+    "location_str": "",
+    "description": "Right distal ICA aneurysm noted, dimensions 10.5 x 9.5 x 10.1 mm.\n\nThere is a focal lesion in the anteromedial aspect of the left occipitotemporal region.The lesion is peripherally located and appears to involve cortex and subcortical white matter. A rounded T2 hyperintense component measures 11.3 x 10 .8 mm in axial dimensions and enhances post administration of contrast. There is a small 3 mm nodule anterior to this. Small amount of surrounding vasogenic edema. No susceptibility artifact or restricted diffusion.\n\nThe left medial occipitotemporal lesion is favored to represent a low grade neoplastic lesion, differential diagnoses include DNET, ganglioglioma and low grade glial tumor (pilocytic astrocytoma, PXA).",
+    "pixel_stats": {
+        "mean": 51.46748733520508,
+        "std": 53.510296727167,
+        "min": 0,
+        "max": 250
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

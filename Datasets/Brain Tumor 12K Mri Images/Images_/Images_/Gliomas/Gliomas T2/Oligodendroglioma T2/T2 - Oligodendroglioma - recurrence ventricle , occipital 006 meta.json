@@ -1,0 +1,26 @@
+{
+    "filename": "T2 - Oligodendroglioma - recurrence ventricle , occipital 006.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 328,
+        "y": 258
+    },
+    "point_normalized": {
+        "x": 0.6412822426435425,
+        "y": 0.5039148602421921
+    },
+    "location": [
+        "ventricle",
+        "occipital"
+    ],
+    "location_str": "ventricle occipital",
+    "description": "Evidence of prior craniotomy is present on the left side.\n\nLarge heterogeneous intra-axial mass measuring about 40 x 55 x 65 mm involving the left frontotemporal lobes grey and white matter that show a few internal cystic changes and punctate foci of enhancement.\n\nThere is a marked mass effect associated with vasogenic edematous changes, effacement of the left lateral ventricle occipital horn, uncal herniation, and midline shift to the right side measuring about 7 mm.\n\nThe mentioned mass shows water restriction on DWI images.\n\nFew high signal foci in T2 and flair sequences at subcortical and periventricular white matter of both cerebral hemispheres depict microvascular ischemic events.",
+    "pixel_stats": {
+        "mean": 31.58960723876953,
+        "std": 44.08596194979038,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

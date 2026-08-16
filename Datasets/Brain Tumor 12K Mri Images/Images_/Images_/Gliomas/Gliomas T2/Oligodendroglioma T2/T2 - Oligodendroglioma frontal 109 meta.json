@@ -1,0 +1,25 @@
+{
+    "filename": "T2 - Oligodendroglioma frontal 109.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 245,
+        "y": 142
+    },
+    "point_normalized": {
+        "x": 0.47737668680112577,
+        "y": 0.27922835674107854
+    },
+    "location": [
+        "frontal"
+    ],
+    "location_str": "frontal",
+    "description": "Large expansile FLAIR hyperintense minimally centrally enhancing tumor in the medial aspect of the right frontal lobe centered in the anterior of the cingulate gyrus, involving the genu of the corpus callosum and extending across the midline to involve the medial aspect of the left frontal lobe. The tumor also extends more anteriorly and inferiorly in the frontal lobe to involve the straight gyrus and also inferolaterally along the base of the brain. There are regions of elevated CBV within the tumor. Spectroscopy demonstrates increased choline with reduced NAA but no large lactate peak.\n\nMultiple regions of susceptibility artefact and hypointense on phase imaging within the tumor likely represent calcifications. Midline shift anteriorly measures up to 10 mm displacement of the anterior cerebral arteries to the left\n\nLarge right frontal tumor with subtle central enhancement compatible with infiltrative glioma. Elevated CBV within the tumor may be due to oligodendroglial histology of the tumor rather than indicating a higher grade.",
+    "pixel_stats": {
+        "mean": 45.46193313598633,
+        "std": 50.76507254826744,
+        "min": 0,
+        "max": 253
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

@@ -1,0 +1,25 @@
+{
+    "filename": "T1 - Pineal germinoma pineal 001.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 251,
+        "y": 283
+    },
+    "point_normalized": {
+        "x": 0.4909503327476618,
+        "y": 0.554592867201035
+    },
+    "location": [
+        "pineal"
+    ],
+    "location_str": "pineal",
+    "description": "Hydrocephalus. Pineal region mass, coarse calcification of the tumor, mild enhancement.\n\nDifferential: A germ cell tumor (both germinoma and non-germinoma germ cell tumor, the latter particularly in view of coarse calcification) is favored over a pineal parenchymal tumor (e.g. pineoctyoma or pineal parenchymal tumor with intermediate differentiation),",
+    "pixel_stats": {
+        "mean": 33.64723205566406,
+        "std": 45.16540525058767,
+        "min": 0,
+        "max": 199
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

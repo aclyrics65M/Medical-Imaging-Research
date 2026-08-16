@@ -1,0 +1,23 @@
+{
+    "filename": "Intraventricular ganglioglioma 002.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 252,
+        "y": 222
+    },
+    "point_normalized": {
+        "x": 0.4942184177453983,
+        "y": 0.43639713476073355
+    },
+    "location": [],
+    "location_str": "",
+    "description": "A cystic lesion is demonstrated near the foramen of Monro, which is T1 hypointense and T2/FLAIR hyperintense, without significant enhancement nor diffusion restriction.",
+    "pixel_stats": {
+        "mean": 48.011104583740234,
+        "std": 52.77498684587253,
+        "min": 0,
+        "max": 254
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

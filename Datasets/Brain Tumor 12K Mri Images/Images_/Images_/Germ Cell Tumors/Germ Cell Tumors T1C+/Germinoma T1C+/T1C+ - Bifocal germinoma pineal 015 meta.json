@@ -1,0 +1,25 @@
+{
+    "filename": "T1C+ - Bifocal germinoma pineal 015.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 256,
+        "y": 325
+    },
+    "point_normalized": {
+        "x": 0.5007545877408714,
+        "y": 0.6358127468978475
+    },
+    "location": [
+        "pineal"
+    ],
+    "location_str": "pineal",
+    "description": "There is a heterogeneous enhancing mass centered within the pineal gland. There is a surrounding T2/FLAIR hyperintense signal indicative of edema within the thalamus extending into the midbrain. There is effacement of the upper cerebral aqueduct. However, there is no significant ventricular dilatation or transependymal T2/FLAIR signal to indicate acute obstructive hydrocephalus.\n\nThere is also an enhancing mass along the pituitary infundibulum. Edema is noted at the prechiasmatic optic nerves, optic chiasm, and proximal optic tracts.",
+    "pixel_stats": {
+        "mean": 30.794036865234375,
+        "std": 38.413874398469304,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

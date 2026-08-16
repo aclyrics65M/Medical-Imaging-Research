@@ -1,0 +1,25 @@
+{
+    "filename": "T1 - Pineal germinoma pineal 011.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 253,
+        "y": 296
+    },
+    "point_normalized": {
+        "x": 0.4958524602442666,
+        "y": 0.5800737361178944
+    },
+    "location": [
+        "pineal"
+    ],
+    "location_str": "pineal",
+    "description": "A well-circumscribed lobulated lesion with cystic areas occupies the pineal region, compressing the tectum anteriorly with obstruction of the aqueduct of Sylvius. The mass displays hyperintense signal in non-contrast T1 WI, hyperintense signal on T2 and FLAIR images with central area of calcification - returns low signal in all pulse sequences (engulfed pineal gland). It also exhibits strong homogenous enhancement after IV contrast. VP shunt is well placed.",
+    "pixel_stats": {
+        "mean": 39.09475326538086,
+        "std": 47.58012456285292,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

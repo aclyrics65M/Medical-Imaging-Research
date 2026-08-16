@@ -1,0 +1,26 @@
+{
+    "filename": "T1 - Meningioma (dual component) middle cranial fossa , frontal 009.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 331,
+        "y": 207
+    },
+    "point_normalized": {
+        "x": 0.6478184126390155,
+        "y": 0.4050496291539352
+    },
+    "location": [
+        "middle cranial fossa",
+        "frontal"
+    ],
+    "location_str": "middle cranial fossa frontal",
+    "description": "A very large lobulated extra-axial mass centered in the left middle cranial fossa has a broad dural base of attachment from the greater wing of sphenoid, floor of middle cranial fossa, and the orbital plate of the left frontal bone, with prominent hyperostosis particularly at the level of the greater wing of sphenoid. At its most medial aspect the mass abuts the anterior clinoid process in close proximity to the optic nerve. No cavernous sinus invasion or involvement of the orbital apex. The mass has components of different signal characteristics. The central portion of the tumor is T2 bright and low T1 signal with vivid and homogeneous enhancement. More peripherally there are loculated components that are T2 isointense to cortex, mildly T1 hyperintense and demonstrate diffusion restriction in addition to vivid contrast enhancement. Associated left frontotemporal vasogenic edema is noted.\n\nSevere mass effect grossly indents the frontal and temporal lobes with 12 mm of rightward shift measured at foramina of Munro. There is left uncal herniation and prominent mid brain distortion. Cerebellar tonsils are normally positioned.\n\nA second separate lesion bulges right and left from the mid-portion of the falx. This measures 2.6 x 1.8 x 1.5 cm and indents the paramedian frontal lobes bilaterally. There is enhancing dural thickening extending anteriorly and posteriorly from the main lesion along the falx.\n\nMildly dilated right lateral ventricle.\n\nThe large left sided mass arising from greater wing of sphenoid, orbital roof and squamous temporal bone and a smaller parafalcine mass have morphological characteristics consistent with meningioma.\n\nThere is severe mass effect with midline shift, uncal herniation, and suprasellar cistern effacement.",
+    "pixel_stats": {
+        "mean": 42.81180191040039,
+        "std": 44.48897699913441,
+        "min": 0,
+        "max": 244
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

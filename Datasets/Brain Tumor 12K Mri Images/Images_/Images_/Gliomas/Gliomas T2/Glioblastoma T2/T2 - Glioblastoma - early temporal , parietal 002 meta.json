@@ -1,0 +1,26 @@
+{
+    "filename": "T2 - Glioblastoma - early temporal , parietal 002.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 371,
+        "y": 309
+    },
+    "point_normalized": {
+        "x": 0.7278864950835606,
+        "y": 0.6042836567724849
+    },
+    "location": [
+        "temporal",
+        "parietal"
+    ],
+    "location_str": "temporal parietal",
+    "description": "Swelling of cortical and subcortical area of left temporal lobe with T2/FLAIR changes.\n\nMild restricted diffusion in this area.\n\nAlso mild swelling and hyperintensity within left pulvinar of the thalamus and left parietal lobe.",
+    "pixel_stats": {
+        "mean": 46.10358428955078,
+        "std": 50.03950188533708,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

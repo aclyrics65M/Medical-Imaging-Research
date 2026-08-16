@@ -1,0 +1,26 @@
+{
+    "filename": "T2 - Ependymoma posterior fossa , ventricle 026.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 253,
+        "y": 307
+    },
+    "point_normalized": {
+        "x": 0.49549012428164163,
+        "y": 0.600034014294082
+    },
+    "location": [
+        "posterior fossa",
+        "ventricle"
+    ],
+    "location_str": "posterior fossa ventricle",
+    "description": "MRI demonstrates a posterior fossa mass centered on the 4th ventricle and extending out of the foramen of Luschka on the left. The mass is heterogeneously high signal on T2 and has moderate contrast enhancement.",
+    "pixel_stats": {
+        "mean": 20.180999755859375,
+        "std": 43.854838025592755,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

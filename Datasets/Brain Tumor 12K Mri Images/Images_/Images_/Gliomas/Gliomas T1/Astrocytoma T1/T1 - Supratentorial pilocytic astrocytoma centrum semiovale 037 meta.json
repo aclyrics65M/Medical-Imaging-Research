@@ -1,0 +1,25 @@
+{
+    "filename": "T1 - Supratentorial pilocytic astrocytoma centrum semiovale 037.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 294,
+        "y": 258
+    },
+    "point_normalized": {
+        "x": 0.5759205426888118,
+        "y": 0.504907781169954
+    },
+    "location": [
+        "centrum semiovale"
+    ],
+    "location_str": "centrum semiovale",
+    "description": "Large part-cystic, part-solid mass centered around the posterior limb of the internal capsule and extending into the centrum semiovale. Avid post-contrast enhancement.",
+    "pixel_stats": {
+        "mean": 34.55917739868164,
+        "std": 47.47135704093004,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

@@ -1,0 +1,25 @@
+{
+    "filename": "T2 - Diffuse astrocytoma NOS temporal 003.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 216,
+        "y": 276
+    },
+    "point_normalized": {
+        "x": 0.42232054779519457,
+        "y": 0.5392226736461877
+    },
+    "location": [
+        "temporal"
+    ],
+    "location_str": "temporal",
+    "description": "Diffuse enlargement and abnormal signal alteration of both thalami, caudate nuclei, insular regions and medial temporal cortices bilaterally. They display iso intense signal in T1 and bright signal in T2/FLAIR without diffusion restriction or post contrast enhancement.\n\nDiagnosis: Grade II astrocytoma (pathologically proven)",
+    "pixel_stats": {
+        "mean": 55.99333190917969,
+        "std": 69.09472176185803,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

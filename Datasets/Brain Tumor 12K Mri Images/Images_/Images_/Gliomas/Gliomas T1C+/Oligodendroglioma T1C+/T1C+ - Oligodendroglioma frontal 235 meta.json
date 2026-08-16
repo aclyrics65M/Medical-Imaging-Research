@@ -1,0 +1,25 @@
+{
+    "filename": "T1C+ - Oligodendroglioma frontal 235.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 200,
+        "y": 192
+    },
+    "point_normalized": {
+        "x": 0.38215183632333916,
+        "y": 0.3755177069309273
+    },
+    "location": [
+        "frontal"
+    ],
+    "location_str": "frontal",
+    "description": "Right frontal ill-defined hypodense mass with ribbon-like calcification, minimal post-contrast enhancement and surrounding cerebral edema. Associated subfalcine herniation, midline shift and contralateral entrapment hydrocephalus.",
+    "pixel_stats": {
+        "mean": 46.60148620605469,
+        "std": 38.74196970079156,
+        "min": 0,
+        "max": 204
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

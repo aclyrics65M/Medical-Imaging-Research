@@ -1,0 +1,25 @@
+{
+    "filename": "T1C+ - Glioblastoma basal ganglia 004.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 316,
+        "y": 222
+    },
+    "point_normalized": {
+        "x": 0.6485865849316242,
+        "y": 0.4367886282650057
+    },
+    "location": [
+        "basal ganglia"
+    ],
+    "location_str": "basal ganglia",
+    "description": "A left-sided basal ganglia lesion with abundant surrounding edema is present exerting substantial localized mass effect.",
+    "pixel_stats": {
+        "mean": 54.90330505371094,
+        "std": 51.12289733952064,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

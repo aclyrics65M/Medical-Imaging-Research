@@ -1,0 +1,25 @@
+{
+    "filename": "T1 - Anaplastic astrocytoma - thalamic glioma posterior fossa 002.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 218,
+        "y": 215
+    },
+    "point_normalized": {
+        "x": 0.42722267529179936,
+        "y": 0.42157161372767243
+    },
+    "location": [
+        "posterior fossa"
+    ],
+    "location_str": "posterior fossa",
+    "description": "The right thalamus demonstrates high T2 signal with expansion, with extension of abnormal signal into the medial aspect of the left thalamus along the thalamic adhesion, and antrosuperiorly into the superior part of caudate and anterior lentiform nucleus across the anterior limb of the internal capsule. These areas demonstrate elevated cerebral blood volume, areas of a reduced ADC values (particularly the medial aspect of the thalami: 670 x 10-6 mm^2/s) and a spectroscopic trace consisting of elevated choline and reduced NAA. No calcification evidence of hemorrhage. This is an isolated abnormality other than and a small focal region of high T2 signal in the postcentral gyrus on the left which is nonspecific and almost certainly unrelated. Anterior caudate main courses through the area of signal abnormality on the right. No other abnormal flow voids noted elsewhere. Posterior fossa is unremarkable. MR venography demonstrates patency of the internal cerebral veins and dural venous sinuses.\n\nConclusion: The features are almost certainly those of a diffuse glioma, possibly a diffuse midline glioma H3 K27MX96 mutant. Enhancement, high cellularity is indicated by low ADC values, and MRS and CBV all support this to be a high-grade tumor (at least WHO grade III).",
+    "pixel_stats": {
+        "mean": 40.131591796875,
+        "std": 47.6620405281294,
+        "min": 5,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

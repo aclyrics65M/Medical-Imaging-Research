@@ -1,0 +1,25 @@
+{
+    "filename": "Parinaud syndrome - pineal germinoma pineal 002.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 253,
+        "y": 291
+    },
+    "point_normalized": {
+        "x": 0.4958524602442666,
+        "y": 0.568453879040762
+    },
+    "location": [
+        "pineal"
+    ],
+    "location_str": "pineal",
+    "description": "Lobulated isointense T1/T2 signal enhancing pineal region mass with perilesional thalamic and midbrain edema. Small non-enhancing cystic focus on the right. Dorsal midbrain mass effect with effacement of the cerebral aqueduct results in mild hydrocephalus with periventricular high FLAIR signal representing transependymal edema.",
+    "pixel_stats": {
+        "mean": 39.2149658203125,
+        "std": 46.46189378270956,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

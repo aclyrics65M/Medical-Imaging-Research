@@ -1,0 +1,23 @@
+{
+    "filename": "T1 - Pilocytic astrocytoma of the third ventricle 001.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 243,
+        "y": 243
+    },
+    "point_normalized": {
+        "x": 0.4762439502578474,
+        "y": 0.4755120270773927
+    },
+    "location": [],
+    "location_str": "",
+    "description": "An irregularly enhancing mass centered below the foramina of Munro. No calcification.",
+    "pixel_stats": {
+        "mean": 29.472309112548828,
+        "std": 41.16587393779474,
+        "min": 0,
+        "max": 238
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

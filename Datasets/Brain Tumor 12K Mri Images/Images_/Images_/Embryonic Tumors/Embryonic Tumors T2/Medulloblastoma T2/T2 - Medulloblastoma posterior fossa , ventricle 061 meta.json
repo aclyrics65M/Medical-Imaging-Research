@@ -1,0 +1,26 @@
+{
+    "filename": "T2 - Medulloblastoma posterior fossa , ventricle 061.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 252,
+        "y": 300
+    },
+    "point_normalized": {
+        "x": 0.4931477112090655,
+        "y": 0.5880623890271812
+    },
+    "location": [
+        "posterior fossa",
+        "ventricle"
+    ],
+    "location_str": "posterior fossa ventricle",
+    "description": "Present study reveals altered signal intensity lesion measuring approx.\n37 x 45 x 48 mm (AP X TD X CC) in posterior fossa, filling, distending fourth ventricle. Vermis is not well visualized separately. Lesion is splaying, possibly infiltrating brainstem anteriorly, splaying bilateral middle cerebellar peduncles, cerebellar hemispheres and extending into left foramina of Luschka.\n\nLesion shows diffusion restriction, areas of central necrosis, foci of hemorrhage and heterogeneous enhancement on post contrast study.\n\nProminent cystic component is seen at posterior aspect of the lesion.\n\nMultiple microhemorrhages are seen in bilateral cerebral parenchyma.\n\nMineralization of bilateral globi palladi is seen.",
+    "pixel_stats": {
+        "mean": 42.24687194824219,
+        "std": 56.126252546883116,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

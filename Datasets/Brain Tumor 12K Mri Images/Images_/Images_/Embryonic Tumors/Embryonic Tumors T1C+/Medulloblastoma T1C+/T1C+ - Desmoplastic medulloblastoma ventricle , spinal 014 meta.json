@@ -1,0 +1,26 @@
+{
+    "filename": "T1C+ - Desmoplastic medulloblastoma ventricle , spinal 014.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 199,
+        "y": 331
+    },
+    "point_normalized": {
+        "x": 0.3896396978178292,
+        "y": 0.6477332896365263
+    },
+    "location": [
+        "ventricle",
+        "spinal"
+    ],
+    "location_str": "ventricle spinal",
+    "description": "There is a solid right cerebellar mass with small cystic components that suppress on FLAIR, showing predominantly a low signal on T1 and high signal on T2, diffusion restriction and slight foci of enhancement. It causes a prominent mass effect distorting and compressing the 4th ventricle with associated obstructive hydrocephalus. Cerebellar tonsils are low-lying, displaced inferiorly below the foramen magnum.\n\nSpinal cord is unremarkable in appearance.",
+    "pixel_stats": {
+        "mean": 37.937889099121094,
+        "std": 47.80612035179684,
+        "min": 8,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

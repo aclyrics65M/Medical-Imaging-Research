@@ -1,0 +1,25 @@
+{
+    "filename": "T1C+ - Medulloblastoma posterior fossa 010.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 276,
+        "y": 358
+    },
+    "point_normalized": {
+        "x": 0.5399716077137099,
+        "y": 0.7028255064718915
+    },
+    "location": [
+        "posterior fossa"
+    ],
+    "location_str": "posterior fossa",
+    "description": "Enhancing posterior fossa mass noted in the midline.",
+    "pixel_stats": {
+        "mean": 53.40711975097656,
+        "std": 45.884337700977966,
+        "min": 0,
+        "max": 243
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

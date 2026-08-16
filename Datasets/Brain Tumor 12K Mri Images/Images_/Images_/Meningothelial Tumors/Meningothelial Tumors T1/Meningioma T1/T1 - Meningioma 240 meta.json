@@ -1,0 +1,23 @@
+{
+    "filename": "T1 - Meningioma 240.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 297,
+        "y": 342
+    },
+    "point_normalized": {
+        "x": 0.5808226701854166,
+        "y": 0.6693333076185736
+    },
+    "location": [],
+    "location_str": "",
+    "description": "The mass looks hyperdense to normal brain on native study with no calcification, brightly and homogeneously enhance post contrast adminstration.",
+    "pixel_stats": {
+        "mean": 43.8182487487793,
+        "std": 50.8542664463168,
+        "min": 2,
+        "max": 195
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

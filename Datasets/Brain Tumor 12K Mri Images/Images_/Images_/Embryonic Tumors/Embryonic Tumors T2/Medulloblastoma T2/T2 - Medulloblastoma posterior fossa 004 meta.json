@@ -1,0 +1,25 @@
+{
+    "filename": "T2 - Medulloblastoma posterior fossa 004.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 271,
+        "y": 369
+    },
+    "point_normalized": {
+        "x": 0.5318013952193685,
+        "y": 0.7234893334943706
+    },
+    "location": [
+        "posterior fossa"
+    ],
+    "location_str": "posterior fossa",
+    "description": "There is a large posterior fossa hyperdense midline lesion. No calcification or hemorrhage. Marked hydrocephalus is evident with transependymal edema.",
+    "pixel_stats": {
+        "mean": 37.40052032470703,
+        "std": 43.404660410173975,
+        "min": 0,
+        "max": 250
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

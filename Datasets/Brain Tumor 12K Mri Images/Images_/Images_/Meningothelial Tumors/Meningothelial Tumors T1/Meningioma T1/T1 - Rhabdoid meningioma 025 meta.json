@@ -1,0 +1,23 @@
+{
+    "filename": "T1 - Rhabdoid meningioma 025.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 315,
+        "y": 253
+    },
+    "point_normalized": {
+        "x": 0.6167716051605184,
+        "y": 0.4951262219040485
+    },
+    "location": [],
+    "location_str": "",
+    "description": "Overlying the left frontoparietal region there is a large extra-axial lesion that is slightly hypointense relative to grey matter on T1 and iso to hyperintense to grey matter on T2. There is mass effect with compression of the underlying sulci and a small contralateral midline shift. The lesion demonstrates moderate but slightly heterogeneous contrast enhancement. There is also dural enhancement and dural tail. Minimal subjacent white matter T2 hyperintensity but no significant vasogenic edema. Medially the mass abuts the superior sagittal sinus which is not occluded or overtly invaded. Several prominent flow voids are noted within the mass. No invasion of the overlying bone and no significant hyperostosis. Incidental left middle cerebellar peduncle developmental venous anomaly. Nonspecific high T2 signal foci are noted in the white matter. The midline structures are unremarkable.",
+    "pixel_stats": {
+        "mean": 40.27592086791992,
+        "std": 31.91532575288373,
+        "min": 10,
+        "max": 160
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

@@ -1,0 +1,25 @@
+{
+    "filename": "T2 - Ependymoma ventricle 024.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 241,
+        "y": 354
+    },
+    "point_normalized": {
+        "x": 0.4729758652601109,
+        "y": 0.6932992538796791
+    },
+    "location": [
+        "ventricle"
+    ],
+    "location_str": "ventricle",
+    "description": "A hyperdense mass is seen in the fourth ventricle, obstructing the ventricle and causing hydrocephalus.",
+    "pixel_stats": {
+        "mean": 47.2823371887207,
+        "std": 51.896575793373344,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

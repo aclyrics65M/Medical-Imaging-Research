@@ -1,0 +1,23 @@
+{
+    "filename": "T1C+ - Medulloblastoma 003.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 310,
+        "y": 340
+    },
+    "point_normalized": {
+        "x": 0.6069673501673089,
+        "y": 0.6642552929103959
+    },
+    "location": [],
+    "location_str": "",
+    "description": "Left cerebellar hemisphere mass, very heterogeneous with cystic areas and only minimal enhancement of the solid component, has strikingly low ADC values (measured at 450 x 10-6 mm2/s) consistent with a highly cellular tumor. Medulloblastoma is by far the most likely diagnosis.",
+    "pixel_stats": {
+        "mean": 35.09540557861328,
+        "std": 52.86655720814598,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

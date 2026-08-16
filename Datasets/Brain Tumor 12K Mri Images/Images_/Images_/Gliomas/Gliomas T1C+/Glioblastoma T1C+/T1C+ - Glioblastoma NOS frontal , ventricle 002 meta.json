@@ -1,0 +1,26 @@
+{
+    "filename": "T1C+ - Glioblastoma NOS frontal , ventricle 002.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 210,
+        "y": 165
+    },
+    "point_normalized": {
+        "x": 0.4108822503031167,
+        "y": 0.3225475000815326
+    },
+    "location": [
+        "frontal",
+        "ventricle"
+    ],
+    "location_str": "frontal ventricle",
+    "description": "There is a large intracranial mass lesion centered on the right frontal lobe measuring approximately 45 mm in maximum diameter with a large amount of surrounding vasogenic edema. The lesion leads to a mass effect with effacement of the frontal horn of the right lateral ventricle and is approximately 13 mm of right-to-left subfalcine herniation and midline shift. No other parenchymal lesions. No acute intra orextra-axial hemorrhage.",
+    "pixel_stats": {
+        "mean": 29.284160614013672,
+        "std": 43.25145492274974,
+        "min": 0,
+        "max": 241
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

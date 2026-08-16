@@ -1,0 +1,26 @@
+{
+    "filename": "T1 - Glioblastoma NOS supratentorial , temporal 004.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 301,
+        "y": 261
+    },
+    "point_normalized": {
+        "x": 0.6060844982998103,
+        "y": 0.5112623915803726
+    },
+    "location": [
+        "supratentorial",
+        "temporal"
+    ],
+    "location_str": "supratentorial temporal",
+    "description": "There is an ill-defined expansile supratentorial mass measuring approx. 3.7 x 3.6 cm in the left temporal region appearing hypointense on T1W image, intermediate to high signal with few hypointense signals within on FLAIR and T2W images.\n\nOn post-contrast T1W image, there are multiple confluent irregular ring-enhancing lesions of various sizes involving region involving left periventricular white matter, left lentiform nucleus and left thalamus with peri-lesional edema. DWI shows restriction. There is mass effect as evidenced by the effacement of left lateral ventricle.",
+    "pixel_stats": {
+        "mean": 43.17731857299805,
+        "std": 48.23769544736403,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

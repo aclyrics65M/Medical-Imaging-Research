@@ -1,0 +1,25 @@
+{
+    "filename": "T1 - Oligodendroglioma NOS frontal 007.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 195,
+        "y": 172
+    },
+    "point_normalized": {
+        "x": 0.38146948532348784,
+        "y": 0.3365730356857368
+    },
+    "location": [
+        "frontal"
+    ],
+    "location_str": "frontal",
+    "description": "There is an ill-defined hypoattenuating intra-axial lesion in the anterior aspect right middle frontal gyrus involving cortex and extending into the subcortical and deep white matter of the right frontal lobe. This contains a 9 mm cystic focus and an ill-defined area of hyperattenuation suggestive of calcification.\n\nThere is no enhancement following contrast administration.\n\nThere is local mass effect: gyral expansion and right frontal lobe sulcal effacement. No midline shift.\n\nBrain parenchyma is otherwise unremarkable.\n\nNo evidence of intracranial injury. No skull fracture.\n\nNo abnormal enhancement elsewhere in the brain.\n\nFluid with gas locules in the left maxillary sinus. The remaining visualized paranasal sinuses and mastoid air cells are well-aerated. No bone lesion is demonstrated.\n\nConclusion: Right frontal intra-axial lesion most probably represents glial series tumor. Calcification, cystic component, and involvement of cortex suggest an oligodendroglial component. Further investigation with MRI should be performed. Findings discussed with the referring ED physician at the time of dictation.",
+    "pixel_stats": {
+        "mean": 31.405223846435547,
+        "std": 42.44629306340502,
+        "min": 0,
+        "max": 237
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

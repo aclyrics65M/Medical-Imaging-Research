@@ -1,0 +1,26 @@
+{
+    "filename": "T2 - Glioblastoma NOS (extending into ventricle) ventricle , posterior fossa 011.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 292,
+        "y": 243
+    },
+    "point_normalized": {
+        "x": 0.5726524576910752,
+        "y": 0.47710334025365536
+    },
+    "location": [
+        "ventricle",
+        "posterior fossa"
+    ],
+    "location_str": "ventricle posterior fossa",
+    "description": "MRI with contrast demonstrates a large heterogeneous mass arising from the left thalamus and growing exophytically into the lateral ventricle. It is associated with dilatation of both lateral ventricles, in keeping with obstruction of their outflow at the foramen of Munro. Areas of the mass are intrinsically high signal on T1 weighted imaging and show signal drop-out on T2 weighted sequences, suggestive of hemorrhage, and on DWI the mass is quite high signal (low on ADC map - not shown), consistent with a degree of restricted diffusion, suggesting high cellularity. Following contrast administration, the mass heterogeneously enhances.\n\nIn the posterior fossa, particularly on the ventral surface of the brainstem, there is leptomeningeal enhancement, likely representing CSF seeding.",
+    "pixel_stats": {
+        "mean": 41.70282745361328,
+        "std": 57.44877909480351,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

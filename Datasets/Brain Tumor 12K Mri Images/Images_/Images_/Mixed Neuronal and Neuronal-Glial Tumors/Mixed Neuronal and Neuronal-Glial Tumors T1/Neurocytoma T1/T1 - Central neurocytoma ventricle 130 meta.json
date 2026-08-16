@@ -1,0 +1,25 @@
+{
+    "filename": "T1 - Central neurocytoma ventricle 130.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 250,
+        "y": 262
+    },
+    "point_normalized": {
+        "x": 0.48931629024879353,
+        "y": 0.5128964340792409
+    },
+    "location": [
+        "ventricle"
+    ],
+    "location_str": "ventricle",
+    "description": "There is a large cystic/solid heterogeneously enhancing mass centered within the body of the right lateral ventricle, without evidence for intralesional hemorrhage or mineralization. Diffusion-weighted sequences demonstrate low diffusivity within the solid portions of the lesion, compatible with hypercellularity.\n\nThere is evidence of extrusion into the third ventricle via the right foramen of Monro and probable entrapment of the right lateral ventricle which appears to be asymmetrically dilated when compared to the left. There is minimal displacement of the septum pellucidum to the left. There is no evidence to suggest transependymal flow of CSF.",
+    "pixel_stats": {
+        "mean": 22.031227111816406,
+        "std": 38.85265050729737,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

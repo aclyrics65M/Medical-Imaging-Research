@@ -1,0 +1,23 @@
+{
+    "filename": "T1C+ - Meningioma 164.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 176,
+        "y": 199
+    },
+    "point_normalized": {
+        "x": 0.3438865078495177,
+        "y": 0.3903432466641208
+    },
+    "location": [],
+    "location_str": "",
+    "description": "A large extra-axial vividly enhancing mass is present, with a dural tail. Typical features of a meningioma.",
+    "pixel_stats": {
+        "mean": 46.60264587402344,
+        "std": 58.4345738949804,
+        "min": 1,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

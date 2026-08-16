@@ -1,0 +1,26 @@
+{
+    "filename": "T1C+ - Atypical meningioma frontal , ventricle 030.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 325,
+        "y": 220
+    },
+    "point_normalized": {
+        "x": 0.6380141576458059,
+        "y": 0.431375868720882
+    },
+    "location": [
+        "frontal",
+        "ventricle"
+    ],
+    "location_str": "frontal ventricle",
+    "description": "A large left frontal extra axial space occupying lesion compressing the left frontal lobe causing cortical buckling with CSF cleft in between (CSF cleft sign). The lesion exerts positive mass effect in form of rightward subfalcine herniation and early left uncal herniation. There is associated rightward midline shift with contralateral dilatation of the lateral ventricle and CSF permeation. The lesion is surrounded by grade II edema. It displays iso signal on T1, bright signal on T2 and FLAIR with restricted diffusion on DWI reflecting packed cellularity. Moreover there is strong enhancement after contrast administration with typical dural tail sign.",
+    "pixel_stats": {
+        "mean": 19.91263198852539,
+        "std": 29.977737941237176,
+        "min": 0,
+        "max": 166
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

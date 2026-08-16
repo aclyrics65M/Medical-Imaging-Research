@@ -1,0 +1,23 @@
+{
+    "filename": "T2 - Meningioma - volcano sign 012.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 369,
+        "y": 234
+    },
+    "point_normalized": {
+        "x": 0.7213503250880876,
+        "y": 0.4575205487027743
+    },
+    "location": [],
+    "location_str": "",
+    "description": "There is a large extra-axial solid tumor within the left frontotemporal region compressing the adjacent brain parenchyma, which shows a small rim of edema and causing an 8 mm rightward midline shift and mild left uncal herniation. It has a heterogeneous signal intensity that is predominantly low on both T1 and T2 weighted images, showing vivid and intense contrast enhancement. The lesion is durally broad-based with signs of associated bone hyperostosis.\n\nA posterosuperior lobulated extra-axial tumor, although showing a different signal pattern and less vivid enhancement, is felt part of the same process.\n\nThere is a 10mm right postcentral gyrus cavernous malformations is noted.\n\nConclusion: features are those of two, probably connected, left-sided meningiomas.",
+    "pixel_stats": {
+        "mean": 51.01634216308594,
+        "std": 57.24423228666332,
+        "min": 10,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

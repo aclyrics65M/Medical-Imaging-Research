@@ -1,0 +1,26 @@
+{
+    "filename": "T1 - Medulloblastoma infratentorial , posterior fossa 001.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 186,
+        "y": 368
+    },
+    "point_normalized": {
+        "x": 0.3634950178359369,
+        "y": 0.7206013910205654
+    },
+    "location": [
+        "infratentorial",
+        "posterior fossa"
+    ],
+    "location_str": "infratentorial posterior fossa",
+    "description": "MRI with contrast shows:\n\ninfratentorial dural-based well-defined space occupying lesion in the right cerebellar hemisphere, it is heterogeneous on all sequences (it has solid and cystic components)\n\nThe solid component is hypointense on T1, and slightly hyperintense on T2 and FLAIR , and avidly enhancing on T1C+\n\nthe cystic components are of intensity similar to CSF on all sequences\n\nthe lesion is surrounded by vasogenic edema and exerts mass effects on the posterior fossa structures, it is compressing the right cerebellar hemisphere and the 4th ventricle and slightly pushing the right cerebellar tonsil downward , and displacing the cerebral peduncles and the cerebral aqueduct to the left\n\nmultifocal areas of hyperintensity are noted on T2 and FLAIR in the subcortical white matter, mainly represent age related changes\n\nminimal periventricular transependymal edema was noted, no hydrocephalus",
+    "pixel_stats": {
+        "mean": 44.37351989746094,
+        "std": 52.85227843981521,
+        "min": 8,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

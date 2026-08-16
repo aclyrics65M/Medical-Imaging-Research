@@ -1,0 +1,26 @@
+{
+    "filename": "T1 - Medulloblastoma posterior fossa , ventricle 010.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 272,
+        "y": 344
+    },
+    "point_normalized": {
+        "x": 0.5373242787520316,
+        "y": 0.6745474842238204
+    },
+    "location": [
+        "posterior fossa",
+        "ventricle"
+    ],
+    "location_str": "posterior fossa ventricle",
+    "description": "5.4 cm mixed solid/cystic mass within the posterior fossa, obstructing the 4th ventricle with resultant hydrocephalus. Descent of tonsils through the foramen magnum.",
+    "pixel_stats": {
+        "mean": 21.252925872802734,
+        "std": 23.449701353327296,
+        "min": 0,
+        "max": 163
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

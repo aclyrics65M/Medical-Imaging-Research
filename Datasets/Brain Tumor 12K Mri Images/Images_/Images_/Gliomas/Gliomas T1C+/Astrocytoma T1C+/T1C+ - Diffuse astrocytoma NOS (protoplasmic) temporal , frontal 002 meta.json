@@ -1,0 +1,26 @@
+{
+    "filename": "T1C+ - Diffuse astrocytoma NOS (protoplasmic) temporal , frontal 002.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 325,
+        "y": 214
+    },
+    "point_normalized": {
+        "x": 0.6380141576458059,
+        "y": 0.41996026695610816
+    },
+    "location": [
+        "temporal",
+        "frontal"
+    ],
+    "location_str": "temporal frontal",
+    "description": "A large mass located in the anterior temporal lobe, insular cortex and extending into the inferior frontal lobe is demonstrated. Parts of the mass, which is mostly high T2 signal, attenuate on FLAIR.  A single region of contrast enhancement is present. At the margins of the 'cystic' area is a rim of relative restricted diffusion.",
+    "pixel_stats": {
+        "mean": 52.86688995361328,
+        "std": 49.18618191992131,
+        "min": 1,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

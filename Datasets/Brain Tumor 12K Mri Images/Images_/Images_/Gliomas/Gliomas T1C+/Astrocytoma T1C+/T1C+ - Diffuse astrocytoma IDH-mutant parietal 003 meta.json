@@ -1,0 +1,25 @@
+{
+    "filename": "T1C+ - Diffuse astrocytoma IDH-mutant parietal 003.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 202,
+        "y": 283
+    },
+    "point_normalized": {
+        "x": 0.394541825314434,
+        "y": 0.5528056456846527
+    },
+    "location": [
+        "parietal"
+    ],
+    "location_str": "parietal",
+    "description": "A large region of low attenuation with mass effect and no enhancement involves primarily the right parietal lobe, including the cortex. No calcification.",
+    "pixel_stats": {
+        "mean": 52.13117980957031,
+        "std": 40.981563004283586,
+        "min": 23,
+        "max": 248
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

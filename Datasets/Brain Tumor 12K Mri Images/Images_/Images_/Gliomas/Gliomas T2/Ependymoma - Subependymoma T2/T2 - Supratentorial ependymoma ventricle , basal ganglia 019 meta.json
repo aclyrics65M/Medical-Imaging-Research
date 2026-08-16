@@ -1,0 +1,26 @@
+{
+    "filename": "T2 - Supratentorial ependymoma ventricle , basal ganglia 019.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 218,
+        "y": 317
+    },
+    "point_normalized": {
+        "x": 0.4137448497017771,
+        "y": 0.6215545754137441
+    },
+    "location": [
+        "ventricle",
+        "basal ganglia"
+    ],
+    "location_str": "ventricle basal ganglia",
+    "description": "Large lesion measuring approx. 61 x 55 x 62mm (AP x TD x CC) is seen in right frontoparietal lobes and reaching upto body of right lateral ventricle. It is compressing surrounding brain parenchyma, right basal ganglia, thalamus, right lateral, 3 rd ventricles and corpus callosum with midline shift of approx. 13mm towards left side. Mild descending transtentorial herniation is also seen. Left lateral ventricle is mildly dilated with periventricular seepage.\n\nLesion shows areas of diffusion restriction, calcification at posterior aspects, necrosis / cystic change and heterogeneous enhancement on post contrast study.\n\nPossible peritumoral cyst, measuring approx. 19 x 32 x 21mm is seen at posterior aspect of the lesion.\n\nBrainstem is mildly deviated to left side. It is otherwise unremarkable.\n\nTiny suprasellar lesion, measuring approx. 6.5 x 5.6 x 4.4mm is seen in suprasellar region, possibly involving right lateral aspects of optic chiasma. This is possibly possibly a synchronous lesion or a metastasis.",
+    "pixel_stats": {
+        "mean": 43.86652755737305,
+        "std": 58.03643624241247,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

@@ -1,0 +1,26 @@
+{
+    "filename": "T2 - Acoustic schwannoma cerebellopontine angle , trigeminal 024.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 199,
+        "y": 303
+    },
+    "point_normalized": {
+        "x": 0.3896396978178292,
+        "y": 0.5925333164051424
+    },
+    "location": [
+        "cerebellopontine angle",
+        "trigeminal"
+    ],
+    "location_str": "cerebellopontine angle trigeminal",
+    "description": "Within the right cerebellopontine angle, there is a lobulated mass which is of intermediate to high T2 signal, demonstrates vivid but somewhat heterogeneous contrast enhancement and facilitated diffusion. It is clearly extra-axial and centered on the internal acoustic meatus with however only minimal extension within. There is no convincing attachment to the dura. The middle cerebral peduncle is significantly distorted, and the trigeminal nerve is displaced above the mass.\n\nConclusion: Large right cerebellopontine angle mass presumably represents an acoustic schwannoma.",
+    "pixel_stats": {
+        "mean": 28.579742431640625,
+        "std": 26.617862877714707,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

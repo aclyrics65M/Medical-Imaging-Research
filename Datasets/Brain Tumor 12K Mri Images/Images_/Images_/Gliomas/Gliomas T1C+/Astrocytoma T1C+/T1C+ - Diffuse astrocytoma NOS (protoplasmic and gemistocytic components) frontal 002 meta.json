@@ -1,0 +1,25 @@
+{
+    "filename": "T1C+ - Diffuse astrocytoma NOS (protoplasmic and gemistocytic components) frontal 002.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 265,
+        "y": 169
+    },
+    "point_normalized": {
+        "x": 0.5187290552284224,
+        "y": 0.33072338494935555
+    },
+    "location": [
+        "frontal"
+    ],
+    "location_str": "frontal",
+    "description": "A left frontal lobe mass, which involves the superior frontal gyrus cortex and subjacent white matter, demonstrates high T2 and low T1 signal, with some areas of partial FLAIR suppression. Within the center of the lesion, corresponding to the areas of increased CT density, is irregular intrinsic high T1 material, with some signal loss on EPI suggestive of blood product. There is no significant restricted diffusion, and no elevated CBV. No convincing contrast enhancement. MRS demonstrates high myo-inositol, increased choline and somewhat depressed NAA. No lactate.\n\nSlight high sulcal signal on FLAIR is attributable to the patient being intubated. The remainder of the brain is unremarkable. No abnormal vessels on MRA.\n\nFeatures are those of a primary brain tumor. MRS, perfusion and morphology suggest a low (WHO II) or perhaps intermediate (WHO III) grade glioma with non-fibrillary components (e.g. gemistocytic, protoplasmic or oligodendroglial component).",
+    "pixel_stats": {
+        "mean": 22.782936096191406,
+        "std": 38.042634167815116,
+        "min": 0,
+        "max": 246
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

@@ -1,0 +1,25 @@
+{
+    "filename": "T1 - Central neurocytoma ventricle 143.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 228,
+        "y": 276
+    },
+    "point_normalized": {
+        "x": 0.4468311852782186,
+        "y": 0.5406751565600014
+    },
+    "location": [
+        "ventricle"
+    ],
+    "location_str": "ventricle",
+    "description": "A well-defined T1 isointense and T2/FLAIR heterogeneously hyperintense solid cystic (bubbly/Swiss cheese appearance) lesion measuring 5.2 x 4.7 x 4.0 cm (AP x TR x CC) was noted involving the right lateral ventricle in the region of the foramen of Monro attached to the septum pellucidum, displacing it to the left lateral aspect. The solid component demonstrates diffusion restriction. The lesion demonstrates mild heterogeneous enhancement in a post-contrast study. Dilatation of the right lateral ventricle is noted with effacement of the left lateral ventricle. The third and fourth ventricles appear normal.\n\nFeatures suggest central neurocytoma.",
+    "pixel_stats": {
+        "mean": 30.928752899169922,
+        "std": 40.59044853183944,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

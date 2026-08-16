@@ -1,0 +1,26 @@
+{
+    "filename": "T1C+ - Pilocytic astrocytoma - suprasellar suprasellar , ventricle 014.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 248,
+        "y": 232
+    },
+    "point_normalized": {
+        "x": 0.4815277802567794,
+        "y": 0.4532992743251571
+    },
+    "location": [
+        "suprasellar",
+        "ventricle"
+    ],
+    "location_str": "suprasellar ventricle",
+    "description": "Ill-defined, hypodense lesion (mean HU 28) in the suprasellar region extending towards the intrasellar area. It shows peripheral and stippled type of calcification. The lesion has involved the third ventricle with dilatation of bilateral lateral ventricles, resulting in obstructive hydrocephalus. There is effacement of the basal cisterns and fourth ventricle appears normal. No hemorrhagic foci or bony erosion is noted.",
+    "pixel_stats": {
+        "mean": 37.23653030395508,
+        "std": 46.40737027705058,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

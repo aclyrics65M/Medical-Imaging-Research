@@ -1,0 +1,23 @@
+{
+    "filename": "T1 - Intracranial multifocal germinoma 009.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 225,
+        "y": 224
+    },
+    "point_normalized": {
+        "x": 0.42473042709051156,
+        "y": 0.4379120387163551
+    },
+    "location": [],
+    "location_str": "",
+    "description": "There are multiple abnormal space- occupying lesions located as below :\n\nNote: artifacts are seen within CSF spaces at top of FLAIR sagittal images due to technical factors.",
+    "pixel_stats": {
+        "mean": 41.44434356689453,
+        "std": 48.64456841992606,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

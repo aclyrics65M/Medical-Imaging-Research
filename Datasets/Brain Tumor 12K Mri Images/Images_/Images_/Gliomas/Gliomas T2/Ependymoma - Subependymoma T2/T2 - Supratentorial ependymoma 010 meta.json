@@ -1,0 +1,23 @@
+{
+    "filename": "T2 - Supratentorial ependymoma 010.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 310,
+        "y": 306
+    },
+    "point_normalized": {
+        "x": 0.6069673501673089,
+        "y": 0.5992283471416773
+    },
+    "location": [],
+    "location_str": "",
+    "description": "A cystic mass lesion with a hyperdense solid component within the deep white matter of the left frontoparietal lobes measuring 57 x 45 mm, with extensive vasogenic edema and a 7 mm midline shift to the right.",
+    "pixel_stats": {
+        "mean": 30.592391967773438,
+        "std": 38.023175965477094,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

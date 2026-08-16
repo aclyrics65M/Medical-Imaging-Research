@@ -1,0 +1,25 @@
+{
+    "filename": "T1 - Meningioma - microcystic frontal 001.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 374,
+        "y": 222
+    },
+    "point_normalized": {
+        "x": 0.7311545800812972,
+        "y": 0.4349106113726525
+    },
+    "location": [
+        "frontal"
+    ],
+    "location_str": "frontal",
+    "description": "There is an extra-axial mass with broad based dural attachment at the left frontal bone, indenting the lateral aspects of the frontal lobe. It is hypodense with heterogeneous intermediate enhancement. No bony change.",
+    "pixel_stats": {
+        "mean": 34.14909362792969,
+        "std": 47.69617375575051,
+        "min": 0,
+        "max": 246
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

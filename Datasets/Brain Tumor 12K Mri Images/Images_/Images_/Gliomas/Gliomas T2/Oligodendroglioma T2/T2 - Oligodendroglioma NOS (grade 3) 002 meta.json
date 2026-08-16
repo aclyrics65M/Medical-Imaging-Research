@@ -1,0 +1,23 @@
+{
+    "filename": "T2 - Oligodendroglioma NOS (grade 3) 002.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 324,
+        "y": 220
+    },
+    "point_normalized": {
+        "x": 0.6347460726480694,
+        "y": 0.4269325584427372
+    },
+    "location": [],
+    "location_str": "",
+    "description": "A relatively well circumscribed mass involving the insular cortex on the left and surrounding brain is present. It has central areas which attenuate on FLAIR, and demonstrates no convincing enhancement.",
+    "pixel_stats": {
+        "mean": 38.83445739746094,
+        "std": 52.67254448543921,
+        "min": 0,
+        "max": 252
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

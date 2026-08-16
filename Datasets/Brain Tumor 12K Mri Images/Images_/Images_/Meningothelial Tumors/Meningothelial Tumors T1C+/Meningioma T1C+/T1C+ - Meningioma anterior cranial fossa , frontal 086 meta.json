@@ -1,0 +1,26 @@
+{
+    "filename": "T1C+ - Meningioma anterior cranial fossa , frontal 086.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 253,
+        "y": 143
+    },
+    "point_normalized": {
+        "x": 0.4958524602442666,
+        "y": 0.2794099163261331
+    },
+    "location": [
+        "anterior cranial fossa",
+        "frontal"
+    ],
+    "location_str": "anterior cranial fossa frontal",
+    "description": "There is large anterior cranial fossa extra axial mass separated from the displaced frontal lobes by a prominent CSF cleft, and small left sided peritumoural cysts measuring up to centimeter in depth. The mass demonstrates prominent contrast enhancement and fills the olfactory grooves bilaterally, and possibly extends a little into the roof of the nasal cavity. Posteriorly the mass extends to the pituitary fossa, into which extends a small tongue of tissue. It also extends above the optic nerves just as that enter the optic canals bilaterally, more so on the left. The left optic nerve appears distorted by the mass and inferiorly displaced. There is no convincing evidence of extension into the orbits. Extensive T2 high signal in the white matter of the frontal lobes is indicative of edema, with prominent white matter buckling. The mass distorts the frontal horns of the lateral ventricles, with a degree of obstruction to outflow, more marked on the left, with the ventricle appearing dilated and a small amount of transependymal edema noted.\n\nThe anterior cerebral arteries are displaced posterosuperiorly. MRA is unremarkable otherwise, with no intracranial abnormality identified.The remainder of the brain is unremarkable. Note is made of quite prominent frontal sinus pneumatization\n\nLarge anterior cranial fossa meningioma displacing anterior cerebral arteries postero-superiorly.",
+    "pixel_stats": {
+        "mean": 67.69618606567383,
+        "std": 55.92012084177125,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

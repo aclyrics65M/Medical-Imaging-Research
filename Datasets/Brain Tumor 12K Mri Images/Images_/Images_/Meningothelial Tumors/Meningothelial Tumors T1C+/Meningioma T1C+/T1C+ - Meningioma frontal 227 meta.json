@@ -1,0 +1,25 @@
+{
+    "filename": "T1C+ - Meningioma frontal 227.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 317,
+        "y": 193
+    },
+    "point_normalized": {
+        "x": 0.620039690158255,
+        "y": 0.37786097688294623
+    },
+    "location": [
+        "frontal"
+    ],
+    "location_str": "frontal",
+    "description": "Large left frontal mass with positive mass effect resulting in midline shift to the right. The mass is isodense to grey matter with a small amount of adjacent edema.",
+    "pixel_stats": {
+        "mean": 41.78276443481445,
+        "std": 53.48742257295669,
+        "min": 3,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

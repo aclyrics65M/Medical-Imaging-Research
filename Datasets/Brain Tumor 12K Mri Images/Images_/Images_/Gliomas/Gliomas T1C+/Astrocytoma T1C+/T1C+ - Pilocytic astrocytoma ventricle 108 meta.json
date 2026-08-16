@@ -1,0 +1,25 @@
+{
+    "filename": "T1C+ - Pilocytic astrocytoma ventricle 108.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 256,
+        "y": 331
+    },
+    "point_normalized": {
+        "x": 0.5007545877408714,
+        "y": 0.6470694785714934
+    },
+    "location": [
+        "ventricle"
+    ],
+    "location_str": "ventricle",
+    "description": "Rounded FLAIR hyperintense vermian mass with central faint enhancement and central susceptibility induced signal loss suggestive of small hemorrhage within the lesion. No associated CBV elevation. The mass demonstrates facilitated diffusion compared to the adjacent brain. Spectroscopy trace is non-contributory.  The mass mildly partially effaces the fourth ventricle without evidence of hydrocephalus.\n\nThe vermian mass has a differential that includes pilocytic astrocytoma/pilomyxoid astrocytoma although usually they have more florid enhancement. Medulloblastoma in this age group is more frequent in the cerebellar hemispheres and would be expected to have lower ADC values. A DNET can have this appearance, although this appears somewhat larger and more solid than is usual.",
+    "pixel_stats": {
+        "mean": 37.95390701293945,
+        "std": 51.06059980868829,
+        "min": 5,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

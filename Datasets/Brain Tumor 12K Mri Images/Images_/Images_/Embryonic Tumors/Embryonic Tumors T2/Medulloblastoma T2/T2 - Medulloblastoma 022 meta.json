@@ -1,0 +1,23 @@
+{
+    "filename": "T2 - Medulloblastoma 022.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 264,
+        "y": 299
+    },
+    "point_normalized": {
+        "x": 0.517095012729554,
+        "y": 0.5955861353966256
+    },
+    "location": [],
+    "location_str": "",
+    "description": "MRI demonstrates a heterogenous round mass centered in the cerebellar inferior vermis associated with surrounding white matter edema.The solid portion of the tumor is slightly hypointense compared to white matter on T1 and hyperintense on T2. Following intravenous administration of gadolinium the mass shows irregular vivid enhancement.There is no evidence of hydrocephaly.",
+    "pixel_stats": {
+        "mean": 28.475765228271484,
+        "std": 44.82165757407959,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

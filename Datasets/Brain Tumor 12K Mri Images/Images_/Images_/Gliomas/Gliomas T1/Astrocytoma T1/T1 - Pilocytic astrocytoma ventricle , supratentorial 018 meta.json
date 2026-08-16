@@ -1,0 +1,26 @@
+{
+    "filename": "T1 - Pilocytic astrocytoma ventricle , supratentorial 018.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 267,
+        "y": 353
+    },
+    "point_normalized": {
+        "x": 0.521997140226159,
+        "y": 0.6928226685398049
+    },
+    "location": [
+        "ventricle",
+        "supratentorial"
+    ],
+    "location_str": "ventricle supratentorial",
+    "description": "MRI of the brain with intravenous contrast shows a large, mainly cystic, non-enhancing lesion occupying the left cerebellar hemisphere causing compression and displacement of the fourth ventricle with resultant supratentorial hydrocephalus with transependymal edema. The lesion demonstrates an inferior enhancing mural nodular component with caudal extension through the foramen magnum. There is no diffusion restriction or signal drop on gradient-echo images.",
+    "pixel_stats": {
+        "mean": 41.5742073059082,
+        "std": 45.68168561162347,
+        "min": 14,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

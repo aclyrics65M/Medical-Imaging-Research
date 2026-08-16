@@ -1,0 +1,26 @@
+{
+    "filename": "T2 - Oligodendroglioma frontal , anterior cranial fossa 002.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 248,
+        "y": 95
+    },
+    "point_normalized": {
+        "x": 0.486048205251057,
+        "y": 0.18671767996284308
+    },
+    "location": [
+        "frontal",
+        "anterior cranial fossa"
+    ],
+    "location_str": "frontal anterior cranial fossa",
+    "description": "A region of cortical and subcortical T2 hyperintensity and mild expansion involves the right paramedian anteroinferior frontal lobe. There is no associated enhancement or diffusion restriction. No cerebral blood volume (CBV) increase (not shown). MR spectroscopy over the region is difficult to interpret due to its position close to the bone/brain interface of the anterior cranial fossa  (not shown). No linear extension of signal abnormality towards the right frontal horn.\n\nConclusion: Features are those of either a region of focal cortical dysplasia or low-grade diffuse glioma.",
+    "pixel_stats": {
+        "mean": 32.00086975097656,
+        "std": 38.06202804206163,
+        "min": 0,
+        "max": 249
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

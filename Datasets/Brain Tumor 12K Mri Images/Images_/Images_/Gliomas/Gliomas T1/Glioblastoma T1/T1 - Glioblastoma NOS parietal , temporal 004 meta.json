@@ -1,0 +1,26 @@
+{
+    "filename": "T1 - Glioblastoma NOS parietal , temporal 004.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 198,
+        "y": 340
+    },
+    "point_normalized": {
+        "x": 0.3880056553189609,
+        "y": 0.665588624814208
+    },
+    "location": [
+        "parietal",
+        "temporal"
+    ],
+    "location_str": "parietal temporal",
+    "description": "Evidence of operative interference with high parietal osteoplastic flap and focal metallic artefact.\n\nAn ill-defined lobulated intracerebral mass is seen in the right temporal-parieto-occipital region. It appears of low signal on T1 and heterogeneous high signal on T2 weighted images, with cystic areas of breakdown as well as areas of blood signal within.\n\nInfiltration of the corpus callosum namely body and splenium is seen crossing midline.\n\nSurrounding peri-focal edema and exerted mass effect in the form of effacement of the adjacent cortical sulci and compression of the right lateral ventricle with shift of the midline structures to contra-lateral side.",
+    "pixel_stats": {
+        "mean": 23.004928588867188,
+        "std": 35.180180962714836,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

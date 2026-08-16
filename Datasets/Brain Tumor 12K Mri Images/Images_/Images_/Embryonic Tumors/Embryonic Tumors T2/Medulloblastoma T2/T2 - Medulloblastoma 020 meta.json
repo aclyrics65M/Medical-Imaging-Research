@@ -1,0 +1,23 @@
+{
+    "filename": "T2 - Medulloblastoma 020.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 294,
+        "y": 360
+    },
+    "point_normalized": {
+        "x": 0.5837595297151469,
+        "y": 0.7036482000948072
+    },
+    "location": [],
+    "location_str": "",
+    "description": "Acute non-communicating obstructive hydrocephalus with prominent transependymal edema secondary to a heterogeneous mass in the left cerebellum.",
+    "pixel_stats": {
+        "mean": 43.047645568847656,
+        "std": 51.12415359306966,
+        "min": 0,
+        "max": 232
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

@@ -1,0 +1,26 @@
+{
+    "filename": "T1C+ - Glioblastoma temporal , occipital 006.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 238,
+        "y": 251
+    },
+    "point_normalized": {
+        "x": 0.46085562606370584,
+        "y": 0.4906836688602504
+    },
+    "location": [
+        "temporal",
+        "occipital"
+    ],
+    "location_str": "temporal occipital",
+    "description": "3.5 cm centrally located tumor within the right corpus callosum. Low internal density compatible with necrosis. Surrounding mild perilesional edema.\n\nEncroachment of the foramina of Monro with distended temporal and occipital horns, particularly on the right, consistent with entrapment / hydrocephalus. This lesion also displaces the internal cerebral veins to the left.\n\nIncidental small calcified left frontal mass likely meningioma. No other intracranial abnormality. Normal skull and soft tissues.\n\n-\nHigh-grade central tumor, likely GBM.\nLateral ventriclar hydrocephalus",
+    "pixel_stats": {
+        "mean": 36.7707405090332,
+        "std": 37.68864409999133,
+        "min": 0,
+        "max": 248
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

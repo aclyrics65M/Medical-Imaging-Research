@@ -1,0 +1,26 @@
+{
+    "filename": "T1C+ - Recurrent glioblastoma occipital , ventricle 008.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 163,
+        "y": 310
+    },
+    "point_normalized": {
+        "x": 0.3193758703664937,
+        "y": 0.6070638054500065
+    },
+    "location": [
+        "occipital",
+        "ventricle"
+    ],
+    "location_str": "occipital ventricle",
+    "description": "Right temporoparietal craniotomy\n\nRight parietotemporal heterogeneous intra-axial mass with thick irregular rim enhancement ( 50*70 mm) associated with vasogenic edema, mild mass-effect upon the occipital horn of the lateral ventricle, and midline shift measuring about 7 mm.",
+    "pixel_stats": {
+        "mean": 37.27451705932617,
+        "std": 44.08793098573727,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

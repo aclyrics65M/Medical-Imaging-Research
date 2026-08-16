@@ -1,0 +1,23 @@
+{
+    "filename": "T1C+ - Pilocytic astrocytoma 028.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 282,
+        "y": 379
+    },
+    "point_normalized": {
+        "x": 0.5575783456383093,
+        "y": 0.7422411093836068
+    },
+    "location": [],
+    "location_str": "",
+    "description": "Well defined cystic mass lesion with mural modularity is seen involving the left parietooccipital lobe. Marked enhancement of the mural nodule is seen post gadolinium administration.",
+    "pixel_stats": {
+        "mean": 51.67388153076172,
+        "std": 41.679817378586044,
+        "min": 0,
+        "max": 252
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

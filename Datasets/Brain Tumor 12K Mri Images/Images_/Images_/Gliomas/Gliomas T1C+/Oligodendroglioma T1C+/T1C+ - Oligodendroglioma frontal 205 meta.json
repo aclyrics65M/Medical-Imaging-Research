@@ -1,0 +1,25 @@
+{
+    "filename": "T1C+ - Oligodendroglioma frontal 205.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 290,
+        "y": 130
+    },
+    "point_normalized": {
+        "x": 0.5677503301944704,
+        "y": 0.25473469897823475
+    },
+    "location": [
+        "frontal"
+    ],
+    "location_str": "frontal",
+    "description": "Sagittal and coronal pre and post contrast CT demonstrate a large partially calcified left frontal lobe mass.",
+    "pixel_stats": {
+        "mean": 42.72294235229492,
+        "std": 49.84192291374581,
+        "min": 1,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

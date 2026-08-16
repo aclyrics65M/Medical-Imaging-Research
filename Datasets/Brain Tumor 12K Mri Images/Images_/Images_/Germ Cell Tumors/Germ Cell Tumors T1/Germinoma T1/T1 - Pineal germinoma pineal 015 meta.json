@@ -1,0 +1,25 @@
+{
+    "filename": "T1 - Pineal germinoma pineal 015.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 250,
+        "y": 314
+    },
+    "point_normalized": {
+        "x": 0.48931629024879353,
+        "y": 0.6142865009379488
+    },
+    "location": [
+        "pineal"
+    ],
+    "location_str": "pineal",
+    "description": "Mass lesion of the pineal region with hyperdense appearance on native scans and intense enhancement. Hydrocephalus with \"pressure caps\" resulting from aquaeduct obstruction.",
+    "pixel_stats": {
+        "mean": 37.1831169128418,
+        "std": 40.261058962730715,
+        "min": 0,
+        "max": 250
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

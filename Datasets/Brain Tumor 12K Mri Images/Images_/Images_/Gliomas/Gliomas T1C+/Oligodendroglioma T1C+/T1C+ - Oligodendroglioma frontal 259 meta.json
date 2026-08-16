@@ -1,0 +1,25 @@
+{
+    "filename": "T1C+ - Oligodendroglioma frontal 259.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 275,
+        "y": 248
+    },
+    "point_normalized": {
+        "x": 0.5383375652148416,
+        "y": 0.4852992711835349
+    },
+    "location": [
+        "frontal"
+    ],
+    "location_str": "frontal",
+    "description": "Extensive infiltrating left frontal tumor with imaging characteristics consistent with diffuse low grade glioma. No radiological evidence of high grade tumor.",
+    "pixel_stats": {
+        "mean": 42.78278732299805,
+        "std": 49.914719779743365,
+        "min": 10,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

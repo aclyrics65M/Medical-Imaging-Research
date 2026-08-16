@@ -1,0 +1,25 @@
+{
+    "filename": "T2 - Diffuse astrocytoma NOS in the cerebellum ventricle 009.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 252,
+        "y": 317
+    },
+    "point_normalized": {
+        "x": 0.4918014790606541,
+        "y": 0.6209531542236318
+    },
+    "location": [
+        "ventricle"
+    ],
+    "location_str": "ventricle",
+    "description": "CT scan shows obstructive hydrocphalus secondary to a mass compressing the fourth ventricle. Surrounding vasogenic edema. Mass is isodense to brain parenchyma. Diffuse sulcal and basal cistern effacement consistent with raised intracranial pressure.",
+    "pixel_stats": {
+        "mean": 47.186004638671875,
+        "std": 49.1020970199275,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

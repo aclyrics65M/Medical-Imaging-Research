@@ -1,0 +1,25 @@
+{
+    "filename": "T1C+ - Vestibular schwannoma cerebellopontine angle 061.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 214,
+        "y": 308
+    },
+    "point_normalized": {
+        "x": 0.4206865052963263,
+        "y": 0.6047943075201361
+    },
+    "location": [
+        "cerebellopontine angle"
+    ],
+    "location_str": "cerebellopontine angle",
+    "description": "There is a well-defined soft tissue mass lesion seen in the right cerebellopontine angle with the widening of the right internal auditory canal, it appears heterogeneously hyper-intense on T2 and hypo-intense on T1WI with internal cystic changes, without diffusion restriction.\n\nIt also shows blooming artifacts on gradient images, suggesting intra-tumoural microhemorrhages.\n\nIt is causing mass effects upon the pons, right cerebellar peduncle, and right cerebellar hemisphere.\n\nThis mass exhibits intense heterogenous enhancement on postcontrast images.\n\nBoth optic nerves are slightly tortious, more on the right side, with flattening of the posterior sclera and bulging optic discs, suggesting papilledema.",
+    "pixel_stats": {
+        "mean": 31.818756103515625,
+        "std": 55.8312884460539,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

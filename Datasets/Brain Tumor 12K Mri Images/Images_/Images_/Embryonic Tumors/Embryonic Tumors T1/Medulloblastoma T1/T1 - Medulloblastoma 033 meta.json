@@ -1,0 +1,23 @@
+{
+    "filename": "T1 - Medulloblastoma 033.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 259,
+        "y": 306
+    },
+    "point_normalized": {
+        "x": 0.5072907577363445,
+        "y": 0.5995006865192591
+    },
+    "location": [],
+    "location_str": "",
+    "description": "",
+    "pixel_stats": {
+        "mean": 37.49326705932617,
+        "std": 66.33614918164191,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

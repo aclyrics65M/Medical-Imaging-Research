@@ -1,0 +1,26 @@
+{
+    "filename": "T1 - Intraventricular meningioma ventricle , temporal 207.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 212,
+        "y": 342
+    },
+    "point_normalized": {
+        "x": 0.405283135957092,
+        "y": 0.6699460735556492
+    },
+    "location": [
+        "ventricle",
+        "temporal"
+    ],
+    "location_str": "ventricle temporal",
+    "description": "Multi-lobulated heterogeneously enhancing mass centered in the trigone of right lateral ventricle with associated entrapment hydrocephalus of the temporal and occipital horns of the right lateral ventricle. Significant mass effect and compression of the midbrain and midline shift. The blooming artifact on SWI confirms calcifications.",
+    "pixel_stats": {
+        "mean": 44.73847961425781,
+        "std": 39.61701837813869,
+        "min": 0,
+        "max": 184
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

@@ -1,0 +1,26 @@
+{
+    "filename": "T2 - Medulloblastoma posterior fossa , ventricle 033.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 260,
+        "y": 339
+    },
+    "point_normalized": {
+        "x": 0.510558842734081,
+        "y": 0.6648907576914642
+    },
+    "location": [
+        "posterior fossa",
+        "ventricle"
+    ],
+    "location_str": "posterior fossa ventricle",
+    "description": "Axial nonenhanced CT image shows a slightly heterogeneous midline posterior fossa mass in the cerebellar vermis. The fourth ventricle is obliterated and not seen.",
+    "pixel_stats": {
+        "mean": 32.78006362915039,
+        "std": 52.350935642823586,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

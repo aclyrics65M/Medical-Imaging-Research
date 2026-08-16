@@ -1,0 +1,23 @@
+{
+    "filename": "T2 - Ependymoma 006.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 260,
+        "y": 328
+    },
+    "point_normalized": {
+        "x": 0.5089248002352128,
+        "y": 0.641985791489834
+    },
+    "location": [],
+    "location_str": "",
+    "description": "",
+    "pixel_stats": {
+        "mean": 28.568622589111328,
+        "std": 52.790852191643495,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

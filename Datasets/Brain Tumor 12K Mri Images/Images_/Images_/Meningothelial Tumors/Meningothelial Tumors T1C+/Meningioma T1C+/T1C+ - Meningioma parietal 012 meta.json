@@ -1,0 +1,25 @@
+{
+    "filename": "T1C+ - Meningioma parietal 012.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 156,
+        "y": 361
+    },
+    "point_normalized": {
+        "x": 0.3079375728744158,
+        "y": 0.7091630935284876
+    },
+    "location": [
+        "parietal"
+    ],
+    "location_str": "parietal",
+    "description": "Extra axial abnormal signal intensity mass lesion in the posterior aspect of right parietal lobe. \nIt is returning iso signal in T1 and high signal in T2/FLAIR sequences.\nPost contrast avid enhancement is noted.",
+    "pixel_stats": {
+        "mean": 35.47080612182617,
+        "std": 47.194424863235476,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

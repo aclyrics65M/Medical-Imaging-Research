@@ -1,0 +1,26 @@
+{
+    "filename": "T1C+ - Glioblastoma NOS parietal , ventricle 018.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 208,
+        "y": 325
+    },
+    "point_normalized": {
+        "x": 0.40761416530538014,
+        "y": 0.6353985576662714
+    },
+    "location": [
+        "parietal",
+        "ventricle"
+    ],
+    "location_str": "parietal ventricle",
+    "description": "There is a right parietal lobe lobulated and heterogeneous mass which shows necrotic central areas and peripheral enhancement after contrast administration. It causes also local mass effect compressing the right lateral ventricle and with a mild left midline shift.",
+    "pixel_stats": {
+        "mean": 71.55915832519531,
+        "std": 68.40254062855055,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

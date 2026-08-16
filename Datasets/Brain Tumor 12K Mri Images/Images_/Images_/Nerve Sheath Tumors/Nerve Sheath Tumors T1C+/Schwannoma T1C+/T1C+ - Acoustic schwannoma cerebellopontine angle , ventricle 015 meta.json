@@ -1,0 +1,26 @@
+{
+    "filename": "T1C+ - Acoustic schwannoma cerebellopontine angle , ventricle 015.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 191,
+        "y": 306
+    },
+    "point_normalized": {
+        "x": 0.37493331532801477,
+        "y": 0.5994042312365615
+    },
+    "location": [
+        "cerebellopontine angle",
+        "ventricle"
+    ],
+    "location_str": "cerebellopontine angle ventricle",
+    "description": "Right cerebellopontine angle mass is noted causing mass effect on the adjacent right cerebellum and slight distortion of the fourth ventricle but does not occlude it.\n\nNo significant ventricular dilation.\n\nRemainder brain is unremarkable.\n\nFurther investigation with MRI is recommended.",
+    "pixel_stats": {
+        "mean": 38.49183654785156,
+        "std": 24.469416819889883,
+        "min": 0,
+        "max": 217
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

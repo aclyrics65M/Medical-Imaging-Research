@@ -1,0 +1,25 @@
+{
+    "filename": "T1C+ - Glioblastoma NOS frontal 013.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 342,
+        "y": 153
+    },
+    "point_normalized": {
+        "x": 0.6695033587327351,
+        "y": 0.30110065488362187
+    },
+    "location": [
+        "frontal"
+    ],
+    "location_str": "frontal",
+    "description": "A larger left frontal lobe peripherally enhancing mass with central non-enhancement (suggesting necrosis) is present. It is surrounded by edema and exerts positive mass effect.",
+    "pixel_stats": {
+        "mean": 26.198257446289062,
+        "std": 30.559300676952432,
+        "min": 0,
+        "max": 243
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

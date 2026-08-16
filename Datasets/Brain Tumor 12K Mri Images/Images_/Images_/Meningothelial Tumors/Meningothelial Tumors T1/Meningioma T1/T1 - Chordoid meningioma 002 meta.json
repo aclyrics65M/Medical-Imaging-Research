@@ -1,0 +1,23 @@
+{
+    "filename": "T1 - Chordoid meningioma 002.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 192,
+        "y": 240
+    },
+    "point_normalized": {
+        "x": 0.37656735782688305,
+        "y": 0.47059288869372046
+    },
+    "location": [],
+    "location_str": "",
+    "description": "A right sided extra-axial mass arises from the inner surface of the skull vault, adjacent to the superior sagittal sinus which it invades and occludes. The mass is isointense to grey matter on both T1 and T2 with vivid contrast enhancement. It is also isointense on DWI. Unfortunately ADC is not available. No particularly prominent flow voids.  It is surrounded by vasogenic edema. The overlying bone is abnormal with loss of the normal fatty marrow and tumor can be extending beyond the outer table.",
+    "pixel_stats": {
+        "mean": 55.44781494140625,
+        "std": 69.76818660076043,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

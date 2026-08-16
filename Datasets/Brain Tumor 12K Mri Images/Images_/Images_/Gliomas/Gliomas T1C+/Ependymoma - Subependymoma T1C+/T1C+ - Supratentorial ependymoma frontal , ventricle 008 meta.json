@@ -1,0 +1,26 @@
+{
+    "filename": "T1C+ - Supratentorial ependymoma frontal , ventricle 008.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 177,
+        "y": 279
+    },
+    "point_normalized": {
+        "x": 0.34715459284725425,
+        "y": 0.5457588436416608
+    },
+    "location": [
+        "frontal",
+        "ventricle"
+    ],
+    "location_str": "frontal ventricle",
+    "description": "There is a large right posterior frontal mass that extends from the roof of the right lateral ventricle. Central T2 hyperintensity doesn't fluid-restrict.  Peripheral soft tissue with rim enhancement.",
+    "pixel_stats": {
+        "mean": 44.48920440673828,
+        "std": 47.657499481269646,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

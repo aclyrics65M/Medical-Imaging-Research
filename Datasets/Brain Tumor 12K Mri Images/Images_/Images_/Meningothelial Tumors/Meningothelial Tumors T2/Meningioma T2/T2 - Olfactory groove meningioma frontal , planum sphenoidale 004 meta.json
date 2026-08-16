@@ -1,0 +1,26 @@
+{
+    "filename": "T2 - Olfactory groove meningioma frontal , planum sphenoidale 004.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 247,
+        "y": 186
+    },
+    "point_normalized": {
+        "x": 0.48441416275218874,
+        "y": 0.36244624274777704
+    },
+    "location": [
+        "frontal",
+        "planum sphenoidale"
+    ],
+    "location_str": "frontal planum sphenoidale",
+    "description": "Left frontal craniectomy with cranioplasty.  Minor underlying post operative gliosis.\n\n3cm round anterior midline isodense mass centered on the planum sphenoidale at the site of the olfactory groove, with avid symmetrical edema.\n\nSmaller similar lesion in the right temporal region close to the sphenoid wing.\n\nHyperostosis of the floor of the anterior cranial fossa, without bony destruction.",
+    "pixel_stats": {
+        "mean": 45.92024230957031,
+        "std": 49.58015019576825,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

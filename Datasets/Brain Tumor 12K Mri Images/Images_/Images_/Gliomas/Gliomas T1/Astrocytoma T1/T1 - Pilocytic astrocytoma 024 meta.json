@@ -1,0 +1,23 @@
+{
+    "filename": "T1 - Pilocytic astrocytoma 024.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 214,
+        "y": 278
+    },
+    "point_normalized": {
+        "x": 0.4206865052963263,
+        "y": 0.5431205354680673
+    },
+    "location": [],
+    "location_str": "",
+    "description": "In the right cerebellomedullary angle, there is a vividly enhancing lesion that appears continuous with the adjacent cerebellar peduncle. It has increased T2 signal and is hypointense on T1. No hemorrhage or calcification. ADC values are facilitated compared to adjacent brain. It does not involve the internal acoustic meatus. No abnormal flow voids.\n\nAnterior to it, there is a rounded expansion of the cistern with a lack of the normal loss of signal seen due to CSF flow. It displaces the right sixth cranial nerve medially and the seventh and eighth cranial nerves inferiorly. This presumably represents a cyst, although its walls are imperceptible even on high-resolution T2 (CISS). It does not have enhancing walls.\n\nThe remainder of the brain is unremarkable.\n\nIn this age group this lesion most likely represents a pilocytic astrocytoma, especially as there is a cyst, although whether this is actually part of the tumor or an adjacent arachnoid cyst is unclear.\n\nThe location and lack of low ADC values makes a medulloblastoma unlikely (WNT-activated medulloblastomas do occur on the peduncle and can be exophytic but are rare and usually in infants).",
+    "pixel_stats": {
+        "mean": 55.43206787109375,
+        "std": 47.31094282259625,
+        "min": 8,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

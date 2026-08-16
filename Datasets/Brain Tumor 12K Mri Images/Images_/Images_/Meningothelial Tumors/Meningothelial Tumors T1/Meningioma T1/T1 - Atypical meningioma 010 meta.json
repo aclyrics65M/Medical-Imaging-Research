@@ -1,0 +1,23 @@
+{
+    "filename": "T1 - Atypical meningioma 010.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 316,
+        "y": 167
+    },
+    "point_normalized": {
+        "x": 0.6184056476593867,
+        "y": 0.32663827870218487
+    },
+    "location": [],
+    "location_str": "",
+    "description": "A heterogeneously enhancing extra-axial solid mass with a large cystic component is noted on the left. Underlying sulci and gray matter are distorted. Some underlying vasogenic edema significant mass effect are present.\n\nThe solid component demonstrates some restricted diffusion (similar ADC to parenchyma). Punctate susceptibility on the gradient echo sequences with no identifiable calcification on the CT  (not shown) likely represents hemosiderin.\n\nConclusion: The imaging characteristics are somewhat atypical, while the large cystic component and the lack of significant contrast enhancement on CT is atypical for meningiomas, however the extraaxial location, diffusion restriction and the overall high prevalence of meningiomas suggests that meningioma is most likely, particularly an atypical or malignant meningioma. Other differentials include meningosarcoma or hemangiopericytoma.",
+    "pixel_stats": {
+        "mean": 77.18669891357422,
+        "std": 63.520383389255564,
+        "min": 13,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

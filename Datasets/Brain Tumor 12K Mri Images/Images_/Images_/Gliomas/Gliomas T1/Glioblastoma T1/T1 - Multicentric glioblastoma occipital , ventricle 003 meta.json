@@ -1,0 +1,26 @@
+{
+    "filename": "T1 - Multicentric glioblastoma occipital , ventricle 003.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 222,
+        "y": 387
+    },
+    "point_normalized": {
+        "x": 0.4257510729613734,
+        "y": 0.7572198312510029
+    },
+    "location": [
+        "occipital",
+        "ventricle"
+    ],
+    "location_str": "occipital ventricle",
+    "description": "A heterogeneous focal space-occupying lesion with surrounding vasogenic edema is seen in the right occipital lobe. Mild mass effect is seen over the underlying right lateral ventricle.",
+    "pixel_stats": {
+        "mean": 36.52816390991211,
+        "std": 47.15579852640427,
+        "min": 0,
+        "max": 196
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

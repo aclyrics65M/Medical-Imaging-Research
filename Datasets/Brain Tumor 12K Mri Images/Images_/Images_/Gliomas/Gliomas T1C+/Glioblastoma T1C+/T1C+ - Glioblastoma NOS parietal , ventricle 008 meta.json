@@ -1,0 +1,26 @@
+{
+    "filename": "T1C+ - Glioblastoma NOS parietal , ventricle 008.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 324,
+        "y": 291
+    },
+    "point_normalized": {
+        "x": 0.6331120301492011,
+        "y": 0.5686354386258166
+    },
+    "location": [
+        "parietal",
+        "ventricle"
+    ],
+    "location_str": "parietal ventricle",
+    "description": "Abnormal signal intraaxial solid thick irregular rim enhancing mass measuring about 30*35*40 mm with necrotic center at left parietal lobe surrounded by marked vasogenic edematous changes\n\nThe mass shows water restriction on DWI images\n\nColpocephaly of the left lateral ventricle occipital horn",
+    "pixel_stats": {
+        "mean": 26.750476837158203,
+        "std": 42.995441880069635,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

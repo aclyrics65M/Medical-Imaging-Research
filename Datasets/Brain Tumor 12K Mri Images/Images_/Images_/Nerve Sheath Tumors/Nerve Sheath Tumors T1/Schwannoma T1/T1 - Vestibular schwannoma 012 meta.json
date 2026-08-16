@@ -1,0 +1,23 @@
+{
+    "filename": "T1 - Vestibular schwannoma 012.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 209,
+        "y": 290
+    },
+    "point_normalized": {
+        "x": 0.4108822503031167,
+        "y": 0.5678751473445762
+    },
+    "location": [],
+    "location_str": "",
+    "description": "A well defined extra-axial mass arising from the intercanalicular portion of the right IAM smoothly fungating into the right CPA. The lesion shows hypointense T1 signal and isointense T2 signal. Avid enhancement followed contrast administration, with areas of internal non-enhancing cystic changes.",
+    "pixel_stats": {
+        "mean": 34.1235237121582,
+        "std": 52.4270486040717,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

@@ -1,0 +1,25 @@
+{
+    "filename": "T1 - Diffuse astrocytoma NOS frontal 017.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 202,
+        "y": 268
+    },
+    "point_normalized": {
+        "x": 0.3961758678133023,
+        "y": 0.525361680506593
+    },
+    "location": [
+        "frontal"
+    ],
+    "location_str": "frontal",
+    "description": "There is a nodular cortical-subcortical right frontal solid mass, well-circumscribed and showing high T2 signal with partial suppression on FLAIR, no contrast enhancement and no diffusion restriction. The remainder of the imaged brain appears unremarkable.\n\nVentricular system and cisternal spaces appear normal.\n\nThere is no shift of the midline structures.",
+    "pixel_stats": {
+        "mean": 36.86567306518555,
+        "std": 68.68989018581397,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

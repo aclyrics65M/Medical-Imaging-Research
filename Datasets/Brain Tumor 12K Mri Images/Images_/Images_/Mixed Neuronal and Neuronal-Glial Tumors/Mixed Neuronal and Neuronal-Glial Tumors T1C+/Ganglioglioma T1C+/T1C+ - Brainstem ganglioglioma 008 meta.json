@@ -1,0 +1,23 @@
+{
+    "filename": "T1C+ - Brainstem ganglioglioma 008.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 269,
+        "y": 321
+    },
+    "point_normalized": {
+        "x": 0.5268992677227637,
+        "y": 0.6272794090000197
+    },
+    "location": [],
+    "location_str": "",
+    "description": "Ganglioglioma centered on the left middle cerebellar peduncle.",
+    "pixel_stats": {
+        "mean": 35.49568557739258,
+        "std": 56.490171847697006,
+        "min": 0,
+        "max": 250
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

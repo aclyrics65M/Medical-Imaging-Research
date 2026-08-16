@@ -1,0 +1,25 @@
+{
+    "filename": "T1 - Oligodendroglioma frontal 193.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 151,
+        "y": 266
+    },
+    "point_normalized": {
+        "x": 0.2769187575355903,
+        "y": 0.5208396986506084
+    },
+    "location": [
+        "frontal"
+    ],
+    "location_str": "frontal",
+    "description": "Ill-defined hypo-density predominantly affecting the sub cortical white matter of the right posterior frontal lobe. Mildly effaced adjacent cortical sulci; otherwise, no gross mass effect, hydrocephalus or mid line shift is seen. No calcifications or hemorrhage is seen in the lesion. Conclusion: Ill-defined sub cortical white matter hypo-density in the right posterior frontal lobe. Possible differential diagnosis includes encephalitis & venous infarction; however, the possibility of a space occupying lesion also cannot be excluded.",
+    "pixel_stats": {
+        "mean": 48.28794479370117,
+        "std": 55.496648603517436,
+        "min": 0,
+        "max": 239
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

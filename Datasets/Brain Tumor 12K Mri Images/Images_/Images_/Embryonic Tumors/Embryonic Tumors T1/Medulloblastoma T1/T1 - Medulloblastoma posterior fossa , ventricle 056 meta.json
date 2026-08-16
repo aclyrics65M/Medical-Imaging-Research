@@ -1,0 +1,26 @@
+{
+    "filename": "T1 - Medulloblastoma posterior fossa , ventricle 056.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 256,
+        "y": 334
+    },
+    "point_normalized": {
+        "x": 0.5023886302397397,
+        "y": 0.655750329346731
+    },
+    "location": [
+        "posterior fossa",
+        "ventricle"
+    ],
+    "location_str": "posterior fossa ventricle",
+    "description": "Large mass located centrally within the posterior fossa. It is a high T2 signal and low T1 signal with patchy contrast enhancement.\n\nNo normal vermis can be identified and the mass is likely to arise from it, near completely effacing the fourth ventricle and abutting the left inferior cerebellar peduncle and dorsal aspect of the brainstem without convincing evidence of extension into the pons.\n\nAs a result of the mass effect on the 4th ventricle, significant obstructive hydrocephalus has developed, with transependymal edema noted particularly at the frontal and occipital horns.",
+    "pixel_stats": {
+        "mean": 28.970352172851562,
+        "std": 44.558157713912586,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

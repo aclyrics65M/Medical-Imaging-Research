@@ -1,0 +1,26 @@
+{
+    "filename": "T1 - Glioblastoma - recurrent frontal , parietal 001.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 310,
+        "y": 314
+    },
+    "point_normalized": {
+        "x": 0.6069673501673089,
+        "y": 0.6142070690090735
+    },
+    "location": [
+        "frontal",
+        "parietal"
+    ],
+    "location_str": "frontal parietal",
+    "description": "MRI demonstrates a large heterogenous signal intra-axial solid necrotic mass lesion in the left frontal and parietal-temporal lobes.\n\nIt exerts a significant mass effect with a midline shift, uncal herniation, compression of the left lateral ventricle occipital horn, and dilatation of the temporal horn, and is surrounded by vasogenic edema.\n\nInvasion to the splenium of corpus callosum and midline cross of tumoral mass lesion is seen.\n\nThe lesion shows patches of diffusion restriction and heterogenous post-contrast enhancement.",
+    "pixel_stats": {
+        "mean": 28.395103454589844,
+        "std": 42.392252942828655,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

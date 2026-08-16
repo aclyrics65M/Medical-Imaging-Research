@@ -1,0 +1,25 @@
+{
+    "filename": "T2 - Psammomatous meningioma - parafalcine anterior cranial fossa 005.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 299,
+        "y": 99
+    },
+    "point_normalized": {
+        "x": 0.5857247976820213,
+        "y": 0.19449075151294043
+    },
+    "location": [
+        "anterior cranial fossa"
+    ],
+    "location_str": "anterior cranial fossa",
+    "description": "Scan performed in the emergency department demonstrates a large calcified extra-axial mass in the left anterior cranial fossa.",
+    "pixel_stats": {
+        "mean": 54.838523864746094,
+        "std": 58.899743737121334,
+        "min": 0,
+        "max": 251
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

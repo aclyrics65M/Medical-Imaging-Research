@@ -1,0 +1,26 @@
+{
+    "filename": "T1 - Ependymoma posterior fossa , ventricle 045.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 230,
+        "y": 311
+    },
+    "point_normalized": {
+        "x": 0.45173331277482337,
+        "y": 0.6083630968795513
+    },
+    "location": [
+        "posterior fossa",
+        "ventricle"
+    ],
+    "location_str": "posterior fossa ventricle",
+    "description": "Large posterior fossa tumor centered in the fourth ventricle and extending out of the left foramen of Luschka. It extends anterior to the brainstem and also just into the left IAM.",
+    "pixel_stats": {
+        "mean": 37.93415069580078,
+        "std": 46.77910239832906,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

@@ -1,0 +1,25 @@
+{
+    "filename": "T1 - Oligodendroglioma frontal 196.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 280,
+        "y": 124
+    },
+    "point_normalized": {
+        "x": 0.5481418202080512,
+        "y": 0.24266665582890107
+    },
+    "location": [
+        "frontal"
+    ],
+    "location_str": "frontal",
+    "description": "A mass in the left frontal lobe is present, predominantly of low attenuation but with areas of calcific density. Features are most consistent with an oligodendroglioma.",
+    "pixel_stats": {
+        "mean": 39.05704879760742,
+        "std": 47.86673897707252,
+        "min": 0,
+        "max": 253
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

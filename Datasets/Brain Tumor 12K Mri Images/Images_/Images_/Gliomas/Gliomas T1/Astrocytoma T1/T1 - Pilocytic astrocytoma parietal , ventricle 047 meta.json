@@ -1,0 +1,26 @@
+{
+    "filename": "T1 - Pilocytic astrocytoma parietal , ventricle 047.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 189,
+        "y": 296
+    },
+    "point_normalized": {
+        "x": 0.37003118783141,
+        "y": 0.5798921765328399
+    },
+    "location": [
+        "parietal",
+        "ventricle"
+    ],
+    "location_str": "parietal ventricle",
+    "description": "A peripherally enhancing fluid-filled cavity in the right parietal lobe has a rim that is mildly irregular with mild nodularity, enhancing thin septations and susceptibility artefact. The internal fluid demonstrates layering. There is no diffusion restriction and no elevation of cerebral blood volume (CBV).\n\nMild adjacent FLAIR signal hyperintensity at the superior and inferior aspects. There is no large volume of edema. Minimal mass effect. The posterior horn of the right lateral ventricle is effaced.\n\nThere is extensive superficial siderosis throughout the brain, most pronounced in the posterior fossa.\n\nOverall, the findings are most suggestive of a long-standing lesion with chronic or intermittent hemorrhage over time. A low grade/indolent cystic neoplasm (ie. ganglioglioma, PXA, pilocytic) are thought more likely than recurrent hemorrhage into a neuroepithelial cyst.",
+    "pixel_stats": {
+        "mean": 35.520729064941406,
+        "std": 41.00277120753508,
+        "min": 0,
+        "max": 126
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

@@ -1,0 +1,26 @@
+{
+    "filename": "T1C+ - Anaplastic astrocytoma parietal , ventricle 045.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 188,
+        "y": 364
+    },
+    "point_normalized": {
+        "x": 0.3683971453325417,
+        "y": 0.7126127443446562
+    },
+    "location": [
+        "parietal",
+        "ventricle"
+    ],
+    "location_str": "parietal ventricle",
+    "description": "Right parietal T2 hyperintensity involving the cortex and the subjacent white matter, with florid heterogenous patchy contrast enhancement. MR perfusion demonstrates no definite elevation of cerebral blood volume (CBV). MR spectroscopy (not shown) demonstrates reversal of choline creatine ratio and decreased NAA in the enhancing components, and reversal of the choline creatine ratio in the peritumoral non-enhancing areas. No susceptibility artefact and no abnormal diffusion restriction within the mass.\n\nThe mass causes mild effacement of the ipsilateral lateral ventricle (the trigone and occipital horn). No midline shift.\n\nAn additional 15 mm left occipital lesion abutting the left tentorium, likely extra-axial, demonstrates enhancement peripherally and significant susceptibility artefact centrally. Slightly elevated CBV correspond to the enhancing rim. There is associated with T2/FLAIR hyperintensity within the left occipital lobe, likely secondary to the positive mass effect.\n\nThe remainder of the brain is unremarkable.\n\nRight parietal heterogeneously enhancing lesion demonstrates a tumoral trace on spectroscopy, although without definite elevation of CBV This is an unusual lesion. Enhancement and leptomeningeal spread reasonable for lymphoma, however, unless they have had steroids the ADC argues strongly against it as does the T2 appearance. It is difficult not to put GBM as the most likely given that it is common and has variable appearance, and using the same logic one can't exclude a metastasis. The interesting features are that it is very cortical, very enhancing, and has extensive local leptomeningeal spread. Cortical tumors (e.g. PXA or ganglioglioma) could look like this but they are rare especially in a 75-year-old. As such, unless she has received steroids (in which case lymphoma would be most likely) or has a history of malignancy (in case it would be hard to not rate metastases as likely despite unusual appearance) high-grade glioma/GBM is favored.\n\nThe left occipital peripherally enhancing lesion is likely extra-axial almost certainly representing a meningioma.",
+    "pixel_stats": {
+        "mean": 40.94739532470703,
+        "std": 50.621816674694514,
+        "min": 10,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

@@ -1,0 +1,25 @@
+{
+    "filename": "T1 - Glioblastoma NOS (cystic) temporal 003.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 181,
+        "y": 255
+    },
+    "point_normalized": {
+        "x": 0.3536907628427273,
+        "y": 0.49982409408829476
+    },
+    "location": [
+        "temporal"
+    ],
+    "location_str": "temporal",
+    "description": "A large right temporal lobe mass is present, predominantly cystic, is noted. There is extensive irregular enhancement, with solid components demonstrating reduced ADC values suggestive of high cellularity.\n\nImportantly the cortex of the temporal pole is also involved.\n\nFeatures are most consistent with a high grade cystic glioma (glioblastoma). Cystic metastasis could have similar appearance, however involvement of the cortex makes this much less likely.",
+    "pixel_stats": {
+        "mean": 28.202728271484375,
+        "std": 43.25128613841831,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

@@ -1,0 +1,26 @@
+{
+    "filename": "T2 - Medulloblastoma posterior fossa , ventricle 018.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 257,
+        "y": 314
+    },
+    "point_normalized": {
+        "x": 0.5040226727386079,
+        "y": 0.6143545756531059
+    },
+    "location": [
+        "posterior fossa",
+        "ventricle"
+    ],
+    "location_str": "posterior fossa ventricle",
+    "description": "Axial nonenhanced CT image shows a solid expansive heterogeneous midline posterior fossa mass with calcification and compressive effects on the fourth ventricle with consequent supratentorial hydrocephalus. There is periventricular hypodensity, suggesting transependymal CSF permeation.\n\nImpression: medulloblastoma is the primary diagnostic consideration.",
+    "pixel_stats": {
+        "mean": 31.785877227783203,
+        "std": 37.138125277143054,
+        "min": 5,
+        "max": 198
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

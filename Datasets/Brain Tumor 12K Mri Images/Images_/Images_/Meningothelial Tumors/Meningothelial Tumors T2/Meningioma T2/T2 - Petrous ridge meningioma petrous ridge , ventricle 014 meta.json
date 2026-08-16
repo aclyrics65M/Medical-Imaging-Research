@@ -1,0 +1,26 @@
+{
+    "filename": "T2 - Petrous ridge meningioma petrous ridge , ventricle 014.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 228,
+        "y": 273
+    },
+    "point_normalized": {
+        "x": 0.4468311852782186,
+        "y": 0.5354098974265327
+    },
+    "location": [
+        "petrous ridge",
+        "ventricle"
+    ],
+    "location_str": "petrous ridge ventricle",
+    "description": "3.4 cm enhancing convex mass with underlying bony irregularity adjacent to the right petrous ridge.\n\nThe mass covers the right internal auditory meatus.\n\nThe 4th ventricle is effaced as it the brainstem, due to mass effect.\n\nThe supratentorial brain is normal.",
+    "pixel_stats": {
+        "mean": 53.78968048095703,
+        "std": 50.205477761567934,
+        "min": 12,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

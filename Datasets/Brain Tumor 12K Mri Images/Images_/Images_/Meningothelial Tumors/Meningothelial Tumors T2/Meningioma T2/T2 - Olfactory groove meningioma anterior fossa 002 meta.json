@@ -1,0 +1,25 @@
+{
+    "filename": "T2 - Olfactory groove meningioma anterior fossa 002.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 258,
+        "y": 174
+    },
+    "point_normalized": {
+        "x": 0.5056567152374762,
+        "y": 0.34110637163875096
+    },
+    "location": [
+        "anterior fossa"
+    ],
+    "location_str": "anterior fossa",
+    "description": "Brain CT without and with contrast, shows an extra-axial mass localized in central anterior fossa with marked enhancement.",
+    "pixel_stats": {
+        "mean": 38.9228401184082,
+        "std": 48.821930086983926,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

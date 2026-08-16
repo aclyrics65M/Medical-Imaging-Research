@@ -1,0 +1,26 @@
+{
+    "filename": "T1 - Pilocytic astrocytoma posterior fossa , ventricle 042.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 215,
+        "y": 362
+    },
+    "point_normalized": {
+        "x": 0.42232054779519457,
+        "y": 0.708590027972406
+    },
+    "location": [
+        "posterior fossa",
+        "ventricle"
+    ],
+    "location_str": "posterior fossa ventricle",
+    "description": "Selected images from an MRI of the posterior fossa demonstrates a cystic mass with peripheral nodular enhancement. It arises form the right cerebellar hemisphere, displacing and compressing the fourth ventricle. It is surrounded by vasogenic edema. No flow voids are noted.",
+    "pixel_stats": {
+        "mean": 43.81716537475586,
+        "std": 58.00977387517034,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

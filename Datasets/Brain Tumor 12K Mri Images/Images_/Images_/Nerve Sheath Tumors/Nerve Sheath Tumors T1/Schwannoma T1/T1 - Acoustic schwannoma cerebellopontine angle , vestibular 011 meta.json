@@ -1,0 +1,26 @@
+{
+    "filename": "T1 - Acoustic schwannoma cerebellopontine angle , vestibular 011.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 202,
+        "y": 288
+    },
+    "point_normalized": {
+        "x": 0.3961758678133023,
+        "y": 0.5631489132929217
+    },
+    "location": [
+        "cerebellopontine angle",
+        "vestibular"
+    ],
+    "location_str": "cerebellopontine angle vestibular",
+    "description": "Widening of the right internal acoustic meatus consistent with an expanding lesion projecting into the right cerebellopontine angle cistern, consistent with a vestibular schwannoma. No other acute middle or inner ear abnormality.",
+    "pixel_stats": {
+        "mean": 42.61743927001953,
+        "std": 50.346828809902796,
+        "min": 0,
+        "max": 246
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

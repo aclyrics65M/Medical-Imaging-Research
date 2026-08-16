@@ -1,0 +1,25 @@
+{
+    "filename": "T1C+ - Third ventricular pilocytic astrocytoma ventricle 026.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 258,
+        "y": 238
+    },
+    "point_normalized": {
+        "x": 0.5040226727386079,
+        "y": 0.46569076119711567
+    },
+    "location": [
+        "ventricle"
+    ],
+    "location_str": "ventricle",
+    "description": "Centered on the 3rd ventricle is a mass lesion that is iso-intense to grey-matter on T1 weighted imaging and hyperintense on T2. There is not significant diffusion restriction, but there is avid peripheral enhancement that has a foliated pattern.",
+    "pixel_stats": {
+        "mean": 17.973663330078125,
+        "std": 30.57980937244877,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

@@ -1,0 +1,26 @@
+{
+    "filename": "T1 - Medulloblastoma ventricle , supratentorial 027.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 306,
+        "y": 343
+    },
+    "point_normalized": {
+        "x": 0.5987971376729675,
+        "y": 0.6707914629058689
+    },
+    "location": [
+        "ventricle",
+        "supratentorial"
+    ],
+    "location_str": "ventricle supratentorial",
+    "description": "Heterogeneous solid-cystic mass enlarging the left cerebellar hemisphere with mass effect over the fourth ventricle and mildly over the pons causing supratentorial hydrocephalus. It has multiple small cystic components that suppress on FLAIR and it shows mild contrast enhancement and restricted diffusion on its solid parts.",
+    "pixel_stats": {
+        "mean": 24.059539794921875,
+        "std": 38.68205943776527,
+        "min": 0,
+        "max": 218
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

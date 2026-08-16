@@ -1,0 +1,23 @@
+{
+    "filename": "T2 - Anaplastic astrocytoma NOS 009.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 214,
+        "y": 308
+    },
+    "point_normalized": {
+        "x": 0.41716636795173284,
+        "y": 0.6026723037675431
+    },
+    "location": [],
+    "location_str": "",
+    "description": "CT shows an ill-defined hyperintense lesion in the right thalamus with only minor mass effect but no surrounding edema.",
+    "pixel_stats": {
+        "mean": 64.16311264038086,
+        "std": 66.54608216784696,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

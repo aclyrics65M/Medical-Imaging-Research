@@ -1,0 +1,26 @@
+{
+    "filename": "T2 - Suprasellar meningioma suprasellar , cavernous sinus 011.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 258,
+        "y": 212
+    },
+    "point_normalized": {
+        "x": 0.5040226727386079,
+        "y": 0.4148538841471448
+    },
+    "location": [
+        "suprasellar",
+        "cavernous sinus"
+    ],
+    "location_str": "suprasellar cavernous sinus",
+    "description": "30 x 28 x 25 mm (TR x AP x CC) suprasellar lesion extending anteriorly to planum, thinning and splaying optic chiasm, abutting and splaying both cavernous ICAs laterally. Displacement of the adenohypopophysis inferiorly. Mild gliosis of posterior margin of right olfactory gyrus with vasogenic edema. Lesion is slightly T1 hypointense, T2 hyperintense and shows intense contrast enhancement. No cavernous sinus invasion.\n\nNormal posterior pituitary T1 bright spot. Normal morphology and signal intensity of adenohypophysis. Central pituitary stalk. No focal lesions.\n\nBilateral centrum semiovale, periventricular white matter, right posterior putamen and ventrolateral pons chronic small vessel ischemic changes.\n\nNo acute infarct. No extra axial or intra axial hemorrhage.\n\nThalami are normal. Ventricles and basal cisterns are normal.\n\nMidbrain, medulla and cerebellum are normal. Orbits and paranasal sinuses are normal.\n\nNo abnormal meningeal enhancement.\n\nsuprasellar / planum sphenoidale intensely enhancing mass lesion with mass effect as described, likely suprasellar meningioma\n\nbilateral centrum semiovale, periventricular white matter, right putamen, ventrolateral pons chronic small vessel ischemic changes",
+    "pixel_stats": {
+        "mean": 30.38739776611328,
+        "std": 42.7645007166293,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

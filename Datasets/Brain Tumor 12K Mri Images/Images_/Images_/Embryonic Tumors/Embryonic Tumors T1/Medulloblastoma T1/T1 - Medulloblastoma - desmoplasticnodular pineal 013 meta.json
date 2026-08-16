@@ -1,0 +1,25 @@
+{
+    "filename": "T1 - Medulloblastoma - desmoplasticnodular pineal 013.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 244,
+        "y": 322
+    },
+    "point_normalized": {
+        "x": 0.47787799275671566,
+        "y": 0.6306439430470764
+    },
+    "location": [
+        "pineal"
+    ],
+    "location_str": "pineal",
+    "description": "A single sagittal image from a CT of the brain demonstrates a heterogeneous slightly hyperdense mass above the bulk of the cerebellum and posterior to the midbrain. Pineal calcifications are displaced superiorly and the mass is clearly below the internal cerebral veins / vein of Galen.",
+    "pixel_stats": {
+        "mean": 59.79501724243164,
+        "std": 66.97440248421545,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

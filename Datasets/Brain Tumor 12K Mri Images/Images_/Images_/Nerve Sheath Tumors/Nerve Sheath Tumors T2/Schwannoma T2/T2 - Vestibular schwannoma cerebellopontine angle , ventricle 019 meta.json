@@ -1,0 +1,26 @@
+{
+    "filename": "T2 - Vestibular schwannoma cerebellopontine angle , ventricle 019.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 225,
+        "y": 308
+    },
+    "point_normalized": {
+        "x": 0.43558248416414214,
+        "y": 0.6029786992028358
+    },
+    "location": [
+        "cerebellopontine angle",
+        "ventricle"
+    ],
+    "location_str": "cerebellopontine angle ventricle",
+    "description": "An extra-axial expanding lesion occupies the right cerebellopontine angle, extends into and funnels the right internal auditory canal.\n\nThe lesion invaginates the right side of the pons, right middle cerebellar peduncle and anteromedial part of the right cerebellar hemisphere.\n\nThe fourth ventricle is displaced to the left side and compressed.\n\nThe lesion measures 4.7 x 4.0 x 4.0 cm (side to side, A.P and cephalo-caudal maximal diameters). It shows multiple different sized cystic changes.\n\nFollowing injection of contrast, the lesion shows heterogeneous enhancement.\n\nDWI revealed no diffusion restriction of the tumor and its contained cystic changes.\n\nIncidentally noted small right paramedian posterior fossa arachnoid cyst.",
+    "pixel_stats": {
+        "mean": 53.01240158081055,
+        "std": 57.87381424094807,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

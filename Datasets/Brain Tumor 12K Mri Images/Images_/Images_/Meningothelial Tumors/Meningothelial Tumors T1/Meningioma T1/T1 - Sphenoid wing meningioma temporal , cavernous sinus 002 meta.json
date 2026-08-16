@@ -1,0 +1,26 @@
+{
+    "filename": "T1 - Sphenoid wing meningioma temporal , cavernous sinus 002.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 311,
+        "y": 206
+    },
+    "point_normalized": {
+        "x": 0.6086013926661771,
+        "y": 0.40341558665506694
+    },
+    "location": [
+        "temporal",
+        "cavernous sinus"
+    ],
+    "location_str": "temporal cavernous sinus",
+    "description": "3.9 x 3.1 cm well-defined homogeneously enhancing mass centered on the left sphenoid wing. The component within the inferior temporal fossa exhibits a dural tail.\n\nA small amount of tissue extends into the left side of the cavernous sinus and encircles the intracavernous ICA. This also abuts the proximal optic nerve just distal to the optic chiasm.\n\nSmall amount of peri-tumoural edema in the left inferior temporal lobe.\n\nNo significant mass effect.",
+    "pixel_stats": {
+        "mean": 28.455894470214844,
+        "std": 45.920805472670914,
+        "min": 0,
+        "max": 253
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

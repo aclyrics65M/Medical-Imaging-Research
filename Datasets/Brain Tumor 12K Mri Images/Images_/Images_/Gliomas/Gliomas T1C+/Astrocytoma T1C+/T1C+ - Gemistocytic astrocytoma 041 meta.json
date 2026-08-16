@@ -1,0 +1,23 @@
+{
+    "filename": "T1C+ - Gemistocytic astrocytoma 041.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 267,
+        "y": 326
+    },
+    "point_normalized": {
+        "x": 0.521997140226159,
+        "y": 0.6377928727462476
+    },
+    "location": [],
+    "location_str": "",
+    "description": "7.1 x 3.2 cm nonenhancing lesion within the left frontoparietal region.",
+    "pixel_stats": {
+        "mean": 39.858856201171875,
+        "std": 43.155721571063616,
+        "min": 0,
+        "max": 250
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

@@ -1,0 +1,26 @@
+{
+    "filename": "T2 - Clear cell meningioma cerebellopontine angle , ventricle 003.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 278,
+        "y": 316
+    },
+    "point_normalized": {
+        "x": 0.5448737352103147,
+        "y": 0.6191091965056783
+    },
+    "location": [
+        "cerebellopontine angle",
+        "ventricle"
+    ],
+    "location_str": "cerebellopontine angle ventricle",
+    "description": "A left cerebellopontine angle heterogeneous lobulated mass with multiple cystic components. Signs of calcification on SWI present. The mass exerts mass effect in the form of compression of the 4th ventricle and compression of the brain stem.",
+    "pixel_stats": {
+        "mean": 28.773670196533203,
+        "std": 41.76723460860309,
+        "min": 0,
+        "max": 243
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

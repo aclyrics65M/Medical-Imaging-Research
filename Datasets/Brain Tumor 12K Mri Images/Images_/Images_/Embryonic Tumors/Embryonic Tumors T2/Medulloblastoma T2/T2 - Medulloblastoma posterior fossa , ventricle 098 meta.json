@@ -1,0 +1,26 @@
+{
+    "filename": "T2 - Medulloblastoma posterior fossa , ventricle 098.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 260,
+        "y": 345
+    },
+    "point_normalized": {
+        "x": 0.5089248002352128,
+        "y": 0.675568760785613
+    },
+    "location": [
+        "posterior fossa",
+        "ventricle"
+    ],
+    "location_str": "posterior fossa ventricle",
+    "description": "Selected CT images demonstrating a posterior fossa mass, centered in the upper portion of the vermis containing cystic and solid components with significant effacement of the forth ventricle and diffuse dilatation of the supratentorial ventricles.",
+    "pixel_stats": {
+        "mean": 32.60551071166992,
+        "std": 51.71672468770431,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

@@ -1,0 +1,25 @@
+{
+    "filename": "T1 - Glioblastoma NOS temporal 009.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 169,
+        "y": 297
+    },
+    "point_normalized": {
+        "x": 0.3324482103574398,
+        "y": 0.582241112624963
+    },
+    "location": [
+        "temporal"
+    ],
+    "location_str": "temporal",
+    "description": "MRI demonstrates a large mass in the superior part of the right temporal lobe. It exerts significant mass effect and is surrounded by vasogenic edema. The mass itself is heterogeneously low on T1, and demonstrates a very high T2 signal region centrally, suggestive of a necrotic center.\n\nFollowing administration of contrast, the margins enhance irregularly.\n\nFeatures are most consistent with a high-grade (WHO grade IV) primary glial tumor.",
+    "pixel_stats": {
+        "mean": 49.048377990722656,
+        "std": 55.86691691568243,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

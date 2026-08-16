@@ -1,0 +1,25 @@
+{
+    "filename": "T2 - Diffuse fibrillary astrocytoma frontal 012.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 324,
+        "y": 193
+    },
+    "point_normalized": {
+        "x": 0.6437134389698081,
+        "y": 0.37872335842010113
+    },
+    "location": [
+        "frontal"
+    ],
+    "location_str": "frontal",
+    "description": "FLAIR hyperintensity is identified involving the insular cortex on the left with superior extension into the periventricular white matter of the left frontal lobe. Subtle FLAIR hyperintensity also noted at the inferior left frontal and mesiotemporal lobes. The affected region demonstrates mildly decreased T1 signal and demonstrates mild mass effect with partial effacement of the involved sulci.\n\nRegion demonstrates no discernible enhancement and no susceptibility induced signal loss. Mild irregular diffusion restriction centrally (not shown). MRS demonstrates a mild to moderately elevated creatine peak, slightly increased choline, moderately decreased NAA peak and mild increased myoinositol peak without a significant lactate peak (not shown).\n\nVentricular size is age appropriate. No other focal lesions identified.\n\nImaging appearances would be in keeping with tumor (such as a low-grade astrocytoma).",
+    "pixel_stats": {
+        "mean": 49.17331314086914,
+        "std": 51.26243041838899,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

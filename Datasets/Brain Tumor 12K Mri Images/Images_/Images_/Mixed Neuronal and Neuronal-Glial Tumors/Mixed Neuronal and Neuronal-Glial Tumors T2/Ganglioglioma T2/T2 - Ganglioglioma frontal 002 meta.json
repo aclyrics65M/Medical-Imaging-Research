@@ -1,0 +1,25 @@
+{
+    "filename": "T2 - Ganglioglioma frontal 002.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 334,
+        "y": 217
+    },
+    "point_normalized": {
+        "x": 0.6568644184613389,
+        "y": 0.42671203701090304
+    },
+    "location": [
+        "frontal"
+    ],
+    "location_str": "frontal",
+    "description": "Selected MRI images showing a juxtacortical small cystic lesion in the left frontal lobe that shows partial suppression on FLAIR.",
+    "pixel_stats": {
+        "mean": 57.71882629394531,
+        "std": 55.87507514175292,
+        "min": 0,
+        "max": 244
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

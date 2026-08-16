@@ -1,0 +1,26 @@
+{
+    "filename": "T1C+ - Meningioma frontal , ventricle 095.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 315,
+        "y": 224
+    },
+    "point_normalized": {
+        "x": 0.6167716051605184,
+        "y": 0.43854181554049815
+    },
+    "location": [
+        "frontal",
+        "ventricle"
+    ],
+    "location_str": "frontal ventricle",
+    "description": "There is a well-defined extra axial and dural based mass lesion, seen in the left frontal region which shows hypointense T1, slightly hyperintense T2 signal and mild diffusion restriction, with solid internal enhancement and enhancing dural tail, causing significant mass effect on the underlying brain tissue with shift of midline structures to the right side, along with impingement of the left lateral ventricle.",
+    "pixel_stats": {
+        "mean": 10.905284881591797,
+        "std": 22.77923544252321,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

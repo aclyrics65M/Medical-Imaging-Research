@@ -1,0 +1,26 @@
+{
+    "filename": "T1 - Anaplastic astrocytoma temporal , frontal 003.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 166,
+        "y": 289
+    },
+    "point_normalized": {
+        "x": 0.32591204036196675,
+        "y": 0.56536735362808
+    },
+    "location": [
+        "temporal",
+        "frontal"
+    ],
+    "location_str": "temporal frontal",
+    "description": "There is a lesion centered in the right temporal lobe which demonstrates extension into the posterior aspect of the frontal lobe in the precentral gyrus and the anterior aspect of the parietal lobe in the postcentral gyrus.\n\nThere is a small cystic appearing area within the anterior aspect of the lesion felt to represent a focus of necrosis.\n\nThere is a small amount of enhancement within the mid-portion portion and posterior aspects of the lesion. No evidence of hemorrhage or calcification appreciated. Moderate amount of surrounding vasogenic edema appreciated. Very minor mass effect on the adjacent lateral ventricle.\n\nNo midline shift. Ventricular size within normal limits and the basal cisterns are patent.\n\nThere are a few small foci of high signal within the white matter of the left hemisphere which are felt to be nonspecific. Incidental note of sinus disease. Vascular flow voids preserved.\n\nRight temporal lobe tumor with involvement of the pre and postcentral gyri. Given the enhancement of the lesion, this is felt to most likely represent a grade 3 anaplastic astrocytoma.",
+    "pixel_stats": {
+        "mean": 31.996673583984375,
+        "std": 42.72265067382353,
+        "min": 0,
+        "max": 208
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

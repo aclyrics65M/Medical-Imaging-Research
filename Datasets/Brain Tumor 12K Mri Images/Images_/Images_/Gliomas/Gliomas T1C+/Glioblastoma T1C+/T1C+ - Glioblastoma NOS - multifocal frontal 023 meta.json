@@ -1,0 +1,25 @@
+{
+    "filename": "T1C+ - Glioblastoma NOS - multifocal frontal 023.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 307,
+        "y": 212
+    },
+    "point_normalized": {
+        "x": 0.613218706978603,
+        "y": 0.41718012451196396
+    },
+    "location": [
+        "frontal"
+    ],
+    "location_str": "frontal",
+    "description": "There is a round-to-oval lesion in the left frontal lobe, hypointense on T1WI and FLAIR and hyperintense on T2WI,  surrounded by perilesional edema. Multiple small lesions are closely connected to the larger lesion by the hyperintense signal. Post-contrast images reveal peripheral discrete enhancement within both the larger and smaller lesions.",
+    "pixel_stats": {
+        "mean": 20.946521759033203,
+        "std": 42.07945416689999,
+        "min": 0,
+        "max": 251
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

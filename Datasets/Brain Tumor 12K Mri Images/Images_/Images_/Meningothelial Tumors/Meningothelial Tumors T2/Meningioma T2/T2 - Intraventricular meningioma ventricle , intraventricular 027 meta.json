@@ -1,0 +1,26 @@
+{
+    "filename": "T2 - Intraventricular meningioma ventricle , intraventricular 027.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 217,
+        "y": 303
+    },
+    "point_normalized": {
+        "x": 0.4255886327929311,
+        "y": 0.5920226718908687
+    },
+    "location": [
+        "ventricle",
+        "intraventricular"
+    ],
+    "location_str": "ventricle intraventricular",
+    "description": "A lobulated well-defined space-occupying lesion is noted within in the posterior aspect of the right lateral ventricle. It is isointense on T1 and T2. Intense homogeneous enhancement of the solid component on post-contrast T1.\n\nWell-defined areas of high intensity on T2 and low intensity on T1 may represent cystic components. An area of high intensity on T1 and low intensity on T2 may represent subacute hemorrhage.\n\nModerate surrounding edema was noted on T2 and flair, with moderate midline shift.\n\nCSF cleft sign is noted, indicating an extra-axial lesion (intraventricular in this case).",
+    "pixel_stats": {
+        "mean": 28.578453063964844,
+        "std": 38.83904478019566,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

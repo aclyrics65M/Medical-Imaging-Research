@@ -1,0 +1,23 @@
+{
+    "filename": "T2 - Ganglioglioma 026.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 307,
+        "y": 264
+    },
+    "point_normalized": {
+        "x": 0.6020652226707041,
+        "y": 0.5182013998270811
+    },
+    "location": [],
+    "location_str": "",
+    "description": "A large mass consisting of a solid central component and a cystic peripheral component exerts localized mass effect on the left hemisphere. Anteriorly a number of heavily calcified components are also present.",
+    "pixel_stats": {
+        "mean": 44.120697021484375,
+        "std": 51.61918851811838,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

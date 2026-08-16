@@ -1,0 +1,25 @@
+{
+    "filename": "T1C+ - Acoustic schwannoma ventricle 014.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 253,
+        "y": 309
+    },
+    "point_normalized": {
+        "x": 0.4917570407531621,
+        "y": 0.6047943075201361
+    },
+    "location": [
+        "ventricle"
+    ],
+    "location_str": "ventricle",
+    "description": "There is a large well-defined extra-axial mass lesion seen in the left cerebellopontine (CP) angle region, extending into the left internal auditory canal with enlargement of the ipsilateral CP angle cistern. The lesion appears heterogeneously hyperintense on the T2W and FLAIR images, hypointense on T1W images and heterogeneously enhancing on contrast administration with enhancement of the left VII - VIII nerve complexes. There is widening of the left internal auditory canal.\n\nThe lesion causes mass effect in the form of compressive buckling of the left cerebellar hemisphere, cerebellar peduncles, compressive rotation of the brain stem. The lesion causes compression and right lateral displacement of the fourth ventricle with moderate dilatation of both the lateral and the third ventricles.",
+    "pixel_stats": {
+        "mean": 37.0319938659668,
+        "std": 48.84220174696691,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

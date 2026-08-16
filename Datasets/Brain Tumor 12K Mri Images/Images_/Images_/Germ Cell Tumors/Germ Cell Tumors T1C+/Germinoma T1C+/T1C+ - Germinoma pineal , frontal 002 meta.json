@@ -1,0 +1,26 @@
+{
+    "filename": "T1C+ - Germinoma pineal , frontal 002.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 235,
+        "y": 283
+    },
+    "point_normalized": {
+        "x": 0.461537567768033,
+        "y": 0.558831183632607
+    },
+    "location": [
+        "pineal",
+        "frontal"
+    ],
+    "location_str": "pineal frontal",
+    "description": "The hyperdense lesion engulfing the calcified pineal gland on CT (not shown) corresponds to a lobulated vividly enhancing pineal region mass crossing the midline with bilateral thalamic invasion and severe compression of the midbrain tegmentum and tectum. The solid components have quite low ADC values similar to normal brain parenchyma. Vasogenic edema within the midbrain and right dorsal pons noted. Compression of the cerebral aqueduct causes obstructive hydrocephalus relieved by third ventriculostomy (tract through the left frontal lobe). A small focus of blood product is present anteroinferiorly. No abnormal leptomeningeal enhancement detected.\n\nThe features are most consistent with a germinoma.",
+    "pixel_stats": {
+        "mean": 48.41820526123047,
+        "std": 46.49009189492468,
+        "min": 4,
+        "max": 218
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

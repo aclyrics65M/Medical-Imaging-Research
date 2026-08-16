@@ -1,0 +1,26 @@
+{
+    "filename": "T1 - Angiomatous meningioma parafalcine , falx 013.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 315,
+        "y": 171
+    },
+    "point_normalized": {
+        "x": 0.6167716051605184,
+        "y": 0.3347858017025997
+    },
+    "location": [
+        "parafalcine",
+        "falx"
+    ],
+    "location_str": "parafalcine falx",
+    "description": "There is a large enhancing left parafalcine mass. The mass abuts the anterior falx  and the superior sagittal sinus, with possible small extensions of the tumor into the superior sagittal sinus but no compelling evidence of occlusion.\n\nThere are small cysts at the interface of the mass with the adjacent brain and multiple parasitized vessels inferior to the mass. There is moderate adjacent mass effect and mild midline shift.",
+    "pixel_stats": {
+        "mean": 44.1395149230957,
+        "std": 45.43092361652942,
+        "min": 0,
+        "max": 250
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

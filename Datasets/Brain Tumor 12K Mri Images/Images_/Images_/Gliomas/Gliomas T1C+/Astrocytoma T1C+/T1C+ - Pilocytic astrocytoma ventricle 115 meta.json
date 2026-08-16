@@ -1,0 +1,25 @@
+{
+    "filename": "T1C+ - Pilocytic astrocytoma ventricle 115.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 282,
+        "y": 353
+    },
+    "point_normalized": {
+        "x": 0.5616748304960196,
+        "y": 0.6913701918593687
+    },
+    "location": [
+        "ventricle"
+    ],
+    "location_str": "ventricle",
+    "description": "A left cerebellar mass with cystic and solid components, showing no diffusion restriction and foci of low signal on SWI (compatible with hemorrhage or calcification). The solid component demonstrates vivid enhancement and surrounding edema and compresses the fourth ventricle, resulting in hydrocephalus.",
+    "pixel_stats": {
+        "mean": 44.953433990478516,
+        "std": 49.63885468258016,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

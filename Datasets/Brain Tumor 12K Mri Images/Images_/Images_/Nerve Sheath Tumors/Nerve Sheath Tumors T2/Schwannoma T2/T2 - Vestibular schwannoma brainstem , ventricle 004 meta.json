@@ -1,0 +1,26 @@
+{
+    "filename": "T2 - Vestibular schwannoma brainstem , ventricle 004.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 224,
+        "y": 305
+    },
+    "point_normalized": {
+        "x": 0.4273014358127776,
+        "y": 0.5969531674882591
+    },
+    "location": [
+        "brainstem",
+        "ventricle"
+    ],
+    "location_str": "brainstem ventricle",
+    "description": "Heterogeneous lesion in right CP angle region, extending into right internal auditory canal and causing its expansion. Mass effect is seen on brainstem, cerebellum and 4th ventricle causing obstructive hydrocephalus and transependymal edema.",
+    "pixel_stats": {
+        "mean": 52.45608901977539,
+        "std": 62.5018797489756,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

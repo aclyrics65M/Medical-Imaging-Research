@@ -1,0 +1,25 @@
+{
+    "filename": "T2 - Periventricular CNS germinoma ventricle 002.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 250,
+        "y": 232
+    },
+    "point_normalized": {
+        "x": 0.48999838002821305,
+        "y": 0.45525671691300806
+    },
+    "location": [
+        "ventricle"
+    ],
+    "location_str": "ventricle",
+    "description": "Obstructive hydrocephalus at the level of the foramen of Monro with periventricular white matter hypoattenuation consistent with transependymal CSF leakage and significant mass effect.\n\nMultifocal nodular regions of increased attenuation surrounding the anterosuperior aspect of both lateral ventricles, third and fourth ventricles. No calcification. Superior to the mass lesion at the foramen of Monro there is a cystic component which to represent fluid within a dilated cavum septum pellucidum. Fourth ventricle is partially effaced.\n\nConclusion: CT findings are consistent with tumor; given the hyperattenuation and pattern of spread lymphoma is favored.",
+    "pixel_stats": {
+        "mean": 48.43977737426758,
+        "std": 55.17149323995291,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

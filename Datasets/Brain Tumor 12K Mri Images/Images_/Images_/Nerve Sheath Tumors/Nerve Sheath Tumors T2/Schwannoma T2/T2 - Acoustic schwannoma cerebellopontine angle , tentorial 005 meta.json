@@ -1,0 +1,26 @@
+{
+    "filename": "T2 - Acoustic schwannoma cerebellopontine angle , tentorial 005.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 283,
+        "y": 291
+    },
+    "point_normalized": {
+        "x": 0.553043947704656,
+        "y": 0.5702978492254704
+    },
+    "location": [
+        "cerebellopontine angle",
+        "tentorial"
+    ],
+    "location_str": "cerebellopontine angle tentorial",
+    "description": "An extra-axial 25 x 40 mm lobulated mass in the left cerebellopontine angle corresponds to the lesion demonstrated on CT. It is T2 heterogeneously hyperintense with central suppression on FLAIR. T1 heterogeneous and hypointense to brain with peripheral vivid enhancement. The mass crosses the left internal auditory canal without extending into it and it does not appear to extend into the jugular foramen. It is continuous with the tentorial incisura superiorly without a clear dural tail. Central vascular flow voids on the T2 images are noted.\n\nThere is no diffusion restriction. MR spectroscopy voxel over the region demonstrates a reduced NAA peak with no evidence of significantly elevated lactate or lipids within the limitations of an erratic baseline. The lesion has increased peripheral perfusion.\n\nThe mass compresses and displaces the pons and left middle cerebral peduncle towards the right with distortion but not effacement of the fourth ventricle. The basilar artery lies close to its medial margin. High FLAIR signal in the middle cerebral peduncle is in keeping with vasogenic edema. No hydrocephalus. The foramen magnum is crowded with bilateral tonsilar ectopia ( 4 mm below foramen magnum) .\n\nThe appearance of the left cerebellopontine angle extra-axial mass most favors a vestibular schwannoma with a differential of cystic meningioma or metastasis considered less likely.",
+    "pixel_stats": {
+        "mean": 32.54627990722656,
+        "std": 47.09424081131381,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

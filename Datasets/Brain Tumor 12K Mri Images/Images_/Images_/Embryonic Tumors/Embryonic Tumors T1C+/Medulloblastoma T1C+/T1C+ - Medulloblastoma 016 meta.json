@@ -1,0 +1,23 @@
+{
+    "filename": "T1C+ - Medulloblastoma 016.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 308,
+        "y": 380
+    },
+    "point_normalized": {
+        "x": 0.602407980784347,
+        "y": 0.7434779860047213
+    },
+    "location": [],
+    "location_str": "",
+    "description": "There is a 4 x 5 cm homogeneous enhancing intra-axial lesion in the left cerebellum, showing restricted diffusion, heterogeneous signal on T2W sequences, hypointense to grey matter on T1W sequences and hyperintense to grey matter on FLAIR sequences.",
+    "pixel_stats": {
+        "mean": 47.6937255859375,
+        "std": 68.01372568616772,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

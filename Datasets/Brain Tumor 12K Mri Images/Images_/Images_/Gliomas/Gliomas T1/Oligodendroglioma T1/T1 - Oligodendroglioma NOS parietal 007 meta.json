@@ -1,0 +1,25 @@
+{
+    "filename": "T1 - Oligodendroglioma NOS parietal 007.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 232,
+        "y": 289
+    },
+    "point_normalized": {
+        "x": 0.44461586797601593,
+        "y": 0.5684992580286151
+    },
+    "location": [
+        "parietal"
+    ],
+    "location_str": "parietal",
+    "description": "Large parenchymal calcification within the medial right parietal lobe deep white matter. Cingulate gyrus appers hypodense and expanded (best seen on coronal images).",
+    "pixel_stats": {
+        "mean": 32.402835845947266,
+        "std": 34.73485444428047,
+        "min": 0,
+        "max": 188
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

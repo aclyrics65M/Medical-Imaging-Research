@@ -1,0 +1,26 @@
+{
+    "filename": "T2 - Meningioma - paraclinoid cavernous sinus , paraclinoid 005.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 202,
+        "y": 236
+    },
+    "point_normalized": {
+        "x": 0.3961758678133023,
+        "y": 0.4638751591131928
+    },
+    "location": [
+        "cavernous sinus",
+        "paraclinoid"
+    ],
+    "location_str": "cavernous sinus paraclinoid",
+    "description": "Well-circumscribed, extra-axial mass arises from the right side cavernous sinus and paraclinoid region, indenting the midbrain posteriorly, right temporal lobe laterally and causing mass effect on the right superolateral aspect of the right cavernous sinus. The mass incompletely enhances.\n\nThe pituitary fossa is mostly empty and minimal normal for age. Pituitary tissue is seen within the fossa, separate from the mass.\n\nThe cisternal and Meckel cave parts of right trigeminal nerve are separately identified.",
+    "pixel_stats": {
+        "mean": 44.7545166015625,
+        "std": 50.907194880356926,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

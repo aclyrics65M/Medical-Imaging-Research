@@ -1,0 +1,26 @@
+{
+    "filename": "T1 - Anaplastic astrocytoma IDH wild-type temporal , basal ganglia 002.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 336,
+        "y": 244
+    },
+    "point_normalized": {
+        "x": 0.6820061310289449,
+        "y": 0.48048224798928696
+    },
+    "location": [
+        "temporal",
+        "basal ganglia"
+    ],
+    "location_str": "temporal basal ganglia",
+    "description": "Ill-defined hypoattenuating mass involving the left mesial temporal lobe, anterior temporal lobe, basal ganglia, and insula. Local mass effect is seen with gyri effacement, compression over the left lateral ventricle, and mild rightward midline shift. Focal ill-defined wispy enhancement noted within the insular cortex. No calcification or signs of acute hemorrhage.",
+    "pixel_stats": {
+        "mean": 44.72355651855469,
+        "std": 44.88589144299605,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

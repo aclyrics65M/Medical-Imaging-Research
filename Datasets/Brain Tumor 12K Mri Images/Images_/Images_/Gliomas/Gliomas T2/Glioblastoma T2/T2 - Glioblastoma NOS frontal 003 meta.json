@@ -1,0 +1,25 @@
+{
+    "filename": "T2 - Glioblastoma NOS frontal 003.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 161,
+        "y": 203
+    },
+    "point_normalized": {
+        "x": 0.3161077853687571,
+        "y": 0.39777586983790325
+    },
+    "location": [
+        "frontal"
+    ],
+    "location_str": "frontal",
+    "description": "A large area of low attenuation, mostly confined to the white matter, is seen involving the right frontal lobe. Within it is embedded a relatively ill-defined area of hyperdensity with contrast enhancement.\n\nHyperdensity implies high cellularity.\n\nDifferential includes high grade glioma, cellular metastasis or central nervous system lymphoma.",
+    "pixel_stats": {
+        "mean": 31.634078979492188,
+        "std": 39.88196731933935,
+        "min": 0,
+        "max": 237
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

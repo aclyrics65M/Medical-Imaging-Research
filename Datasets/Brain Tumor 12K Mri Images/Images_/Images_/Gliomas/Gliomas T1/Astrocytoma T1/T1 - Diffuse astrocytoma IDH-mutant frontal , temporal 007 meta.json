@@ -1,0 +1,26 @@
+{
+    "filename": "T1 - Diffuse astrocytoma IDH-mutant frontal , temporal 007.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 175,
+        "y": 236
+    },
+    "point_normalized": {
+        "x": 0.3422524653506494,
+        "y": 0.4622694886109711
+    },
+    "location": [
+        "frontal",
+        "temporal"
+    ],
+    "location_str": "frontal temporal",
+    "description": "There is a well-defined hypodense lesion centered on the right insular cortex extending into the right frontal and temporal lobes. It does not demonstrate any ring enhancement post contrast administration nor is there any identifiable contrast enhancing component elsewhere in the lesion. The lesion exerts mass effect, with partial effacement of the right lateral ventricle and midline shift of 2 mm to the left as measured at the septum pellucidum. A small peripheral hypodense cortical component extends into the inferior aspect of the right frontal lobe. No vascular malformation associated with the lesion.\n\nNo acute intracranial hemorrhage or acute cortical infarct. No acute calvarial fracture. The mastoid air cells and paranasal sinuses are aerated.\n\nImpression: Right insular/frontal/temporal non-enhancing hypodense lesion exerting mild local mass-effect. Appearances favor low-grade tumor and MRI is suggested to further characterize.",
+    "pixel_stats": {
+        "mean": 34.6888542175293,
+        "std": 40.087476464928805,
+        "min": 0,
+        "max": 238
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

@@ -1,0 +1,26 @@
+{
+    "filename": "T1C+ - Intraventricular meningioma ventricle , temporal 201.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 299,
+        "y": 317
+    },
+    "point_normalized": {
+        "x": 0.5857247976820213,
+        "y": 0.6191772805709016
+    },
+    "location": [
+        "ventricle",
+        "temporal"
+    ],
+    "location_str": "ventricle temporal",
+    "description": "Within the trigone of the left lateral ventricle is a lobulated mass. It vividly enhances and has ADC values similar to the adjacent brain. DWI signal is heterogeneous on account of variable T2 signal. No calcification or hemorrhage. Despite its size and expansion of the trigone, the left temporal horn and occipital horn are not distended, suggesting that CSF can flow past the mass.\n\nThe remainder of the brain is normal.\n\nConclusion\n\nFeatures are those of an intraventricular meningioma.",
+    "pixel_stats": {
+        "mean": 35.458274841308594,
+        "std": 43.57109388352481,
+        "min": 0,
+        "max": 228
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

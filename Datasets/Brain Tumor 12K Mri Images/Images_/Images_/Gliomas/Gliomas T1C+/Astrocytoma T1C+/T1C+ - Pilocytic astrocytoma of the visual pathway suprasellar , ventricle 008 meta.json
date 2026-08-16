@@ -1,0 +1,26 @@
+{
+    "filename": "T1C+ - Pilocytic astrocytoma of the visual pathway suprasellar , ventricle 008.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 255,
+        "y": 249
+    },
+    "point_normalized": {
+        "x": 0.5007464531034189,
+        "y": 0.4918581369063119
+    },
+    "location": [
+        "suprasellar",
+        "ventricle"
+    ],
+    "location_str": "suprasellar ventricle",
+    "description": "In the suprasellar region in the visual pathway, involving optic nerves, chiasm, and optic tracts up to the region of the right external geniculate ganglion, an extra-axial lesion of irregular shape, lobulated edges, heterogeneous at the expense of some areas of cystic change is observed (it does not suppress in FLAIR ), with a predominance of hypointense signal in the white matter on T1, hyperintense on T2 and FLAIR, with some areas of magnetic susceptibility artifact in relation to hemosiderin.\n\nHomogeneous enhancement in the solid areas. It is located in a superior sagittal line to the sella turcica, obliterating the suprasellar cistern extending towards the third ventricle, lateral ventricles, caudally occupying the prepontine and interpeduncular cistern, with invasion of the anterior portion of the right lenticular nucleus and mass effect of both nuclei and peduncles.\n\nSurgical changes characterized by frontal craniectomy with malacia surrounded by gliosis that runs deeply until reaching the anterior horn of the right lateral ventricle, with which it generates communication with the subarachnoid space, compatible with porencephaly, are identified. Occipital trephines with linear trajectory shunt valves with flared distal tips, one in each posterior ventricular horn.",
+    "pixel_stats": {
+        "mean": 68.93424987792969,
+        "std": 53.137741705377586,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

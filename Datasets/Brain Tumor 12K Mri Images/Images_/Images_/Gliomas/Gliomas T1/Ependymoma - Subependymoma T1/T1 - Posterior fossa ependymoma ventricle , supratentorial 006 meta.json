@@ -1,0 +1,26 @@
+{
+    "filename": "T1 - Posterior fossa ependymoma ventricle , supratentorial 006.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 261,
+        "y": 334
+    },
+    "point_normalized": {
+        "x": 0.5121928852329493,
+        "y": 0.6550581314807802
+    },
+    "location": [
+        "ventricle",
+        "supratentorial"
+    ],
+    "location_str": "ventricle supratentorial",
+    "description": "Pre and post-contrast MRI shows a heterogeneously hyperintense signal lesion on the T2WI in the midline fourth ventricle, with intratumoral hemorrhage and internal cystic components. After the administration of contrast, the lesion shows irregular enhancement with non-enhancing cystic components — the mass results in obstructive supratentorial hydrocephalus, with mild dilatation of the third and lateral ventricles.",
+    "pixel_stats": {
+        "mean": 28.499183654785156,
+        "std": 45.31254545329171,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

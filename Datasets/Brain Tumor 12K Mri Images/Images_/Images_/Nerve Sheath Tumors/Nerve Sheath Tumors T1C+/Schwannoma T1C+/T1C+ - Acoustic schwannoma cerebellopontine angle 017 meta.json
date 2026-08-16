@@ -1,0 +1,25 @@
+{
+    "filename": "T1C+ - Acoustic schwannoma cerebellopontine angle 017.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 301,
+        "y": 272
+    },
+    "point_normalized": {
+        "x": 0.5889928826797579,
+        "y": 0.5371126176422995
+    },
+    "location": [
+        "cerebellopontine angle"
+    ],
+    "location_str": "cerebellopontine angle",
+    "description": "An enhancing, somewhat T2 hyperintense vividly enhancing mass is present in the left cerebellopontine angle and extends into the acoustic meatus. Features are typical of an acoustic schwannoma.",
+    "pixel_stats": {
+        "mean": 22.704692840576172,
+        "std": 34.65939024513067,
+        "min": 0,
+        "max": 235
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

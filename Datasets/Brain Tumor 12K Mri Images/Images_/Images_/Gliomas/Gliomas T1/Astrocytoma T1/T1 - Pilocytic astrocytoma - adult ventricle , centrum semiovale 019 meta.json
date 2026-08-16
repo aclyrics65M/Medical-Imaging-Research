@@ -1,0 +1,26 @@
+{
+    "filename": "T1 - Pilocytic astrocytoma - adult ventricle , centrum semiovale 019.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 256,
+        "y": 311
+    },
+    "point_normalized": {
+        "x": 0.5023886302397397,
+        "y": 0.6096680669159552
+    },
+    "location": [
+        "ventricle",
+        "centrum semiovale"
+    ],
+    "location_str": "ventricle centrum semiovale",
+    "description": "Cerebellar midline patchily enhancing mass that is T2/FLAIR high signal centered on the vermis extending into the cerebellar hemispheres, more so on the right. No abnormally restricted diffusion or blooming artifact.\n\nSuperiorly, high FLAIR signal extends through the left superior cerebellar peduncle into the left periaqueductal grey matter and tectal plate with narrowing of the cerebral aqueduct. Inferiorly, high FLAIR signal extends into the left cerebellar tonsil.\n\nMass effect on the fourth ventricle, which is nearly effaced. Mild ventriculomegaly. Scattered high FLAIR signal foci in the centrum semiovale.",
+    "pixel_stats": {
+        "mean": 44.08787536621094,
+        "std": 47.55836786486494,
+        "min": 5,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

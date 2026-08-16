@@ -1,0 +1,26 @@
+{
+    "filename": "T2 - Intraventricular meningioma ventricle , parietal 022.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 258,
+        "y": 286
+    },
+    "point_normalized": {
+        "x": 0.5056567152374762,
+        "y": 0.55980139636631
+    },
+    "location": [
+        "ventricle",
+        "parietal"
+    ],
+    "location_str": "ventricle parietal",
+    "description": "There is a 7 x 5cm lobulated hyperdense, enhancing mass centered on the trigone of the left lateral ventricle extending laterally into the left parietal lobe, medially to the left thalamus and inferiorly extending/compressing onto the upper aspect of the midbrain. Mild perilesional edema.\n\nCompression of the third ventricle resulting in moderate hydrocephalus with mild transependymal edema.",
+    "pixel_stats": {
+        "mean": 41.99082565307617,
+        "std": 57.480924972960636,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

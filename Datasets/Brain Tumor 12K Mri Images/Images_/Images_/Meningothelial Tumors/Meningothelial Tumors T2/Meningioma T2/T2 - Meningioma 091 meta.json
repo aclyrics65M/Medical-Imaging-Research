@@ -1,0 +1,23 @@
+{
+    "filename": "T2 - Meningioma 091.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 222,
+        "y": 249
+    },
+    "point_normalized": {
+        "x": 0.43375884528727243,
+        "y": 0.4872623923782449
+    },
+    "location": [],
+    "location_str": "",
+    "description": "At the level of the prepontinal cistern on the right side, dependent on the tent of the cerebellum, an extra-axial image of defined, homogeneous, oval morphology is displayed, with isointense behavior in T1 and T2 and hyperintense behavior in FLAIR. This lesion presents avid enhancement after the application of paramagnetic contrast; the sign of the dural tail is identified; it measures approximately 20 mm; and conditions a mass effect, producing a discrete displacement of the protuberance.",
+    "pixel_stats": {
+        "mean": 52.53596878051758,
+        "std": 53.130085020967236,
+        "min": 8,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

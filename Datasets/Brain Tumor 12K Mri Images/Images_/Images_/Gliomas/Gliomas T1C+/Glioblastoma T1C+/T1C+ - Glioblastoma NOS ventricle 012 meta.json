@@ -1,0 +1,25 @@
+{
+    "filename": "T1C+ - Glioblastoma NOS ventricle 012.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 341,
+        "y": 158
+    },
+    "point_normalized": {
+        "x": 0.6674269226254348,
+        "y": 0.29733766452702165
+    },
+    "location": [
+        "ventricle"
+    ],
+    "location_str": "ventricle",
+    "description": "Heterogeneous enhancing mass with central non-enhancement involves both white matter and cortex and extends towards the ventricle.",
+    "pixel_stats": {
+        "mean": 34.62440490722656,
+        "std": 35.08074524917362,
+        "min": 0,
+        "max": 247
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

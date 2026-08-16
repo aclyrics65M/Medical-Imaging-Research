@@ -1,0 +1,26 @@
+{
+    "filename": "T1 - Medulloblastoma posterior fossa , ventricle 001.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 248,
+        "y": 344
+    },
+    "point_normalized": {
+        "x": 0.486048205251057,
+        "y": 0.6737474925615861
+    },
+    "location": [
+        "posterior fossa",
+        "ventricle"
+    ],
+    "location_str": "posterior fossa ventricle",
+    "description": "There is a large posterior fossa mass, located in the midline, with faint speckled calcification anteriorly. It appears isodense with grey matter.  The 4th ventricle appears displaced anteriorly. Anterior pneumocephalus consistent with recent intervention.",
+    "pixel_stats": {
+        "mean": 61.07938003540039,
+        "std": 62.33702356844777,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

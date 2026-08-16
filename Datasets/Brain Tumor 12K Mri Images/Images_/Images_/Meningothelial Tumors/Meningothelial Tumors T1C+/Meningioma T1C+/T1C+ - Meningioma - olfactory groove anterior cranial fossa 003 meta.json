@@ -1,0 +1,25 @@
+{
+    "filename": "T1C+ - Meningioma - olfactory groove anterior cranial fossa 003.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 257,
+        "y": 169
+    },
+    "point_normalized": {
+        "x": 0.504419899431782,
+        "y": 0.3307290448560823
+    },
+    "location": [
+        "anterior cranial fossa"
+    ],
+    "location_str": "anterior cranial fossa",
+    "description": "Large anterior cranial fossa mass that arises from the olfactory grooves, demonstrates prominent spoke wheel vascular supply and CSF cleft sign.",
+    "pixel_stats": {
+        "mean": 40.58158874511719,
+        "std": 51.19128705707042,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

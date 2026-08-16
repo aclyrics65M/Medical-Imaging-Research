@@ -1,0 +1,25 @@
+{
+    "filename": "T2 - Diffuse astrocytoma NOS (protoplasmic) frontal 028.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 334,
+        "y": 222
+    },
+    "point_normalized": {
+        "x": 0.6527205401356203,
+        "y": 0.4362779962174868
+    },
+    "location": [
+        "frontal"
+    ],
+    "location_str": "frontal",
+    "description": "Large tumor centered on the left middle frontal gyrus. It is T2 bright with areas of T2 hyperintensity that suppress on FLAIR.  Rim-like diffusion restriction and virtually no contrast enhancement.",
+    "pixel_stats": {
+        "mean": 41.92971420288086,
+        "std": 52.766250926877106,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

@@ -1,0 +1,25 @@
+{
+    "filename": "T1C+ - Trigeminal schwannoma cerebellopontine angle 024.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 210,
+        "y": 286
+    },
+    "point_normalized": {
+        "x": 0.39773415133392426,
+        "y": 0.5596709006093451
+    },
+    "location": [
+        "cerebellopontine angle"
+    ],
+    "location_str": "cerebellopontine angle",
+    "description": "MRI through the brain demonstrates a large cerebellopontine angle mass on the right, with a component extending anteriorly into Meckle's cave. The mass is heterogenous on all sequences, and relatively high signal on T2, with avid contrast enhancement, and areas which are presumably cystic.",
+    "pixel_stats": {
+        "mean": 35.77934646606445,
+        "std": 39.76535273850979,
+        "min": 0,
+        "max": 241
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

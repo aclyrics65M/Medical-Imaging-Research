@@ -1,0 +1,25 @@
+{
+    "filename": "T1C+ - Ganglioglioma temporal 014.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 326,
+        "y": 224
+    },
+    "point_normalized": {
+        "x": 0.6380141576458059,
+        "y": 0.43857584978138797
+    },
+    "location": [
+        "temporal"
+    ],
+    "location_str": "temporal",
+    "description": "A small cystic lesion in the inferomedial aspect of the left anterior temporal pole with surrounding T2 hyperintense region of cortical expansion. It demonstrates minimal choline elevation with no NAA depression or lactate peak on spectroscopy. No increase in cerebral blood volume (rCBV) - not shown. No diffusion restriction with ADC values demonstrating facilitated diffusion in both the cystic and solid cortical components. On the post-contrast sequences, there is the impression of mild enhancement, although, immediately above this level, some phase artefact related to the skull base vessels is present.\n\nRemainder the brain is within expected limits.\n\nThe imaging features, particularly in this clinical context, suggest a low-grade glioneuronal tumor such as ganglioglioma or DNET.",
+    "pixel_stats": {
+        "mean": 45.558956146240234,
+        "std": 54.71855245741727,
+        "min": 0,
+        "max": 252
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

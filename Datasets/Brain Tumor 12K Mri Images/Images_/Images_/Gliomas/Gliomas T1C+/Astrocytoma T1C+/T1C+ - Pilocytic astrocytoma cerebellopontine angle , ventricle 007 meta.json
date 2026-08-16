@@ -1,0 +1,26 @@
+{
+    "filename": "T1C+ - Pilocytic astrocytoma cerebellopontine angle , ventricle 007.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 235,
+        "y": 256
+    },
+    "point_normalized": {
+        "x": 0.4599035252691647,
+        "y": 0.5013503240907472
+    },
+    "location": [
+        "cerebellopontine angle",
+        "ventricle"
+    ],
+    "location_str": "cerebellopontine angle ventricle",
+    "description": "A peripherally enhancing lesion in the right lower pons, extending into the cerebellopontine angle abuts but does not appear to involve the right cerebellar hemisphere; the right vertebral artery passes anteriorly to it. There is a small amount of adjacent hypoattenuation in the pons, in keeping with edema. There is localized mass effect with a small degree of effacement of the right pre medullary cistern secondary to the mass. Normal fourth ventricle caliber.",
+    "pixel_stats": {
+        "mean": 53.310062408447266,
+        "std": 45.74189614892148,
+        "min": 0,
+        "max": 238
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

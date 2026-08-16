@@ -1,0 +1,25 @@
+{
+    "filename": "T2 - Supratentorial ependymoma frontal 078.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 223,
+        "y": 137
+    },
+    "point_normalized": {
+        "x": 0.4386609727838772,
+        "y": 0.27156878252763356
+    },
+    "location": [
+        "frontal"
+    ],
+    "location_str": "frontal",
+    "description": "A right frontal enhancing mass with a large tumoral cyst and displacement of the partly deficient midline structures in a boy with corpus callosum agenesis.",
+    "pixel_stats": {
+        "mean": 23.474319458007812,
+        "std": 29.21459560091492,
+        "min": 0,
+        "max": 189
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

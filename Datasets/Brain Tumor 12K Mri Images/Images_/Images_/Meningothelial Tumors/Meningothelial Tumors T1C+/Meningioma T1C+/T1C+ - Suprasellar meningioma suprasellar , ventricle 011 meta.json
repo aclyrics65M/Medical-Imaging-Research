@@ -1,0 +1,26 @@
+{
+    "filename": "T1C+ - Suprasellar meningioma suprasellar , ventricle 011.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 253,
+        "y": 189
+    },
+    "point_normalized": {
+        "x": 0.4952233882776057,
+        "y": 0.3701276431141076
+    },
+    "location": [
+        "suprasellar",
+        "ventricle"
+    ],
+    "location_str": "suprasellar ventricle",
+    "description": "Suprasellar basifrontal extra-axial dural based well defined lobulated soft tissue mass lesion seen extending intrasellar, encroaching upon suprasellar cistern, bilaterally compressing optic chiasms and basifrontal lobes with subsequent mild vasogenic brain edema. The mass is seen closely related to mammillary bodies and inseparable from infundibular stalk and hypothalamic tuber cinereum. It is seen resting upon anterior commissure and abutting optic & infundibular recesses of the third ventricle. It is seen encasing both ICAs (cavernous and supra-clinoid segments), however still patent with preserved their signal voids, It is seen superiorly displacing A1 segments of both anterior cerebral arteries as well as anterior communicating artery. It measures about 3.8 x 3.5 x 2.5 cm along its largest AP, TR and CC dimensions respectively. It elicits isointense signal to grey matter in T1 and T2 with diffusion restriction in DWI. Vivid homogenous enhancement is noted in post-contrast study with an enhanced dural tail.",
+    "pixel_stats": {
+        "mean": 47.56015396118164,
+        "std": 60.02152398381618,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

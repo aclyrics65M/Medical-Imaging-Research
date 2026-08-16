@@ -1,0 +1,25 @@
+{
+    "filename": "T1C+ - Acoustic schwannoma cerebellopontine angle 024.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 291,
+        "y": 296
+    },
+    "point_normalized": {
+        "x": 0.5693843726933386,
+        "y": 0.5785645170025094
+    },
+    "location": [
+        "cerebellopontine angle"
+    ],
+    "location_str": "cerebellopontine angle",
+    "description": "There is an ill-defined hypoattenuating mass obliterating the left cerebellopontine angle with extension into and enlargement of the left internal acoustic meatus. Age-related changes are also present.",
+    "pixel_stats": {
+        "mean": 68.2103271484375,
+        "std": 74.86389601057203,
+        "min": 4,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

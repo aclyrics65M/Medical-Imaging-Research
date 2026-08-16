@@ -1,0 +1,26 @@
+{
+    "filename": "T1 - Atypical meningioma parafalcine , frontal 006.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 278,
+        "y": 201
+    },
+    "point_normalized": {
+        "x": 0.5432396927114463,
+        "y": 0.3931971361969037
+    },
+    "location": [
+        "parafalcine",
+        "frontal"
+    ],
+    "location_str": "parafalcine frontal",
+    "description": "There is a large parafalcine frontal solid mass with vivid contrast enhancement and prominent calcification on the left anteriorly.\n\nSignificant mass effect on the corpus callosum, without hydrocephalus. No osseous involvement. Edema in the left frontal lobe without overt features brain invasion.\n\nSecond small meningioma located in the right anterior cranial fossa.\n\nConclusion: Large parafalcine meningioma.",
+    "pixel_stats": {
+        "mean": 26.686904907226562,
+        "std": 39.030011802667914,
+        "min": 0,
+        "max": 241
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

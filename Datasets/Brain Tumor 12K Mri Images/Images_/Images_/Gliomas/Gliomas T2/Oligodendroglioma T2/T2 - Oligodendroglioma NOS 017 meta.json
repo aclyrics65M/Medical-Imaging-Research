@@ -1,0 +1,23 @@
+{
+    "filename": "T2 - Oligodendroglioma NOS 017.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 141,
+        "y": 224
+    },
+    "point_normalized": {
+        "x": 0.2768907653959187,
+        "y": 0.4366262911171432
+    },
+    "location": [],
+    "location_str": "",
+    "description": "CT demonstrates an ill-defined region of positive mass effect with calcifications.",
+    "pixel_stats": {
+        "mean": 33.85773468017578,
+        "std": 43.080432025384965,
+        "min": 0,
+        "max": 248
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

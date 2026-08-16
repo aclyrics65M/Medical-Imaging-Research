@@ -1,0 +1,25 @@
+{
+    "filename": "T1C+ - Ependymoma - posterior fossa tentorial 020.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 249,
+        "y": 332
+    },
+    "point_normalized": {
+        "x": 0.4824610962110969,
+        "y": 0.6485219614853072
+    },
+    "location": [
+        "tentorial"
+    ],
+    "location_str": "tentorial",
+    "description": "Well defined heterogeneously hyperintense signal lesion on the T2W and fat suppressed images in the mid line fourth ventricular region, with internal cystic components.   Internal calcifications are also seen within the lesion, as evident by 'blooming' on GRE images.\n\nAfter administration of contrast, the lesion shows heterogeneous enhancement with non-enhancing cystic components.\n\nMass effect with mild obstructive supra tentorial hydrocephalus noted.",
+    "pixel_stats": {
+        "mean": 43.35740661621094,
+        "std": 47.835055262595155,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

@@ -1,0 +1,23 @@
+{
+    "filename": "T1 - Diffuse astrocytoma IDH-1 mutant 006.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 366,
+        "y": 218
+    },
+    "point_normalized": {
+        "x": 0.7164481975914828,
+        "y": 0.42631487113314925
+    },
+    "location": [],
+    "location_str": "",
+    "description": "The lesion in the left medial cranial fossa has broad contact with the cranial vault, but there is no reaction the adjacent bone and no meningeal enhancement. There is no evidence of cortex or CSF cleft between the lesion and deep white matter, confirming intra-axial site. There is no contrast enhancement. There is no diffusion restriction. Cerebral parenchymal signal intensity and architecture are elsewhere normal. There is no hydrocephalus.\n\nThere is abnormal signal within the left globe consistent with silicon oil injection for the treatment of prior retinal detachment.\n\nConclusion: The tumor is almost certainly a diffuse astrocytoma IDH+ve and unlikely to have 1p19q deletion given prominent partial flair suppression. An outside possibility is a large DNET although this is much less likely.",
+    "pixel_stats": {
+        "mean": 42.6309928894043,
+        "std": 47.809865356267316,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

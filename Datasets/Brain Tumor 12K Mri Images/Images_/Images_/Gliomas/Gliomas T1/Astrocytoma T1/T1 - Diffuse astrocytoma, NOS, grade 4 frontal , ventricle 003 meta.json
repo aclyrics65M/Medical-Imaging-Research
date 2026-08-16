@@ -1,0 +1,26 @@
+{
+    "filename": "T1 - Diffuse astrocytoma, NOS, grade 4 frontal , ventricle 003.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 339,
+        "y": 220
+    },
+    "point_normalized": {
+        "x": 0.6950126957440056,
+        "y": 0.43282835163469574
+    },
+    "location": [
+        "frontal",
+        "ventricle"
+    ],
+    "location_str": "frontal ventricle",
+    "description": "The mass is in the left frontal lobe, measuring about 64 x 83 x 67 mm (width x length x height). It contains mixed signals, including both solid and cystic lesions. The solid portion shows isointense signal on T1W, hyperintense signal on T2W and FLAIR, and mild restricted diffusion, with heterogeneous enhancement. The cystic portion shows hypointense signal on T1W, hyperintense signal on T2W and incomplete suppression on FLAIR (mismatch sign) , with no restricted diffusion. There are some areas of dark signal on SWI within.\n\nThe mass compresses the left lateral ventricle, shifting the midline to the right by about 11 mm, and there is brain edema surround the mass.\n\nOn the MRS images, the ratio of Cho/ Creatinin:2.75 and Cho/ NAA: 1.68.\n\nOn the perfusion images, there is hyperproliferation of the mass on CBV images.",
+    "pixel_stats": {
+        "mean": 48.15353775024414,
+        "std": 43.788524614569106,
+        "min": 0,
+        "max": 222
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

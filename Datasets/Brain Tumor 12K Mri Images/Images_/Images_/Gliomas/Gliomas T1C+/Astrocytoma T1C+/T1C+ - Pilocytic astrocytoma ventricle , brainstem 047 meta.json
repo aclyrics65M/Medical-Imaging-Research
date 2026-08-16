@@ -1,0 +1,26 @@
+{
+    "filename": "T1C+ - Pilocytic astrocytoma ventricle , brainstem 047.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 234,
+        "y": 327
+    },
+    "point_normalized": {
+        "x": 0.44844975661579756,
+        "y": 0.6405446470896061
+    },
+    "location": [
+        "ventricle",
+        "brainstem"
+    ],
+    "location_str": "ventricle brainstem",
+    "description": "The MRI sequences demonstrate a mixed solid and cystic mass of the right cerebellum, measuring 6.3 x 5.2 x 4.5 cm. The solid component is of low signal on T1, high signal on T2 and FLAIR with a heterogeneous enhancement. The cystic component is of low signal on T1 and FLAIR, high signal on T2 with peripheral enhancement. Surrounding vasogenic edema is noted with a mass effect on the 4th ventricle which is compressed and displaced to the left as well as on the brainstem and left cerebellum with tonsillar herniation. No calcification or hemorrhagic component is seen on the axial GE sequence.",
+    "pixel_stats": {
+        "mean": 48.75645446777344,
+        "std": 69.8965497596325,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

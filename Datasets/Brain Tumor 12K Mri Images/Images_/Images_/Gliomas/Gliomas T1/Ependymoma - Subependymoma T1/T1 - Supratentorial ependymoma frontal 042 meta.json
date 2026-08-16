@@ -1,0 +1,25 @@
+{
+    "filename": "T1 - Supratentorial ependymoma frontal 042.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 284,
+        "y": 190
+    },
+    "point_normalized": {
+        "x": 0.5563120327023925,
+        "y": 0.37282835362937655
+    },
+    "location": [
+        "frontal"
+    ],
+    "location_str": "frontal",
+    "description": "Digitized images from printed film. A large, heterogeneous mass is present within the left frontal lobe. It is strikingly hyperdense, without definite calcification. The solid component enhances. Hydrocephalus is present, best seen on the right, due to outflow obstruction.",
+    "pixel_stats": {
+        "mean": 67.94868087768555,
+        "std": 60.77567538640047,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

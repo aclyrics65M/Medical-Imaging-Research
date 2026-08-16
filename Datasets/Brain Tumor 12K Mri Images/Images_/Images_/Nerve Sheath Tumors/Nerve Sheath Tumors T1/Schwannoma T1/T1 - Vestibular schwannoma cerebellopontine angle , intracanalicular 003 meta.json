@@ -1,0 +1,26 @@
+{
+    "filename": "T1 - Vestibular schwannoma cerebellopontine angle , intracanalicular 003.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 185,
+        "y": 267
+    },
+    "point_normalized": {
+        "x": 0.3407426283175698,
+        "y": 0.524544659257159
+    },
+    "location": [
+        "cerebellopontine angle",
+        "intracanalicular"
+    ],
+    "location_str": "cerebellopontine angle intracanalicular",
+    "description": "A well-defined lesion is seen at the right cerebellopontine angle, it elicits intermediate T2 and low T1 signals with avid post-contrast enhancement, and it shows intracanalicular extension.",
+    "pixel_stats": {
+        "mean": 52.01151657104492,
+        "std": 39.810694690128585,
+        "min": 0,
+        "max": 215
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

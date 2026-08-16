@@ -1,0 +1,26 @@
+{
+    "filename": "T1C+ - Meningioma parietal , parafalcine 002.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 244,
+        "y": 411
+    },
+    "point_normalized": {
+        "x": 0.47787799275671566,
+        "y": 0.8039375584628471
+    },
+    "location": [
+        "parietal",
+        "parafalcine"
+    ],
+    "location_str": "parietal parafalcine",
+    "description": "Well-circumscribed right parietal parafalcine broad-based extra-axial mass, isointense to the cortical grey matter on both T1and T2 and hyperintense on FLAIR with vivid homogeneous enhancement on postcontrast sequences. No calcification or hemorrhagic component seen on GE sequence. No surrounding vasogenic edema is seen. A \"CSF cleft sign\" around the mass is noted on coronal T2 sequence indicating its extra-axial location.\n\nModerate cerebral volume loss with small vessel ischemic change.\n\nEmpty sella is noted.",
+    "pixel_stats": {
+        "mean": 35.32855224609375,
+        "std": 45.83055154424622,
+        "min": 0,
+        "max": 253
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

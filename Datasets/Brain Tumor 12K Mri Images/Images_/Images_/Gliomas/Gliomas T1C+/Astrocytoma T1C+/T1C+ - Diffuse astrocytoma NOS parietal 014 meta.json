@@ -1,0 +1,25 @@
+{
+    "filename": "T1C+ - Diffuse astrocytoma NOS parietal 014.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 353,
+        "y": 289
+    },
+    "point_normalized": {
+        "x": 0.6903035176095905,
+        "y": 0.5662127429782998
+    },
+    "location": [
+        "parietal"
+    ],
+    "location_str": "parietal",
+    "description": "Ovoid well-defined heterogeneous but predominantly T1 hypointense / T2 hyperintense (which partially suppress on FLAIR) mass involving cortex and white matter of the posteroinferior left parietal lobe. A thin rim of flair hyperintensity surrounds its margin.\n\nNo concerning central or marginal enhancement. An equivocal segment of thin rim diffusion restriction at the anterolateral margin. No elevated CBV. No evidence of hemorrhage or calcification. Spectroscopy traces within show elevated choline and depressed NAA, consistent with tumor. Mild local positive mass-effect. Overlying calvarium is unremarkable.\n\nNo other intra or extra-axial mass.\n\nConclusion: Solitary left parietal lobe mass, most likely a low-grade glioma.",
+    "pixel_stats": {
+        "mean": 37.915828704833984,
+        "std": 47.08573300637892,
+        "min": 0,
+        "max": 248
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

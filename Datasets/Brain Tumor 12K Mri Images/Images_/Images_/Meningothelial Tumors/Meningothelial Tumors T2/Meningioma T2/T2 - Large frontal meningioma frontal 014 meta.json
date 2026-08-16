@@ -1,0 +1,25 @@
+{
+    "filename": "T2 - Large frontal meningioma frontal 014.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 236,
+        "y": 132
+    },
+    "point_normalized": {
+        "x": 0.461537567768033,
+        "y": 0.2584170043744347
+    },
+    "location": [
+        "frontal"
+    ],
+    "location_str": "frontal",
+    "description": "Marked vasogenic edema with the impression of a large right frontal mass. Midline shift to the left. Left lateral ventricular dilatation with periventricular hypoattenuation in keeping with obstructive hydrocephalus and transependymal edema. No bone destruction, erosion or hyperostosis.",
+    "pixel_stats": {
+        "mean": 58.23467254638672,
+        "std": 59.93179136310541,
+        "min": 7,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

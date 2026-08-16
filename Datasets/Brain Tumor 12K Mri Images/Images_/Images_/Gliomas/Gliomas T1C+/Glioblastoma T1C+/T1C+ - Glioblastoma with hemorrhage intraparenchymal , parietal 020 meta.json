@@ -1,0 +1,26 @@
+{
+    "filename": "T1C+ - Glioblastoma with hemorrhage intraparenchymal , parietal 020.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 303,
+        "y": 340
+    },
+    "point_normalized": {
+        "x": 0.5922609676774945,
+        "y": 0.664306362971863
+    },
+    "location": [
+        "intraparenchymal",
+        "parietal"
+    ],
+    "location_str": "intraparenchymal parietal",
+    "description": "Large lobar intraparenchymal hematoma centered in the left parietal lobe, with pronounced surrounding edema particularly inferior to the lesion with mass effect.\n\nCTA (not shown): The circle of Willis and intracranial arteries are unremarkable, with no aneurysm, significant stenosis or vascular malformation.\n\nConclusion: Large intraparenchymal hemorrhage with prominent surrounding vasogenic edema raises the possibility of an underlying intracranial tumor.",
+    "pixel_stats": {
+        "mean": 45.99006271362305,
+        "std": 47.31779884138677,
+        "min": 4,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

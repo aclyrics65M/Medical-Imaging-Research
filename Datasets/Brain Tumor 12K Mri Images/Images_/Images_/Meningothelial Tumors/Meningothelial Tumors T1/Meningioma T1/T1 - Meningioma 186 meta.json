@@ -1,0 +1,23 @@
+{
+    "filename": "T1 - Meningioma 186.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 354,
+        "y": 216
+    },
+    "point_normalized": {
+        "x": 0.6919375601084587,
+        "y": 0.42302409664148616
+    },
+    "location": [],
+    "location_str": "",
+    "description": "An extra-axial solid mass lesion measuring about 30*35*45 mm with dural tail along the left frontotemporal lobes. The mass lesion is somewhat isointense to gray matter both on T1WI and T2WI with marked homogeneous enhancement on post-contrast images. No edema in the underlying brain parenchyma.",
+    "pixel_stats": {
+        "mean": 29.755455017089844,
+        "std": 36.37942463286797,
+        "min": 0,
+        "max": 250
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

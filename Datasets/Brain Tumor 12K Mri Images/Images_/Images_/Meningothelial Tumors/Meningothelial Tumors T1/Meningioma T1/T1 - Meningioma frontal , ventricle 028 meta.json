@@ -1,0 +1,26 @@
+{
+    "filename": "T1 - Meningioma frontal , ventricle 028.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 382,
+        "y": 241
+    },
+    "point_normalized": {
+        "x": 0.8066270140040075,
+        "y": 0.47225528682661944
+    },
+    "location": [
+        "frontal",
+        "ventricle"
+    ],
+    "location_str": "frontal ventricle",
+    "description": "Large left lateral frontal convexity extra-axial mass, likely a meningioma. Severe mass effect on the underlying insula and frontal lobe including the operculum. Mild left-to-right midline shift. Partial effacement of left lateral ventricle. No hydrocephalus.",
+    "pixel_stats": {
+        "mean": 45.272850036621094,
+        "std": 46.74592858718938,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

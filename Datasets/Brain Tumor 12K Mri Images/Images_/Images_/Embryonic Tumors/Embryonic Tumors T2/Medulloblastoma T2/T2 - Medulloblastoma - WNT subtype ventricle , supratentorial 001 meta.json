@@ -1,0 +1,26 @@
+{
+    "filename": "T2 - Medulloblastoma - WNT subtype ventricle , supratentorial 001.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 253,
+        "y": 338
+    },
+    "point_normalized": {
+        "x": 0.4942184177453983,
+        "y": 0.6613900461638947
+    },
+    "location": [
+        "ventricle",
+        "supratentorial"
+    ],
+    "location_str": "ventricle supratentorial",
+    "description": "An ovoid mass arises in the midline of the cerebellum, in proximity to the fourth ventricle. Hyperdense is slightly heterogeneous without contrast, possibly with a little calcification.\nThe fourth ventricle appears effaced, and there is possibly also some mass effect on the cerebral aqueduct. Associated obstructive hydrocephalus, with generalized dilatation of the third and lateral ventricles.\n\nNo abnormality was detected in the supratentorial brain parenchyma.\n\nThere is an incidental small arachnoid cyst anteriorly in the left temporal fossa.\n\nThe extra-axial spaces appear preserved.\n\nOccipital protuberance of the skull is relatively prominent, but is considered within normal limits.\n\nOverall, unremarkable skull appearances.\n\nConclusion:\n\nHyperdense posterior fossa mass, highly suspicious for a medulloblastoma, causing obstructive hydrocephalus.",
+    "pixel_stats": {
+        "mean": 21.59659194946289,
+        "std": 39.06343417805066,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

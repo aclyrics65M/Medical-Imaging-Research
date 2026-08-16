@@ -1,0 +1,25 @@
+{
+    "filename": "T1C+ - Glioblastoma pseudoprogression parietal 008.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 374,
+        "y": 312
+    },
+    "point_normalized": {
+        "x": 0.7311545800812972,
+        "y": 0.6095091968248272
+    },
+    "location": [
+        "parietal"
+    ],
+    "location_str": "parietal",
+    "description": "A peripherally enhancing mass with central non-enhancement is seen in the inferior parietal lobule with surrounding edema. Some non-enhancing tumor appears present below the mass. Features are those of a high-grade glioma (glioblastoma).",
+    "pixel_stats": {
+        "mean": 58.25662612915039,
+        "std": 71.38925362586521,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

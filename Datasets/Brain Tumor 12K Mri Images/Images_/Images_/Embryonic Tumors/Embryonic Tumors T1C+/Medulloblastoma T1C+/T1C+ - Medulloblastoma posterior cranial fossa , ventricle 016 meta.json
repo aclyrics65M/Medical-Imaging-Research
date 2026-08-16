@@ -1,0 +1,26 @@
+{
+    "filename": "T1C+ - Medulloblastoma posterior cranial fossa , ventricle 016.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 185,
+        "y": 316
+    },
+    "point_normalized": {
+        "x": 0.3618609753370686,
+        "y": 0.6193570226560502
+    },
+    "location": [
+        "posterior cranial fossa",
+        "ventricle"
+    ],
+    "location_str": "posterior cranial fossa ventricle",
+    "description": "Multiple enhancing extra-axial lesions of the posterior cranial fossa. Largest lesion is centered at the anterior aspect of the right cerebellar hemisphere. Homogenous hypointense appearance on T1 and mild hyperintense appearance on T2/FLAIR relative to the grey matter. Hyperintense on diffusion-weighted imaging with corresponding low ADC values (500-600 x 10-6 mm2/s. Absence of flow void associated with the lesions. No susceptibility artifact suggestive of calcification and hemorrhage. No evidence of bony involvement.\n\nThere is surrounding vasogenic edema causing mild mass effect with leftward displacement of the middle cerebellar peduncle and partial effacement of the fourth ventricle. Cerebellar tonsils are positioned 13mm below the foramen magnum. Obstructive hydrocephalus with subependymal edema demonstrated by the presence of periventricular white matter T2 FLAIR hyperintensity.\n\nConclusion: Multiple solid enhancing extra-axial lesions of the posterior cranial fossa with differentials including atypical appearance of meningiomata and lymphoma.",
+    "pixel_stats": {
+        "mean": 41.321510314941406,
+        "std": 42.393011016799825,
+        "min": 0,
+        "max": 240
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

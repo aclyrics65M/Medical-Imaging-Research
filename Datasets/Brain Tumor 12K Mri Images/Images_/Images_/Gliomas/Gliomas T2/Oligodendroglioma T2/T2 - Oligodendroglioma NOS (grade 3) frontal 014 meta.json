@@ -1,0 +1,25 @@
+{
+    "filename": "T2 - Oligodendroglioma NOS (grade 3) frontal 014.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 343,
+        "y": 175
+    },
+    "point_normalized": {
+        "x": 0.6820367860439558,
+        "y": 0.3436879124438859
+    },
+    "location": [
+        "frontal"
+    ],
+    "location_str": "frontal",
+    "description": "A mass which involves the cortex is present within the left frontal lobe. it demonstrates wispy heterogeneous contrast enhancement and moderate restricted diffusion. Some areas of signal loss likely represent calcification.",
+    "pixel_stats": {
+        "mean": 28.983905792236328,
+        "std": 46.54241744169562,
+        "min": 0,
+        "max": 252
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

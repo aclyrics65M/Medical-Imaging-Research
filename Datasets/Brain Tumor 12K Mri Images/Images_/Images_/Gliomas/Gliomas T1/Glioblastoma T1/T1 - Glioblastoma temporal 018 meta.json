@@ -1,0 +1,25 @@
+{
+    "filename": "T1 - Glioblastoma temporal 018.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 345,
+        "y": 280
+    },
+    "point_normalized": {
+        "x": 0.6739630926209078,
+        "y": 0.5486865051965922
+    },
+    "location": [
+        "temporal"
+    ],
+    "location_str": "temporal",
+    "description": "Left temporal lobe vasogenic edema, particularly in the parahippocampal gyrus and mesial temporal lobe. There are two discrete ring-enhancing lesions. The first is an intra-axial ring enhancing mass lesions up to 11mm adjacent to the anterior left hippocampus. The second lesion measures up to 14mm anteroposterior measurement sits on the lateral margin of the left hippocampus. There is local mass effect with sulcal effacement in the mesial left temporal lobe. Otherwise no other intracranial abnormality is found. No intracranial hemorrhage. No parenchymal changes to suggest infarction. No bony abnormalities.",
+    "pixel_stats": {
+        "mean": 34.176292419433594,
+        "std": 43.297479436432326,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

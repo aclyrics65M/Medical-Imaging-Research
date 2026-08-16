@@ -1,0 +1,23 @@
+{
+    "filename": "T1C+ - Meningioma 161.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 240,
+        "y": 145
+    },
+    "point_normalized": {
+        "x": 0.4713418227612426,
+        "y": 0.285151760799476
+    },
+    "location": [],
+    "location_str": "",
+    "description": "CT scan demonstrates typical appearances of a meningioma. An isodense extraaxial mass with vivid homogeneous contrast enhancement.",
+    "pixel_stats": {
+        "mean": 31.576309204101562,
+        "std": 48.5903293010861,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

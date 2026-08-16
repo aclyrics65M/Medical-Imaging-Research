@@ -1,0 +1,23 @@
+{
+    "filename": "T1C+ - Meningioma 178.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 283,
+        "y": 348
+    },
+    "point_normalized": {
+        "x": 0.5546779902035243,
+        "y": 0.6807716051106514
+    },
+    "location": [],
+    "location_str": "",
+    "description": "The mass looks hyperdense to normal brain on native study with no calcification, brightly and homogeneously enhance post contrast adminstration.",
+    "pixel_stats": {
+        "mean": 35.7765998840332,
+        "std": 48.03076711771593,
+        "min": 7,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

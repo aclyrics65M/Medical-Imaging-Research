@@ -1,0 +1,26 @@
+{
+    "filename": "T1C+ - Cerebellopontine angle meningioma posterior fossa , temporal 007.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 222,
+        "y": 298
+    },
+    "point_normalized": {
+        "x": 0.43375884528727243,
+        "y": 0.5827403936921411
+    },
+    "location": [
+        "posterior fossa",
+        "temporal"
+    ],
+    "location_str": "posterior fossa temporal",
+    "description": "Non-contrast CT scan of the head demonstrates an isodense extra-axial lesion in the right posterior fossa abutting the petrous temporal bone. There is mass effect upon the brainstem with leftward deviation. No associated widening of the internal auditory canal was identified on the right side. There is no hyperostosis of the right petrous temporal bone.",
+    "pixel_stats": {
+        "mean": 49.31736755371094,
+        "std": 58.4507999169311,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

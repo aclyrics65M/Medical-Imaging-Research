@@ -1,0 +1,26 @@
+{
+    "filename": "T2 - Pineal germinoma with diffuse subependymal tumor spread pineal , frontal 002.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 247,
+        "y": 328
+    },
+    "point_normalized": {
+        "x": 0.480161914130956,
+        "y": 0.6411914597343265
+    },
+    "location": [
+        "pineal",
+        "frontal"
+    ],
+    "location_str": "pineal frontal",
+    "description": "Small pineal gland lesion of abnormal signal and enhancement. It measures 10 x 10 x 7 mm. It elicits a low signal on T1 WI and a high signal on T2 WI and shows vivid enhancement on the post-contrast series.\n\nRight V/P shunt. No hydrocephalic changes.\n\nLeft frontoparietal small subdural collection with engorged dural venous sinuses and diffuse smooth dural enhancement likely attributed to overshunting and hypotension.\n\nRight frontal periventricular small patch of abnormal signal with no contrast enhancement.",
+    "pixel_stats": {
+        "mean": 33.06385040283203,
+        "std": 47.086953719705036,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

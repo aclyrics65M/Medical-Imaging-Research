@@ -1,0 +1,23 @@
+{
+    "filename": "T1C+ - Pilomyxoid astrocytoma 032.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 235,
+        "y": 239
+    },
+    "point_normalized": {
+        "x": 0.4599035252691647,
+        "y": 0.4681361525719364
+    },
+    "location": [],
+    "location_str": "",
+    "description": "A sizable heterogeneously enhancing mass is centered on the hypothalamus and chiasm with some hydrocephalus. Features, especially in this age group, are of a hypothalamic-optochiasmatic glioma (pilocytic or pilomyxoid astrocytoma).",
+    "pixel_stats": {
+        "mean": 45.3259391784668,
+        "std": 57.72736637684911,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

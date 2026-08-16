@@ -1,0 +1,26 @@
+{
+    "filename": "T1 - Glioblastoma NOS frontal , parietal 005.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 306,
+        "y": 284
+    },
+    "point_normalized": {
+        "x": 0.5987971376729675,
+        "y": 0.5562779922281252
+    },
+    "location": [
+        "frontal",
+        "parietal"
+    ],
+    "location_str": "frontal parietal",
+    "description": "Irregular ring enhancing lesion in the left frontal parietal occipital lobe abutting left lateral ventricle with moderate surrounding edema and mass effect with mild left uncal herniation. No second lesion identified.\n\nFindings would be in keeping with glioblastoma, but metastasis is a differential. Further evaluation with MRI (& MRA) would be helpful.",
+    "pixel_stats": {
+        "mean": 26.958816528320312,
+        "std": 37.61703373334071,
+        "min": 0,
+        "max": 246
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

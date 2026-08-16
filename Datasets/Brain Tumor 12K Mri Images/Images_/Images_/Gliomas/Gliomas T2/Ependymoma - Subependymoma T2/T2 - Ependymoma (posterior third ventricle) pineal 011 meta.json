@@ -1,0 +1,25 @@
+{
+    "filename": "T2 - Ependymoma (posterior third ventricle) pineal 011.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 251,
+        "y": 275
+    },
+    "point_normalized": {
+        "x": 0.4909503327476618,
+        "y": 0.5390411140611332
+    },
+    "location": [
+        "pineal"
+    ],
+    "location_str": "pineal",
+    "description": "A large, well-defined mass with restricted diffusion, but limited contrast enhancement centered in the pineal region. It results in obstructive hydrocephalus, clearly of some duration (as the ventricles are very large) but also with transependymal edema.",
+    "pixel_stats": {
+        "mean": 41.56844711303711,
+        "std": 55.301354335233746,
+        "min": 0,
+        "max": 231
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

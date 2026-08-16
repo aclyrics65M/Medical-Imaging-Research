@@ -1,0 +1,25 @@
+{
+    "filename": "T1 - Glioblastoma NOS temporal 006.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 273,
+        "y": 326
+    },
+    "point_normalized": {
+        "x": 0.5350694802171051,
+        "y": 0.6387177064920975
+    },
+    "location": [
+        "temporal"
+    ],
+    "location_str": "temporal",
+    "description": "Left posteromedial temporal lesion, involving the most posterior parts of the parahippocampal and cingulate gyrus and extending into the splenium of the corpus callosum. It shows heterogeneous signal with large necrotic center and marginal contrast enhancement. The lesion is surrounded by extensive vasogenic edema signal involving the splenium of the corpus callosum.\n\nBased on radiological findings, high grade glioma was considered.",
+    "pixel_stats": {
+        "mean": 45.0467643737793,
+        "std": 57.68073275880864,
+        "min": 0,
+        "max": 232
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

@@ -1,0 +1,26 @@
+{
+    "filename": "T1C+ - Diffuse astrocytoma frontal , temporal 019.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 249,
+        "y": 172
+    },
+    "point_normalized": {
+        "x": 0.48819528099577203,
+        "y": 0.33986948878425904
+    },
+    "location": [
+        "frontal",
+        "temporal"
+    ],
+    "location_str": "frontal temporal",
+    "description": "Multiple intra-axial mass lesions are seen. The largest lesion within the white matter of the left frontal lobe measures approximately 50 × 52 mm. Another large lesion is present in the left frontoparietal region, measuring 42 × 38 mm and a small lesion is located within the white matter of the left temporal lobe, measuring 16 × 14 mm.\n\nThe two large lesions demonstrate T2/FLAIR mismatch sign, clearly appreciated in both the left frontal (T2 and FLAIR) and left frontoparietal lesions (T2 and FLAIR).\n\nThe lesions are associated with surrounding perilesional signal hyperintensity.\n\nDiffusion-weighted imaging reveals a peripheral ring-like hyperintensity with corresponding low signal on the ADC map. The degree of peripheral diffusion restriction is not marked and likely reflects increased cellular membrane turnover within the lesion margins.\n\nThere is significant mass effect, with marked compression and deformation of the corpus callosum, substantial compression of the anterior horn of the left lateral ventricle, and secondary dilatation of the right lateral ventricle. These findings result in a rightward midline shift involving the frontal lobe structures.\n\nMultifocal intra-axial mass lesions within the left cerebral hemisphere demonstrating T2/FLAIR mismatch sign. This imaging feature may be seen in pediatric-type diffuse astrocytoma.",
+    "pixel_stats": {
+        "mean": 29.994449615478516,
+        "std": 35.87510861498991,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

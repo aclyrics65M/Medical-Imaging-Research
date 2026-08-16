@@ -1,0 +1,26 @@
+{
+    "filename": "T2 - Posterior fossa pilocytic astrocytoma posterior fossa , intraparenchymal 003.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 250,
+        "y": 341
+    },
+    "point_normalized": {
+        "x": 0.48931629024879353,
+        "y": 0.667188626838809
+    },
+    "location": [
+        "posterior fossa",
+        "intraparenchymal"
+    ],
+    "location_str": "posterior fossa intraparenchymal",
+    "description": "Posterior fossa mass containing cystic foci either originating from the fourth ventricles or invading it secondarily, responsible for obstructive hydrocephalus with transependymal resorption. ADC (not shown) demonstrates only moderate restricted diffusion.\n\nThe differential diagnosis for this lesion includes medulloblastoma and pilocytic astrocytoma. A rarer tumor, atypical teratoid rhabdoid tumor (AT/RT) can also have this appearance, as could an ependymoma, although there is obvious intraparenchymal extension into the right cerebellar peduncle.",
+    "pixel_stats": {
+        "mean": 31.357547760009766,
+        "std": 49.569874407278505,
+        "min": 0,
+        "max": 254
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

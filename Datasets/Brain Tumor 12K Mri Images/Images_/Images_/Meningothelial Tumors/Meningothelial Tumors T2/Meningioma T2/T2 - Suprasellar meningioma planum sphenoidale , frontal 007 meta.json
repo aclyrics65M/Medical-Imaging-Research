@@ -1,0 +1,26 @@
+{
+    "filename": "T2 - Suprasellar meningioma planum sphenoidale , frontal 007.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 238,
+        "y": 200
+    },
+    "point_normalized": {
+        "x": 0.4680737377635061,
+        "y": 0.39379289124691186
+    },
+    "location": [
+        "planum sphenoidale",
+        "frontal"
+    ],
+    "location_str": "planum sphenoidale frontal",
+    "description": "A mildly T2 hyperintense, T1 isointense and homogeneously enhancing mass with mild diffusion restriction arises from a broad dural base along planum sphenoidale and diaphragma sellae. The mass indents the posteroinferior frontal lobes, effaces the third ventricle and posteroinferiorly displaces the pituitary infundibulum. There is no evidence of extension into the pituitary fossa, cavernous sinuses or orbital apex.\n\nThe prechiasmatic optic nerves are flattened and bowed around the lateral periphery of the mass, and the optic chiasm is severely compressed at its posterior margin.\n\nSupraclinoid ICAs are abutted medially but not encased by tumor, and the anterior cerebral artery A1 segments are draped over the posterosuperior margin.\n\nNo extradural enhancing lesion is identified. Brain parenchyma demonstrates normal signal with no diffusion restriction or pathological enhancement. No hydrocephalus.\n\nMorphology and signal characteristics of the large mass arising from planum sphenoidale and diaphragma sellae are consistent with a meningioma.\n\nSevere displacement and compression of the optic chiasm and prechiasmatic optic nerves, which are stretched around the lateral and posterior margins of the mass.",
+    "pixel_stats": {
+        "mean": 52.7225341796875,
+        "std": 48.30524607243968,
+        "min": 0,
+        "max": 232
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

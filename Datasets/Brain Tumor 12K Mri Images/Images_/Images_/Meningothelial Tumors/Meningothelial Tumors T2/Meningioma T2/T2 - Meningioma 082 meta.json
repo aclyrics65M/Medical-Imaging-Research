@@ -1,0 +1,23 @@
+{
+    "filename": "T2 - Meningioma 082.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 158,
+        "y": 207
+    },
+    "point_normalized": {
+        "x": 0.2778852511432938,
+        "y": 0.4050496291539352
+    },
+    "location": [],
+    "location_str": "",
+    "description": "A large extra-axial vividly enhancing mass is present, with a dural tail. Typical features of a meningioma.",
+    "pixel_stats": {
+        "mean": 42.298362731933594,
+        "std": 50.48984817810278,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

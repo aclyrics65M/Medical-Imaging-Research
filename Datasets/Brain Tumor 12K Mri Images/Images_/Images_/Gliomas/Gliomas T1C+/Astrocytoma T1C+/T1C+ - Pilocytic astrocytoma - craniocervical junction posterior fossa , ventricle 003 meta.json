@@ -1,0 +1,26 @@
+{
+    "filename": "T1C+ - Pilocytic astrocytoma - craniocervical junction posterior fossa , ventricle 003.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 264,
+        "y": 270
+    },
+    "point_normalized": {
+        "x": 0.517095012729554,
+        "y": 0.528442527312416
+    },
+    "location": [
+        "posterior fossa",
+        "ventricle"
+    ],
+    "location_str": "posterior fossa ventricle",
+    "description": "A large mixed multicystic and solid mass is seen centered at the cervico medullary junction. Cystic components are seen within the posterior fossa, at least one of which has blood products layering within it and adjacent hemosiderin staining. A cystic component extends into the fourth ventricle and abuts the left middle cerebellar peduncle. There are solid enhancing components of the mass in the upper cervical cord. The cord is only imaged to the mid cervical level, at which point the cord remains expanded. Elements of the lesion have elevated cerebral blood volume (CBV). There is marked crowding at the foramen magnum.\n\nThe mixed solid and multicystic mass centered at the cervical medullary junction extends inferiorly to at least the C4-C5 level, where there are cystic components, but only faint enhancement. The craniocaudal diameter of the lesion is at least 10 cm. Between the C5 and T2/3 levels, the cord is diffusely expanded with high T2 signal involving most of the cross sectional area. Inferior to the T2/3 level, the thoracic spinal cord is of normal volume and signal intensity with no abnormal enhancement identified.\n\nThere is evidence of obstructive hydrocephalus with distension of the lateral and third ventricles and effacement of the cortical sulci of the cerebral hemispheres.\n\nFindings compatible with tumor centered at the cervico medullary junction, differential diagnosis is between a pilocytic astrocytoma and spinal cord ependymoma.",
+    "pixel_stats": {
+        "mean": 29.88538360595703,
+        "std": 40.827113585452295,
+        "min": 0,
+        "max": 234
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

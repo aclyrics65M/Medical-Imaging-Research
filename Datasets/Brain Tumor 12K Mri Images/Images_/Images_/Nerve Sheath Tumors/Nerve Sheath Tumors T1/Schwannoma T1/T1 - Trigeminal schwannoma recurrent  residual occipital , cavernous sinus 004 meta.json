@@ -1,0 +1,26 @@
+{
+    "filename": "T1 - Trigeminal schwannoma recurrent  residual occipital , cavernous sinus 004.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 289,
+        "y": 295
+    },
+    "point_normalized": {
+        "x": 0.5916884445803633,
+        "y": 0.5768340192209435
+    },
+    "location": [
+        "occipital",
+        "cavernous sinus"
+    ],
+    "location_str": "occipital cavernous sinus",
+    "description": "Postoperative status with left occipital craniotomy status is noted. Subtle gliosis is seen in the left cerebellum.\n\nWell defined extra axial mass lesion is seen in the left cerebello-pontine angle cistern, left meckel’s cave and left cavernous sinus region. The lesion causes mass effect with compression over brainstem and adjacent left superior cerebellar hemisphere. The lesion is abutting the cavernous segment of left ICA with maintained flow void.",
+    "pixel_stats": {
+        "mean": 34.4228630065918,
+        "std": 50.77105427292068,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

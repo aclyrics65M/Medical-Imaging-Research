@@ -1,0 +1,25 @@
+{
+    "filename": "T2 - Glioblastoma NOS temporal 012.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 306,
+        "y": 240
+    },
+    "point_normalized": {
+        "x": 0.5987971376729675,
+        "y": 0.4684988972129409
+    },
+    "location": [
+        "temporal"
+    ],
+    "location_str": "temporal",
+    "description": "A large left sided mass with central non-enhancement and peripheral nodular enhancement and restricted diffusion is present surrounded by tumor edema.\n\nOn the right, seen only on the T2/FLAIR images is a temporal region of high T2 signal.",
+    "pixel_stats": {
+        "mean": 39.73587417602539,
+        "std": 58.25235462560953,
+        "min": 0,
+        "max": 248
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

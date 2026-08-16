@@ -1,0 +1,26 @@
+{
+    "filename": "T1C+ - Diffuse astrocytoma IDH-mutant - gemistocytic frontal , ventricle 004.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 199,
+        "y": 104
+    },
+    "point_normalized": {
+        "x": 0.3896396978178292,
+        "y": 0.20450495756715567
+    },
+    "location": [
+        "frontal",
+        "ventricle"
+    ],
+    "location_str": "frontal ventricle",
+    "description": "A large right frontal lobe mass, mostly cystic with small irregular areas of peripheral enhancement is demonstrated. Significant local mass effect with subfalcine herniation is present with obstruction to CSF outflow from the left lateral ventricle.",
+    "pixel_stats": {
+        "mean": 33.83942794799805,
+        "std": 48.81623144369511,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

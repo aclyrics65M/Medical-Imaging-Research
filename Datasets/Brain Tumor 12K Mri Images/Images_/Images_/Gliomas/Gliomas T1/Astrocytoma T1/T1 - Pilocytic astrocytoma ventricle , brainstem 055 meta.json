@@ -1,0 +1,26 @@
+{
+    "filename": "T1 - Pilocytic astrocytoma ventricle , brainstem 055.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 287,
+        "y": 347
+    },
+    "point_normalized": {
+        "x": 0.5612141601989973,
+        "y": 0.6794098926392987
+    },
+    "location": [
+        "ventricle",
+        "brainstem"
+    ],
+    "location_str": "ventricle brainstem",
+    "description": "There is a large predominantly cystic mass arising from the inferior left cerebellar hemisphere measuring up to 33 mm in the transverse diameter. A solid enhancing component is demonstrated inferiorly. There is considerable associated mass effect with partial compression of the inferior fourth ventricle. The lateral and third ventricles are dilated. There is deformity of the left cerebellar peduncle and distortion of the adjacent brainstem.\n\nThee cerebral hemispheres are intact and no additional intracranial mass lesion is seen superior to the tentorium. There is no abnormal leptomeningeal contrast enhancement. The basal cisterns are however to some extent effaced.",
+    "pixel_stats": {
+        "mean": 34.86610794067383,
+        "std": 43.27629355233786,
+        "min": 0,
+        "max": 224
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

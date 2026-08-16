@@ -1,0 +1,26 @@
+{
+    "filename": "T1 - Medulloblastoma ventricle , supratentorial 012.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 273,
+        "y": 341
+    },
+    "point_normalized": {
+        "x": 0.5356491719818945,
+        "y": 0.6666779885579126
+    },
+    "location": [
+        "ventricle",
+        "supratentorial"
+    ],
+    "location_str": "ventricle supratentorial",
+    "description": "There is a midline lesion with solid and cystic components is centered upon the 4th ventricle arising from left roof and lateral wall, without extension through foramen of Luschka. The cystic component is seen to the left of the solid component, inferolaterally; its lateral rim does not enhance.\n\nThe mass bulges into and effaces the 4th ventricle, without evidence of hydrocephalus. No tonsillar herniation.\n\nThe mass is hypointense on T1, hyperintense on T2/FLAIR with pronounced diffusion restriction and vivid if slightly heterogeneous contrast enhancement.\n\nAlthough no large flow voids are identified, on post contrast imaging there is some curvilinear intralesional enhancement that may be due to prominent vessels.\n\nSpectroscopy shows a large choline peak with essentially absent NAA and no lactate peak.\n\nCBV within the solid component is elevated.\n\nSurrounding the mass is moderate T2 hyperintensity, presumably edema.\n\nSupratentorial brain is normal.\n\nPosterior fossa tumor centered upon the 4th ventricle,  without hydrocephalus. Origin from roof and lateral wall rather than floor would favor medulloblastoma over ependymoma.",
+    "pixel_stats": {
+        "mean": 41.5962028503418,
+        "std": 53.19033063123891,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

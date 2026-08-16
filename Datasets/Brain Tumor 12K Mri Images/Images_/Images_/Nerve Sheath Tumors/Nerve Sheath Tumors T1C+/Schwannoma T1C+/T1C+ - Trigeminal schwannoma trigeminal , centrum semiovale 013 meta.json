@@ -1,0 +1,26 @@
+{
+    "filename": "T1C+ - Trigeminal schwannoma trigeminal , centrum semiovale 013.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 214,
+        "y": 256
+    },
+    "point_normalized": {
+        "x": 0.4118940062861362,
+        "y": 0.5013730135846738
+    },
+    "location": [
+        "trigeminal",
+        "centrum semiovale"
+    ],
+    "location_str": "trigeminal centrum semiovale",
+    "description": "A nodular lesion involving the right trigeminal nerve (cranial nerve V) at the cisternal segment and Meckel's cave segment, measuring approximately 9 × 13 × 7 mm, showing high signal intensity on T1W and FLAIR, intermediate signal on T2W, no diffusion restriction, and strong homogeneous enhancement after contrast administration, with no significant mass effect observed.\n\nScattered nodular and patchy lesions in the subcortical white matter, deep white matter of the centrum semiovale, periventricular regions, and bilateral corona radiata, suggestive of cerebral small vessel disease.",
+    "pixel_stats": {
+        "mean": 46.58265686035156,
+        "std": 53.48833498805249,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

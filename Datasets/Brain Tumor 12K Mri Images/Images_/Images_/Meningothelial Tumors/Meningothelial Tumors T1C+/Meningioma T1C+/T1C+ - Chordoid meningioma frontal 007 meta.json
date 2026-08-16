@@ -1,0 +1,25 @@
+{
+    "filename": "T1C+ - Chordoid meningioma frontal 007.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 106,
+        "y": 202
+    },
+    "point_normalized": {
+        "x": 0.20826098044345145,
+        "y": 0.396090744810813
+    },
+    "location": [
+        "frontal"
+    ],
+    "location_str": "frontal",
+    "description": "Pre and post IV contrast multiplanar imaging of the brain has been performed demonstrating a right posterior frontal convexity extraxial mass. It has high T2 signal but is otherwise typical for a meningioma. No adjacent bony or parenchymal changes. Study other wise normal.",
+    "pixel_stats": {
+        "mean": 56.69032669067383,
+        "std": 40.852024073534295,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

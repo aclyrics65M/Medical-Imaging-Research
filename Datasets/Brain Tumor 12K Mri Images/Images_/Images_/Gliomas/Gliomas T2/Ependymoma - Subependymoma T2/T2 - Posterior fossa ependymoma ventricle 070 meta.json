@@ -1,0 +1,25 @@
+{
+    "filename": "T2 - Posterior fossa ependymoma ventricle 070.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 258,
+        "y": 344
+    },
+    "point_normalized": {
+        "x": 0.5079793594572525,
+        "y": 0.6740595479036054
+    },
+    "location": [
+        "ventricle"
+    ],
+    "location_str": "ventricle",
+    "description": "An enhancing lesion arises from the inferior 4th ventricle, distorting the medulla and displacing it anteriorly. No hydrocephalus. Rare and sparse chronic small vessel ischemic white matter changes are present, in a number acceptable for the age group. The remainder brain is unremarkable.\n\nConclusion: 4th ventricle mass which may correspond to an ependymoma or a choroid plexus papilloma.",
+    "pixel_stats": {
+        "mean": 46.32489776611328,
+        "std": 55.53683776588606,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

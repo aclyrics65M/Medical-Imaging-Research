@@ -1,0 +1,26 @@
+{
+    "filename": "T2 - Diffuse astrocytoma NOS frontal , basal ganglia 004.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 230,
+        "y": 258
+    },
+    "point_normalized": {
+        "x": 0.4459250786388333,
+        "y": 0.5063602640837678
+    },
+    "location": [
+        "frontal",
+        "basal ganglia"
+    ],
+    "location_str": "frontal basal ganglia",
+    "description": "left frontal intra-axial ill-defined mixed cystic solid tumor measuring about 3 x 6 x 7 cm displays high T2 signal, heterogeneous low T1 signal with ill-defined areas of enhancement\n\ninfiltration of basal ganglia and corpus callosum rostrum and genu segments\n\nmarked pressure effect upon the left frontal horn and midline shift to the right of 1.5 cm\n\nsubfalcine and uncal herniations\n\nthe anterior cerebral arteries abut the lesion and are displaced to the right\n\nsurrounding vasogenic edema\n\nareas of diffusion restriction detected within the mass lesion\n\nno remodeling of the overlying skull",
+    "pixel_stats": {
+        "mean": 42.4056510925293,
+        "std": 48.80079041405568,
+        "min": 0,
+        "max": 246
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

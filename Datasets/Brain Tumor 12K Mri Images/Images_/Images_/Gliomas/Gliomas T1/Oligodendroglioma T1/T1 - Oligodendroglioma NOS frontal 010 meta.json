@@ -1,0 +1,25 @@
+{
+    "filename": "T1 - Oligodendroglioma NOS frontal 010.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 230,
+        "y": 203
+    },
+    "point_normalized": {
+        "x": 0.44517172504837244,
+        "y": 0.3982354255905776
+    },
+    "location": [
+        "frontal"
+    ],
+    "location_str": "frontal",
+    "description": "A mass with high T2 signal, and little if any contrast enhancement expands the right superior frontal gyrus. It prominently involves the cortex.",
+    "pixel_stats": {
+        "mean": 32.368080139160156,
+        "std": 54.52901924873516,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

@@ -1,0 +1,26 @@
+{
+    "filename": "T2 - Glioblastoma NOS parietal , occipital 004.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 192,
+        "y": 311
+    },
+    "point_normalized": {
+        "x": 0.37656735782688305,
+        "y": 0.6093049415124687
+    },
+    "location": [
+        "parietal",
+        "occipital"
+    ],
+    "location_str": "parietal occipital",
+    "description": "Right parietal craniotomy\n\nIrregular heterogenous partially-enhancing intra-axial mass, with a cystic/necrotic component ( 35*41*46 mm ), prominent vasogenic edema and involvement of occipital horn of lateral ventricle.\n\nHigh signal foci in T2 and FLAIR sequences in the subcortical and periventricular the white matter of both cerebral hemispheres depicts microvascular ischemic events.",
+    "pixel_stats": {
+        "mean": 28.656932830810547,
+        "std": 41.5639920735371,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

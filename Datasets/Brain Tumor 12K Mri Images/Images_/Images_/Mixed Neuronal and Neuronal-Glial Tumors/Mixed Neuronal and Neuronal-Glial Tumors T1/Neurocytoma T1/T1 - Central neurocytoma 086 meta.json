@@ -1,0 +1,23 @@
+{
+    "filename": "T1 - Central neurocytoma 086.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 249,
+        "y": 286
+    },
+    "point_normalized": {
+        "x": 0.4842150501779834,
+        "y": 0.5623148749230428
+    },
+    "location": [],
+    "location_str": "",
+    "description": "Brain CT showed a markedly heterogeneous and complex solid cystic lesion, with a spontaneously dense component that could be calcified or hematic in nature.\n\nThe lesion was centrally located and caused obstructive hydrocephalus with asymmetric dilatation of the lateral ventricles. Low-density changes in the surrounding white matter suggested perilesional vasogenic edema.",
+    "pixel_stats": {
+        "mean": 38.494720458984375,
+        "std": 40.589529412999255,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

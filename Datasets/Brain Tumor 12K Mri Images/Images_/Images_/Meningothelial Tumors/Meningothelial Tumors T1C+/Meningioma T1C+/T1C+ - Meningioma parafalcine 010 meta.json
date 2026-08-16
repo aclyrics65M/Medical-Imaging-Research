@@ -1,0 +1,25 @@
+{
+    "filename": "T1C+ - Meningioma parafalcine 010.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 288,
+        "y": 186
+    },
+    "point_normalized": {
+        "x": 0.5708496707101504,
+        "y": 0.3663432474619931
+    },
+    "location": [
+        "parafalcine"
+    ],
+    "location_str": "parafalcine",
+    "description": "A large left sided parafalcine mass is present which is extra-axial and is associated with extensive vasogenic edema. There are prominent flow voids. At least three other smaller but similar masses are present.",
+    "pixel_stats": {
+        "mean": 24.29428482055664,
+        "std": 35.12050669958022,
+        "min": 0,
+        "max": 242
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

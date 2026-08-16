@@ -1,0 +1,26 @@
+{
+    "filename": "T2 - Germinoma - suprasellar ventricle , pituitary fossa 003.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 256,
+        "y": 221
+    },
+    "point_normalized": {
+        "x": 0.5007545877408714,
+        "y": 0.43403686638840205
+    },
+    "location": [
+        "ventricle",
+        "pituitary fossa"
+    ],
+    "location_str": "ventricle pituitary fossa",
+    "description": "There is a mass that is T1 and T2 isointense to brain, which fills the inferior recesses of the third ventricle and extends down along the infundibulum into the pituitary fossa. It demonstrates intermediate, slightly heterogeneous contrast enhancement. The anterior pituitary tissue can be seen as separate from the mass on post-contrast T1.\n\nThe pineal gland is a little bulky and demonstrates similar signal intensity and enhancement.\n\nThe mass elevates and compresses the optic chiasm and results in increased signal in the optic tracts bilaterally.\n\nNo hydrocephalus. No leptomeningeal ependymal enhancement elsewhere.",
+    "pixel_stats": {
+        "mean": 45.45404052734375,
+        "std": 54.15296471847239,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

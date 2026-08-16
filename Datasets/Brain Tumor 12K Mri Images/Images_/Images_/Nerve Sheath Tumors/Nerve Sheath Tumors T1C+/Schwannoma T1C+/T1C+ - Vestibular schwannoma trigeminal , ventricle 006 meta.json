@@ -1,0 +1,26 @@
+{
+    "filename": "T1C+ - Vestibular schwannoma trigeminal , ventricle 006.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 222,
+        "y": 282
+    },
+    "point_normalized": {
+        "x": 0.4353928877861407,
+        "y": 0.5539574242367877
+    },
+    "location": [
+        "trigeminal",
+        "ventricle"
+    ],
+    "location_str": "trigeminal ventricle",
+    "description": "There is a heterogeneous intermediate to hyperintense intense T2 signal mass centered at the right cerebral pontine angle cistern extending into the right internal auditory canal along the course of the 7th and 8th cranial nerve complex. This demonstrates heterogeneous enhancement, noting some central regions of nonenhancement. The component of the mass within the cerebral pontine angle cistern measures approximately 2.4 x 1.6 x 2.6 cm (AP x TV x CC) with additional tumoral component extending medially into the right internal auditory canal by up to 0.7 cm. The lesion has mass effect upon the adjacent right lateral margin of the pons, right brachium pontis, and anterior aspect of the right cerebellar hemisphere. Superiorly, the lesion has some mass effect upon the right trigeminal nerve at its root entry zone. Inferiorly, the mass likely contacts the right 9th, 10th, and 11th cranial nerves. There is partial effacement of the fourth ventricle related to mass effect on the right side of the posterior fossa. Otherwise, there is no hydrocephalus.\n\nThe left 7th and 8th cranial nerve complex are normal in appearance. No mass is identified at the left cerebellopontine angle cistern or internal auditory canal.\n\nThere are couple of small foci of T2/FLAIR hyperintensity within the posterior left periventricular, which may be related to minimal microangiopathic changes.",
+    "pixel_stats": {
+        "mean": 28.925247192382812,
+        "std": 49.05021193432229,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

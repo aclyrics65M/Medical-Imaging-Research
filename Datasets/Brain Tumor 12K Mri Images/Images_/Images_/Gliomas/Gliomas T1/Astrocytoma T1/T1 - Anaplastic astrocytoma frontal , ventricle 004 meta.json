@@ -1,0 +1,26 @@
+{
+    "filename": "T1 - Anaplastic astrocytoma frontal , ventricle 004.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 278,
+        "y": 116
+    },
+    "point_normalized": {
+        "x": 0.5552303848179022,
+        "y": 0.23092763527501212
+    },
+    "location": [
+        "frontal",
+        "ventricle"
+    ],
+    "location_str": "frontal ventricle",
+    "description": "There is a large, ill-defined region of white matter hypoattenuation extending from the left frontal lobe with the involvement of the posterior left frontal cortical grey matter at the vertex. No definite enhancing mass or lesion is identified. No calcification. The associated mass effect causes moderate compression of the frontal horn of the left lateral ventricle, frontal sulcal effacement and 5 mm rightward shift of the anterior falx cerebri. No hydrocephalus and no transtentorial herniation. No acute intracranial hemorrhage or extra-axial collection. No suspicious osseous lesions. The imaged paranasal sinuses and mastoid air cells are clear.\n\nConclusion: Ill-defined hypodense left frontal lesion with no definite enhancement is nonetheless suspicious for a brain neoplasm, most likely a primary tumor and unlikely to be a metastasis given the patient's age and pattern of involvement.",
+    "pixel_stats": {
+        "mean": 47.60820770263672,
+        "std": 51.82298596339213,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

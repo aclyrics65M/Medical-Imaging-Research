@@ -1,0 +1,26 @@
+{
+    "filename": "T1 - Glioblastoma temporal , frontal 007.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 307,
+        "y": 321
+    },
+    "point_normalized": {
+        "x": 0.6004311801718357,
+        "y": 0.6272794090000197
+    },
+    "location": [
+        "temporal",
+        "frontal"
+    ],
+    "location_str": "temporal frontal",
+    "description": "There is an aggressive mass lesion centered on the splenium of corpus callosum extending to the left temporal lobe showing T1 low signal, T2 high signal, with peripheral irregular diffusion restriction and avid post-contrast enhancement, central necrosis and hemorrhagic changes.\nSimilarly featured lesion is also noted in the grey-white matter junction of the right frontal lobe.\n\nThere is perilesional edema surrounding both lesions. No hydrocephalus. No infratentorial lesions.",
+    "pixel_stats": {
+        "mean": 48.82288360595703,
+        "std": 51.99628451666373,
+        "min": 8,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

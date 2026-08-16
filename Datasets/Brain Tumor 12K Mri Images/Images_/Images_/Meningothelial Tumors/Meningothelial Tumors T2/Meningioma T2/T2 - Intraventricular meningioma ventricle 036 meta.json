@@ -1,0 +1,25 @@
+{
+    "filename": "T2 - Intraventricular meningioma ventricle 036.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 298,
+        "y": 310
+    },
+    "point_normalized": {
+        "x": 0.5857247976820213,
+        "y": 0.606882245864952
+    },
+    "location": [
+        "ventricle"
+    ],
+    "location_str": "ventricle",
+    "description": "There is a lobulated well-defined heterogeneous mainly hyperdense lesion seen occupying the atrium of the left lateral ventricle.\n\nNo intracranial hemorrhage is seen.\n\nThe rest of ventricles and subarachnoid spaces appear normal in size, shape, and position.\n\nNo shift of midline structures.\n\nNo cerebellar tonsillar herniation.",
+    "pixel_stats": {
+        "mean": 44.18392562866211,
+        "std": 49.81468186431346,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

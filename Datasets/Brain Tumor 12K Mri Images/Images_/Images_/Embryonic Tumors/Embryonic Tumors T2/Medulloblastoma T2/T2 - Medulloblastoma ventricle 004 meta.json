@@ -1,0 +1,25 @@
+{
+    "filename": "T2 - Medulloblastoma ventricle 004.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 256,
+        "y": 331
+    },
+    "point_normalized": {
+        "x": 0.5007545877408714,
+        "y": 0.6487262230310431
+    },
+    "location": [
+        "ventricle"
+    ],
+    "location_str": "ventricle",
+    "description": "Non-contrast reformatted computed tomography is observed in axial, sagittal and coronal planes. At the level of the fourth ventricle with cerebellar origin, a round lesion with a heterogeneous appearance with calcification areas is observed that displaces the pons forward, obliterating the prepontine cistern. A hypodense area compatible with vasogenic edema is observed on the periphery of the lesion.\n\nPost-surgical changes of suboccipital craniectomy and frontoparietal craniotomy for ventriculoperitoneal valve placement are observed, which is observed as a hyperdense image, with a tubular appearance directed to the ventricular region.",
+    "pixel_stats": {
+        "mean": 43.24381637573242,
+        "std": 49.27515994360391,
+        "min": 0,
+        "max": 235
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

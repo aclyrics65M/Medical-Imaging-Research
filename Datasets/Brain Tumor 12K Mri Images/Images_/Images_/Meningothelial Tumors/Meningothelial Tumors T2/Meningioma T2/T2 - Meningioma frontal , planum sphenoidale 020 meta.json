@@ -1,0 +1,26 @@
+{
+    "filename": "T2 - Meningioma frontal , planum sphenoidale 020.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 255,
+        "y": 165
+    },
+    "point_normalized": {
+        "x": 0.49912054524200317,
+        "y": 0.324680823647579
+    },
+    "location": [
+        "frontal",
+        "planum sphenoidale"
+    ],
+    "location_str": "frontal planum sphenoidale",
+    "description": "There is an isodense grey matter extraaxial lesion in the frontal region. The lesion is centered on the planum sphenoidale. Buckling of the white matter. The lesion displaces the anterior corpus callous - rostrum and genum. The lesion abuts the optic chiasm and pituitary stalk. There is displacement of the frontal horns of the lateral ventricle and associated hydrocephalus with enlargement of the lateral ventricles. There is minimal perifocal edema of the adjacent brain, predominantly of the right frontal lobe.\n\nThe appearance is most keeping with a meningioma in the anterior cranial fossa.",
+    "pixel_stats": {
+        "mean": 34.25299072265625,
+        "std": 42.30910685268349,
+        "min": 0,
+        "max": 254
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

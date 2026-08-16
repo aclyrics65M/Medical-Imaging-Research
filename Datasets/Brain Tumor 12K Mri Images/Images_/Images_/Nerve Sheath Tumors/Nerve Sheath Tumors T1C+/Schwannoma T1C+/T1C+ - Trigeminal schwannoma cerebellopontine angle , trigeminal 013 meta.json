@@ -1,0 +1,26 @@
+{
+    "filename": "T1C+ - Trigeminal schwannoma cerebellopontine angle , trigeminal 013.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 196,
+        "y": 246
+    },
+    "point_normalized": {
+        "x": 0.3847375703212244,
+        "y": 0.482059554286584
+    },
+    "location": [
+        "cerebellopontine angle",
+        "trigeminal"
+    ],
+    "location_str": "cerebellopontine angle trigeminal",
+    "description": "A large dumbbell-shaped heterogeneous mass is seen in the right cerebellopontine angle extending anteriorly along the course of the right trigeminal nerve into the right Meckel's cave and right lateral part of the cavernous sinus. The mass predominantly consists of cystic components which are hypointense in T1WI, and hyperintense in T2WI. In FLAIR these areas show signal attenuation. Nodular solid components are seen within the cystic areas which are isointense in T1WI and T2WI sequences. In post-contrast images, the solid components show moderate enhancement. The cystic components show facilitated diffusion whereas the solid components exhibit mild diffusion restriction.\n\nSignificant mass effect is exerted by mass over the brainstem and 4th ventricle. The brainstem is displaced to the left side. The right internal carotid artery and right optic nerve are compressed and displaced by the mass. The right medial temporal lobe and right temporal horn are compressed by the mass.\n\nImpression: Imaging features are consistent with right sided trigeminal schwannoma.",
+    "pixel_stats": {
+        "mean": 27.431121826171875,
+        "std": 33.48033147356646,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

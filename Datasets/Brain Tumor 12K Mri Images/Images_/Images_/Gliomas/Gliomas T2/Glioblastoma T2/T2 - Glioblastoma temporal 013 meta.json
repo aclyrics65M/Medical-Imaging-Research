@@ -1,0 +1,25 @@
+{
+    "filename": "T2 - Glioblastoma temporal 013.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 176,
+        "y": 242
+    },
+    "point_normalized": {
+        "x": 0.34552055034838597,
+        "y": 0.47386097369145697
+    },
+    "location": [
+        "temporal"
+    ],
+    "location_str": "temporal",
+    "description": "28*32*38 mm right temporal lobe abnormal signal intra-axial mass lesion with a central necrotic component and thick irregular wall enhancement associated with marked vasogenic edematous changes.\n\nMass effect and vasogenic edema causing the midline shift, effacement of right perimesencephalic cistern and pressure effect on the right cerebral peduncle.",
+    "pixel_stats": {
+        "mean": 32.49044418334961,
+        "std": 50.05237674396263,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

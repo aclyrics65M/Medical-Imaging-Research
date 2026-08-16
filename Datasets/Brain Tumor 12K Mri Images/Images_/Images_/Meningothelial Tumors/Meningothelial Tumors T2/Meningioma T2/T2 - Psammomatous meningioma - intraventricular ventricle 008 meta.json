@@ -1,0 +1,25 @@
+{
+    "filename": "T2 - Psammomatous meningioma - intraventricular ventricle 008.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 303,
+        "y": 292
+    },
+    "point_normalized": {
+        "x": 0.5938950101763627,
+        "y": 0.5728396958829889
+    },
+    "location": [
+        "ventricle"
+    ],
+    "location_str": "ventricle",
+    "description": "Within the trigone of the left lateral ventricle, and involving or bulging into the adjacent brain is a lobulated mass which is slightly hypderdense pre-contrast and demonstrates vivid homogeneous contrast enhancement.",
+    "pixel_stats": {
+        "mean": 36.85880661010742,
+        "std": 56.19319774042123,
+        "min": 0,
+        "max": 251
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

@@ -1,0 +1,25 @@
+{
+    "filename": "T1 - Oligodendroglioma parietal 021.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 381,
+        "y": 321
+    },
+    "point_normalized": {
+        "x": 0.7442269200722433,
+        "y": 0.6277162877255223
+    },
+    "location": [
+        "parietal"
+    ],
+    "location_str": "parietal",
+    "description": "An ill-defined left parietal mass without calcification of convincing enhancing component is present.",
+    "pixel_stats": {
+        "mean": 85.11093521118164,
+        "std": 78.85551008453469,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

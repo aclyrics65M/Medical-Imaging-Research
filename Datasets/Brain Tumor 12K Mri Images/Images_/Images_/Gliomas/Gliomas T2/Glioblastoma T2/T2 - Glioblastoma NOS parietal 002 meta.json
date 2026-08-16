@@ -1,0 +1,25 @@
+{
+    "filename": "T2 - Glioblastoma NOS parietal 002.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 166,
+        "y": 221
+    },
+    "point_normalized": {
+        "x": 0.32591204036196675,
+        "y": 0.434462394133564
+    },
+    "location": [
+        "parietal"
+    ],
+    "location_str": "parietal",
+    "description": "Ring-enhancing mass in the right temporo-parietal region. Some nodular componenets. Surrounding edema. Blooming on GRE indicative of intralesional hemorrhage.",
+    "pixel_stats": {
+        "mean": 56.37279510498047,
+        "std": 46.385845724743895,
+        "min": 11,
+        "max": 250
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

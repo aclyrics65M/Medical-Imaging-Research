@@ -1,0 +1,25 @@
+{
+    "filename": "T2 - Pilocytic astrocytoma ventricle 059.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 248,
+        "y": 351
+    },
+    "point_normalized": {
+        "x": 0.48374866363781116,
+        "y": 0.6871318878945516
+    },
+    "location": [
+        "ventricle"
+    ],
+    "location_str": "ventricle",
+    "description": "There is a 4 cm T2 hyperintense midline cerebellar mass which distorts the fourth ventricle and medulla without significant hydrocephalus but resulting in crowding of foramen magnum with mild cerebellar tonsillar herniation.",
+    "pixel_stats": {
+        "mean": 37.89311599731445,
+        "std": 47.976649891893,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

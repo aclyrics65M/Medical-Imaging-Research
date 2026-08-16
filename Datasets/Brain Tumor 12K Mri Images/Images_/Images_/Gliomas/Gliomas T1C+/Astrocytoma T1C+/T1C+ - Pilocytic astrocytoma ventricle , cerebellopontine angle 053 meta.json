@@ -1,0 +1,26 @@
+{
+    "filename": "T1C+ - Pilocytic astrocytoma ventricle , cerebellopontine angle 053.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 293,
+        "y": 284
+    },
+    "point_normalized": {
+        "x": 0.5726524576910752,
+        "y": 0.5557446644533024
+    },
+    "location": [
+        "ventricle",
+        "cerebellopontine angle"
+    ],
+    "location_str": "ventricle cerebellopontine angle",
+    "description": "A mixed solid and cystic tumor is present, arising from the left side of the midbrain, with the cyst projecting superiorly displacing the left thalamus and third ventricle, and inferiorly prolapses out of the brain stem into the ambient cistern and more inferiorly into the cerebellopontine angle abutting and displacing the middle cerebral peduncle.\n\nThere is very little surrounding edema, no calcification or blood product, and no elevation of cerebral blood volume. Spectroscopy demonstrates elevation of choline. The solid enhancing components demonstrate intermediate diffusion restriction (1400 x 10^-6 mm^2/s).\n\nThe remainder of the brain is unremarkable, there is no hydrocephalus. No other lesions identified.\n\nConclusion: Mixed solid cystic tumor arising from the left side of the midbrain and extending into the ambient cistern and cerebellopontine angle most likely represents a pilocytic astrocytoma.",
+    "pixel_stats": {
+        "mean": 41.37034606933594,
+        "std": 42.21888405676304,
+        "min": 0,
+        "max": 217
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

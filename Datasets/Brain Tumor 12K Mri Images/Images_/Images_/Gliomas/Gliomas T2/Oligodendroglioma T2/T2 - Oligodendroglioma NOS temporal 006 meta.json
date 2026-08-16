@@ -1,0 +1,25 @@
+{
+    "filename": "T2 - Oligodendroglioma NOS temporal 006.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 376,
+        "y": 263
+    },
+    "point_normalized": {
+        "x": 0.7589503324012589,
+        "y": 0.5147290470502311
+    },
+    "location": [
+        "temporal"
+    ],
+    "location_str": "temporal",
+    "description": "Well circumscribed hypodense at most faintly enhancing left temporal lobe mass without calcification.",
+    "pixel_stats": {
+        "mean": 41.00174331665039,
+        "std": 51.167681804406286,
+        "min": 0,
+        "max": 251
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

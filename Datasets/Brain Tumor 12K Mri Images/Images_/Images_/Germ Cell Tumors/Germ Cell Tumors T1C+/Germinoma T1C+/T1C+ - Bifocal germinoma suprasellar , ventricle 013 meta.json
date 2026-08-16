@@ -1,0 +1,26 @@
+{
+    "filename": "T1C+ - Bifocal germinoma suprasellar , ventricle 013.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 263,
+        "y": 230
+    },
+    "point_normalized": {
+        "x": 0.5154609702306858,
+        "y": 0.44936167472201877
+    },
+    "location": [
+        "suprasellar",
+        "ventricle"
+    ],
+    "location_str": "suprasellar ventricle",
+    "description": "Lobulated mass within the suprasellar region centered around the hypothalamus in the floor of the third ventricle, involving the optic chiasm with mass like expansion though sparing the retro-orbital posterior nerves. On the right the mass is intimately related to the anterior cerebral artery with preservation of flow void on susceptibility weighted imaging. Posteriorly the mass abuts the cerebral peduncle without evidence of signal change. This mass avidly enhances, with restricted diffusion. Adjacent edema involving the lateral third ventricular walls, extending anterior to the anterior commissure and laterally and posteriorly within the posterior globus pallidi and abutting the cerebral peduncles. No blooming artefact on susceptibility weighted imaging to suggest presence of calcification or blood products. Loco-regional mass effect with distortion / narrowing of the third ventricle. The pituitary gland appears separate from the lesion.\n\nSeparate enhancing mass involve the posterior medial right thalamus and posterior third ventricular wall with some extension to the pineal region and inferiorly into the midbrain tegmentum. Associated with perilesional edema which involves the midbrain tegmentum, greater on the right than left, and the periaqueductal grey matter. Near complete obliteration of the entrance of the cerebral aqueduct which probably accounts for the marginal dilatation of the lateral and third ventricles.\n\nProminent retrocerebellar CSF appearing space with a normal vermis and fourth ventricle causing anterior displacement of the right cerebellar hemisphere, likely arachnoid cyst.\n\nThe remaining grey-white matter differentiation is preserved. Normal expected flow voids of the visualized cerebral vasculature. Mucous retention cyst within the right maxillary sinus. No proptosis.",
+    "pixel_stats": {
+        "mean": 39.61518096923828,
+        "std": 48.73280744269878,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

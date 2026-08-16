@@ -1,0 +1,26 @@
+{
+    "filename": "T2 - Petroclival meningioma clivus , brainstem 001.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 226,
+        "y": 265
+    },
+    "point_normalized": {
+        "x": 0.4451971427793503,
+        "y": 0.5237383176900604
+    },
+    "location": [
+        "clivus",
+        "brainstem"
+    ],
+    "location_str": "clivus brainstem",
+    "description": "A strongly enhancing mass lesion arising extra-axially from the clivus region causes some brainstem and infundibular compression.",
+    "pixel_stats": {
+        "mean": 42.50638961791992,
+        "std": 60.98958471518632,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

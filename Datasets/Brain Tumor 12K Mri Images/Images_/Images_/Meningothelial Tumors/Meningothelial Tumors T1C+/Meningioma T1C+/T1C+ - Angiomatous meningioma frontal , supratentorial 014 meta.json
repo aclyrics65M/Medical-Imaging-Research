@@ -1,0 +1,26 @@
+{
+    "filename": "T1C+ - Angiomatous meningioma frontal , supratentorial 014.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 193,
+        "y": 195
+    },
+    "point_normalized": {
+        "x": 0.37820140032575134,
+        "y": 0.38217303416977944
+    },
+    "location": [
+        "frontal",
+        "supratentorial"
+    ],
+    "location_str": "frontal supratentorial",
+    "description": "A well defined frontal ovoid cystic mass with a thin slightly irregular rim is hemosiderin lined and contains a tiny blood fluid level. An irregularly shaped meningeal surface nodule appears suspended by thin septations that course through the cystic component to the posteromedioinferior walls that are likely to be contributing to the nodule's vascular supply. No prominent flow voids although minor flow voids are seen in the slightly nodular posteroinferior wall. The nodule intensely enhances and diffusion restricts apart from small internal cystic foci that are T2 hyperintense and T2 FLAIR/T1 hypointense. The CT reported second nodule is thought to reflect the slightly irregular rim rather than a real 2nd nodule. Although susceptibility from the hemosiderin affects the DWI sequence, minor peripheral diffusion restriction is also suspected. Minor adjacent smooth dural enhancement laterally with \"dural tail\", with possible CSF cleft.\n\nModerate surrounding vasogenic edema. Moderate mass effect, with midline shift of 1 cm to the left. Both frontal horns distorted. No definite hydrocephalus. No second mass lesion. T2 hyperintensities scattered throughout the supratentorial white matter in keeping with small vessel ischemic change.\n\nSolitary right frontal cystic neoplasm with a pial surface nodule and minor internal hemorrhage. Dural tail with CSF cleft raises the possibility of this being extra-axial rather than intra-axial. If extra-axial, a variant meningioma would be most likely (e.g. cystic). If intra-axial, then combined demographic/imaging appearance does not particularly fit ?cystic GBM ?cystic metastasis ?primary cystic neoplasm.",
+    "pixel_stats": {
+        "mean": 32.114437103271484,
+        "std": 43.170338468434885,
+        "min": 0,
+        "max": 238
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

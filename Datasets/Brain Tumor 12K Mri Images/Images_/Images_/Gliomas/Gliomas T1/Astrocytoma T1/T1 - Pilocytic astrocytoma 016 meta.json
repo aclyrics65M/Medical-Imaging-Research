@@ -1,0 +1,23 @@
+{
+    "filename": "T1 - Pilocytic astrocytoma 016.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 260,
+        "y": 348
+    },
+    "point_normalized": {
+        "x": 0.5089248002352128,
+        "y": 0.6797503285488588
+    },
+    "location": [],
+    "location_str": "",
+    "description": "Right cerebellar cystic lesion with solid mural nodule that displays moderate contrast enhancement. Associated bilateral subdural hematomas from recurrent V-P shunt placements are noted.",
+    "pixel_stats": {
+        "mean": 24.86370849609375,
+        "std": 42.468228686375504,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

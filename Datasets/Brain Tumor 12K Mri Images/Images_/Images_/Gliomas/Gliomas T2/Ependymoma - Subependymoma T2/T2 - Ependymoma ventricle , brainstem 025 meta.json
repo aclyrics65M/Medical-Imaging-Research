@@ -1,0 +1,26 @@
+{
+    "filename": "T2 - Ependymoma ventricle , brainstem 025.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 255,
+        "y": 327
+    },
+    "point_normalized": {
+        "x": 0.49894573694013067,
+        "y": 0.6416907589172578
+    },
+    "location": [
+        "ventricle",
+        "brainstem"
+    ],
+    "location_str": "ventricle brainstem",
+    "description": "Mixed solid-cystic mass arising from the fourth ventricle and causing mass effect on the brainstem. There was also resultant obstructive hydrocephalus, not shown here. The mass appears to ‘ooze’ out of the foramen of Magendie. There was no associated spinal lesion. Classical ‘plastic’ ependymoma.",
+    "pixel_stats": {
+        "mean": 36.90796661376953,
+        "std": 42.13900196326229,
+        "min": 0,
+        "max": 247
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

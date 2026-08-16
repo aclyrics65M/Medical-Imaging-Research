@@ -1,0 +1,25 @@
+{
+    "filename": "T2 - Medulloblastoma ventricle 022.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 253,
+        "y": 348
+    },
+    "point_normalized": {
+        "x": 0.4942184177453983,
+        "y": 0.680573015938397
+    },
+    "location": [
+        "ventricle"
+    ],
+    "location_str": "ventricle",
+    "description": "Occupying the 4th ventricle, there is a solid mass that seems to arise from the cerebellar vermis, with low signal on T1, high signal on T2 and FLAIR, and patchy contrast enhancement. It also presents with high signal on DWI.",
+    "pixel_stats": {
+        "mean": 38.52629852294922,
+        "std": 63.058630249277016,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

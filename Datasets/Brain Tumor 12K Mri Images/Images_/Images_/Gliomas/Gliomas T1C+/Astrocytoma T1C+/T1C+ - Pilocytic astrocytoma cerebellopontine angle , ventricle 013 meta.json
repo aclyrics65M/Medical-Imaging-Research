@@ -1,0 +1,26 @@
+{
+    "filename": "T1C+ - Pilocytic astrocytoma cerebellopontine angle , ventricle 013.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 324,
+        "y": 302
+    },
+    "point_normalized": {
+        "x": 0.6652414825398024,
+        "y": 0.5947801186077089
+    },
+    "location": [
+        "cerebellopontine angle",
+        "ventricle"
+    ],
+    "location_str": "cerebellopontine angle ventricle",
+    "description": "Contrast-enhanced MRI demonstrating a well-defined heterogenous and peripherally enhancing multilobulated thick-walled tumor with a small cystic center within the left cerebellopontine angle. The mass abuts the cisternal seventh and eighth cranial nerves and their nerve root entry zone. This appears to have mass effect on the fourth ventricle, and adjacent dural enhancement.",
+    "pixel_stats": {
+        "mean": 26.464340209960938,
+        "std": 46.341528754879626,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

@@ -1,0 +1,23 @@
+{
+    "filename": "T1 - Anaplastic astrocytoma (pineal region) 007.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 263,
+        "y": 291
+    },
+    "point_normalized": {
+        "x": 0.5154609702306858,
+        "y": 0.5702694811246848
+    },
+    "location": [],
+    "location_str": "",
+    "description": "There is a mass in the quadrigeminal plate cistern, which is homogeneously mildly T2 hyper- and T1 hypointense to grey matter and demonstrates avid heterogeneous contrast enhancement. Abnormal signal also extends into the thalami, more marked on the right. The mass has high signal on DWI and low ADC values (diffusion restriction), likely indicating high cellularity.\n\nThere is increased blood volume in the lesion (not shown) and MRS shows increased choline-creatine ratio with reduced NAA peak and a small lipid/lactate peak in keeping with a higher-grade tumor.\n\nThere is obstruction of the cerebral aqueduct with hydrocephalus involving the lateral and third ventricles. Mild periventricular T2 hyperintensity suggests a degree of transependymal edema.",
+    "pixel_stats": {
+        "mean": 39.65581130981445,
+        "std": 53.75454827114861,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

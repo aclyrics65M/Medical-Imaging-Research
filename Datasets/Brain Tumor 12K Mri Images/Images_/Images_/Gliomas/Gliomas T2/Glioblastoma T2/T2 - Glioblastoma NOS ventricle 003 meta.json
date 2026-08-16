@@ -1,0 +1,25 @@
+{
+    "filename": "T2 - Glioblastoma NOS ventricle 003.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 178,
+        "y": 336
+    },
+    "point_normalized": {
+        "x": 0.3487886353461225,
+        "y": 0.6575375446297359
+    },
+    "location": [
+        "ventricle"
+    ],
+    "location_str": "ventricle",
+    "description": "Right parietooccipital irregular intra-axial heterogeneous lesion surrounded by perifocal edema and exerting a positive mass effect on the ipsilateral lateral ventricle. It displays heterogeneous enhancement with a hemorrhagic component at the posterior aspect of this lesion.\n\nMagnetic resonance spectroscopy reveals:",
+    "pixel_stats": {
+        "mean": 30.42984390258789,
+        "std": 52.21751846182429,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

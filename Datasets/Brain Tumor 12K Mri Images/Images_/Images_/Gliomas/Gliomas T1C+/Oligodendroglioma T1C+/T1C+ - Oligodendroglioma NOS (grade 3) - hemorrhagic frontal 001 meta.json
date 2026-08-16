@@ -1,0 +1,25 @@
+{
+    "filename": "T1C+ - Oligodendroglioma NOS (grade 3) - hemorrhagic frontal 001.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 203,
+        "y": 147
+    },
+    "point_normalized": {
+        "x": 0.39780991031217056,
+        "y": 0.28857301234797167
+    },
+    "location": [
+        "frontal"
+    ],
+    "location_str": "frontal",
+    "description": "A right frontal lobe mass with central hemorrhagic component is present (intrinsic high T1, low T2) with a peripheral region of enhancement and high T2 signal. Some of the enhancement may be in reaction to the hemorrhage, depending on the time course.",
+    "pixel_stats": {
+        "mean": 53.487796783447266,
+        "std": 48.3825499076513,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

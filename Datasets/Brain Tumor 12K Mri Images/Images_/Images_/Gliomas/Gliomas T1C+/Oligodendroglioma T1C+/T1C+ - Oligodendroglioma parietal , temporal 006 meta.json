@@ -1,0 +1,26 @@
+{
+    "filename": "T1C+ - Oligodendroglioma parietal , temporal 006.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 332,
+        "y": 340
+    },
+    "point_normalized": {
+        "x": 0.6494524551378839,
+        "y": 0.6650439460590444
+    },
+    "location": [
+        "parietal",
+        "temporal"
+    ],
+    "location_str": "parietal temporal",
+    "description": "A lesion of increased signal intensity on the T2 and associated with positive mass effect lies in the postcentral gyrus of the parietal lobe and extends down to involve the superior temporal lobe on the left. The lesion is of heterogeneous signal intensity. No restricted diffusion. No contrast enhancement.\n\nConclusion: Features suggest a glioma of the left parietal lobe. The lack of contrast enhancement is in keeping with a low-grade tumor. Lack of T2-FLAIR mismatch and extensive cortical involvement raises the possibility of an oligodendroglioma.",
+    "pixel_stats": {
+        "mean": 42.5145149230957,
+        "std": 45.046850305237506,
+        "min": 0,
+        "max": 235
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

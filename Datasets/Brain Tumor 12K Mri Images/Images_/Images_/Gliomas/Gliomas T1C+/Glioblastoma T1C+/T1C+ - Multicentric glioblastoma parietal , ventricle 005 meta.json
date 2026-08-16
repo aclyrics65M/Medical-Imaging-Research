@@ -1,0 +1,26 @@
+{
+    "filename": "T1C+ - Multicentric glioblastoma parietal , ventricle 005.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 260,
+        "y": 137
+    },
+    "point_normalized": {
+        "x": 0.5108986434151278,
+        "y": 0.27105814424673724
+    },
+    "location": [
+        "parietal",
+        "ventricle"
+    ],
+    "location_str": "parietal ventricle",
+    "description": "There are two intracranial lesions located in the right subfalcine region and the right parietal lobe, measuring approximately 3.6 × 3.5 × 2.5 cm and 7.1 × 5.4 × 2.4 cm (AP × CC × TR), respectively. Both lesions demonstrate heterogeneous signal intensity on T1- and T2-weighted images, with high signal intensity on FLAIR sequences, and are surrounded by high T2/Flair signal, which could represent neoplastic infiltration and/or vasogenic edema.\n\nFollowing contrast administration, both lesions exhibit irregular peripheral enhancement with centrally non-enhancing components. The central components demonstrate low signal intensity on T1-weighted images and high signal intensity on T2-weighted images, most likely representing necrosis. Areas of diffusion restriction are present within the enhancing components of both lesions. Blooming artifacts on susceptibility-weighted imaging, likely reflecting hemorrhagic components.\n\nThe lesions exert significant mass effect resulting in leftward midline shift, compression of the right lateral ventricle, right uncal herniation and early descending transtentorial herniation as evidenced by displacement of the midbrain and effacement of the contralateral ambient cistern.",
+    "pixel_stats": {
+        "mean": 29.53246307373047,
+        "std": 46.72478215963294,
+        "min": 0,
+        "max": 249
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

@@ -1,0 +1,26 @@
+{
+    "filename": "T2 - Medulloblastoma posterior fossa , parafalcine 005.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 251,
+        "y": 321
+    },
+    "point_normalized": {
+        "x": 0.4925843752465301,
+        "y": 0.6290950110839425
+    },
+    "location": [
+        "posterior fossa",
+        "parafalcine"
+    ],
+    "location_str": "posterior fossa parafalcine",
+    "description": "Large midline posterior fossa mass.\n\nSecondary non-communicating obstructive hydrocephalus.\n\nMass shows heterogeneous increased T2 signal with areas of susceptibility weighted artefact representing areas of hemorrhage. Heterogeneous contrast enhancement.\n\nMarked diffusion restriction. External ventricular drain in situ.\n\nRight parafalcine T2 hypointense lesion with hyperintense rim.",
+    "pixel_stats": {
+        "mean": 30.555896759033203,
+        "std": 51.66820784906862,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

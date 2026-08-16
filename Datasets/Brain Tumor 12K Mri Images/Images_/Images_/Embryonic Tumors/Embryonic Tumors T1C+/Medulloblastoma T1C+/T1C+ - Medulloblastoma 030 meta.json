@@ -1,0 +1,23 @@
+{
+    "filename": "T1C+ - Medulloblastoma 030.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 173,
+        "y": 402
+    },
+    "point_normalized": {
+        "x": 0.3389843803529129,
+        "y": 0.7869843675370889
+    },
+    "location": [],
+    "location_str": "",
+    "description": "Heterogeneous isodense mass in right cerebellar hemisphere with slight enhancement after contrast administration. Severe hydrocephalus.",
+    "pixel_stats": {
+        "mean": 32.64565658569336,
+        "std": 43.444883238628094,
+        "min": 0,
+        "max": 254
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

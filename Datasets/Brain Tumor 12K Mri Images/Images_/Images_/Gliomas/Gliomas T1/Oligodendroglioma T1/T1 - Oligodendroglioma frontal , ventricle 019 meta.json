@@ -1,0 +1,26 @@
+{
+    "filename": "T1 - Oligodendroglioma frontal , ventricle 019.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 276,
+        "y": 142
+    },
+    "point_normalized": {
+        "x": 0.5432396927114463,
+        "y": 0.2810893440462319
+    },
+    "location": [
+        "frontal",
+        "ventricle"
+    ],
+    "location_str": "frontal ventricle",
+    "description": "Large heterogeneous mass within the anterior left frontal lobe, which contains an internal multiseptated/cystic area and surrounding T2 hyperintensity and heterogeneous enhancement.\n\nThere is restricted diffusion and partial effacement of the frontal horn of the left lateral ventricle.\n\nRight midline shift is also noted.",
+    "pixel_stats": {
+        "mean": 55.70056915283203,
+        "std": 50.207212934329426,
+        "min": 16,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

@@ -1,0 +1,26 @@
+{
+    "filename": "T2 - Vestibular schwannoma intracanalicular , brainstem 002.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 281,
+        "y": 288
+    },
+    "point_normalized": {
+        "x": 0.553043947704656,
+        "y": 0.5635801009448105
+    },
+    "location": [
+        "intracanalicular",
+        "brainstem"
+    ],
+    "location_str": "intracanalicular brainstem",
+    "description": "Left cerebellopontine solid mass lesion, with smooth regular surface, globular in shape and epicentered on internal auditory meatus. It shows low signal on T1 and high signal on T2 and FLAIR. Post-contrast enhancement is noted sparing clefts of few cystic changes.\n\nIt widens left internal auditory canal with intracanalicular component. It exerts mass effect in the form of indentation of left side of brainstem and anterior aspect of left cerebellar hemisphere. No associated hyperostosis or thickened/enhanced dural tail.",
+    "pixel_stats": {
+        "mean": 44.45049285888672,
+        "std": 53.207593177209546,
+        "min": 9,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

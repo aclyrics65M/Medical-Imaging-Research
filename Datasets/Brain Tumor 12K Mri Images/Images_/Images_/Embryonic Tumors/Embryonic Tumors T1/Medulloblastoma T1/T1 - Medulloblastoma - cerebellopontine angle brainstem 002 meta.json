@@ -1,0 +1,25 @@
+{
+    "filename": "T1 - Medulloblastoma - cerebellopontine angle brainstem 002.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 289,
+        "y": 297
+    },
+    "point_normalized": {
+        "x": 0.5644822451967338,
+        "y": 0.5817077786167627
+    },
+    "location": [
+        "brainstem"
+    ],
+    "location_str": "brainstem",
+    "description": "There is a well-defined, lobulated mass at the left CP angle. It appears isointense on T1 and T2-weighted images, with small central hyperintense foci on T2.\n\nThe mass is inseparable from the adjacent left cerebellar hemisphere and exerts significant mass effect on the brainstem and cerebellum. It exhibits marked diffusion restriction and enhancement\n\nAdditionally, there is abnormal signal intensity in the left cerebellar hemisphere and brainstem, without associated diffusion restriction or post-contrast enhancement.",
+    "pixel_stats": {
+        "mean": 31.50759506225586,
+        "std": 45.07508802858035,
+        "min": 2,
+        "max": 204
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

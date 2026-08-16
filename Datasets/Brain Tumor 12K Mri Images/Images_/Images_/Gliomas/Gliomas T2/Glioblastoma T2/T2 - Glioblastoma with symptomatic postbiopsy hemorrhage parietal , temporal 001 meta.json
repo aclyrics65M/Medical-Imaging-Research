@@ -1,0 +1,26 @@
+{
+    "filename": "T2 - Glioblastoma with symptomatic postbiopsy hemorrhage parietal , temporal 001.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 208,
+        "y": 287
+    },
+    "point_normalized": {
+        "x": 0.4092482078042484,
+        "y": 0.5714981865716622
+    },
+    "location": [
+        "parietal",
+        "temporal"
+    ],
+    "location_str": "parietal temporal",
+    "description": "Right deep parietal lobe mass, 5 cm, with surrounding expansile hypodensity (involving the parietal white matter, posterior subinsular region, and posterior superior temporal gyrus white matter, retrolenticular white matter and posterior limb of internal capsule, and dorsolateral thalamus) in keeping with vasogenic edema and central hypodensity probably representing necrosis.\n\nMass-effect, including 2 mm leftward midline shift and effacement of right parietal sulci, the central sulcus, the posterior ramus of the sylvian fissure, and the posterior body right lateral ventricle\n\nIncidental right parotid mass, 1.4 cm\n\nContrast-enhanced MRI is recommended.",
+    "pixel_stats": {
+        "mean": 33.50697326660156,
+        "std": 52.45706932831962,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

@@ -1,0 +1,25 @@
+{
+    "filename": "T2 - Medulloblastoma ventricle 008.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 256,
+        "y": 334
+    },
+    "point_normalized": {
+        "x": 0.5007545877408714,
+        "y": 0.652816995418318
+    },
+    "location": [
+        "ventricle"
+    ],
+    "location_str": "ventricle",
+    "description": "The imaging provided shows a large mass obliterating and expanding the fourth ventricle, with upstream changes of acute obstructive hydrocephalus that includes ventriculomegaly and transependymal CSF flow.\n\nThe mass is extra-axial, showing a isointense T1 and heterogenous T2/FLAIR signal intensity, with internal foci of acute hemorrhage and cystic changes. GRE images better show the blood products. The diffusion imaging also shows scattered areas of diffusion restriction within the mass.\nThe post-Gd images show heterogenous enhancement.",
+    "pixel_stats": {
+        "mean": 29.013591766357422,
+        "std": 51.540943002527754,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

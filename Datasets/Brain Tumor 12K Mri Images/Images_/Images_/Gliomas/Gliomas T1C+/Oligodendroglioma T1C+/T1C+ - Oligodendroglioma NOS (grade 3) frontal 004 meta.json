@@ -1,0 +1,25 @@
+{
+    "filename": "T1C+ - Oligodendroglioma NOS (grade 3) frontal 004.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 175,
+        "y": 212
+    },
+    "point_normalized": {
+        "x": 0.3438865078495177,
+        "y": 0.4137291651038004
+    },
+    "location": [
+        "frontal"
+    ],
+    "location_str": "frontal",
+    "description": "Right frontal lobe intra-axial lesion is demonstrated that involves cortex as well as subcortical white matter, expanding both, without mass effect, it is not compressing the frontal horns of the lateral ventricles. No hydrocephalus. Scattered within the tumor are very small nodular areas of contrast enhancement, particularly centrally, with no discrete mass enhancing mass demonstrated. The tumor has no abnormal restricted diffusion. No susceptibility artifact. Surrounding T2 FLAIR hyperintensity in the right frontal lobe.",
+    "pixel_stats": {
+        "mean": 28.581897735595703,
+        "std": 42.52391249002314,
+        "min": 0,
+        "max": 243
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

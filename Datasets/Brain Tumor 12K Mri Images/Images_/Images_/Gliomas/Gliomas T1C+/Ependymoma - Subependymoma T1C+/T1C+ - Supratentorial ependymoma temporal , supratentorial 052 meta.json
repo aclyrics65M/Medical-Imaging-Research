@@ -1,0 +1,26 @@
+{
+    "filename": "T1C+ - Supratentorial ependymoma temporal , supratentorial 052.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 343,
+        "y": 361
+    },
+    "point_normalized": {
+        "x": 0.7005699984060906,
+        "y": 0.705895008530751
+    },
+    "location": [
+        "temporal",
+        "supratentorial"
+    ],
+    "location_str": "temporal supratentorial",
+    "description": "Left temporal subcortical well-defined space-occupying lesion. It shows a central cystic component and a peripheral solid component showing diffusion restriction and contrast enhancement. The lesion is surrounded by vasogenic edema and exerts a positive mass effect. MRS showed a markedly elevated Choline peak and Cho/Cr ratio.\n\nLeft temporal craniotomy and left temporal small cortical hemorrhagic enhancing area, post interventional sequel.\n\nDifferential possibilities for this case (in this young age group) include a PXA, ganglioglioma, supratentorial ependymoma or less likely pediatric high-grade glioma.",
+    "pixel_stats": {
+        "mean": 35.02289962768555,
+        "std": 41.41234982033698,
+        "min": 0,
+        "max": 238
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

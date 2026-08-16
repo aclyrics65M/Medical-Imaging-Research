@@ -1,0 +1,26 @@
+{
+    "filename": "T2 - Diffuse astrocytoma NOS (corpus callosum) tentorial , frontal 010.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 248,
+        "y": 238
+    },
+    "point_normalized": {
+        "x": 0.48137830528182846,
+        "y": 0.4671432441109294
+    },
+    "location": [
+        "tentorial",
+        "frontal"
+    ],
+    "location_str": "tentorial frontal",
+    "description": "A supra-tentorial SOL is seen centered upon the rostrum & genu of the corpus callosum extending into the anterior two-thirds of the body of the corpus callosum & into the frontal lobes of both cerebral hemispheres, more on the left side reaching to subcortical region. It is seen eliciting isointense signal on T1 & isointense to high signal on T2 WIs. In diffusion weighted images, it showed restricted diffusion with high DWI & low ADC signals. In post contrast series it showed faint patchy enhancement. It is seen surrounded by vasogenic edema extending into the cerebral frontal lobes. The SOL together with surrounding edema is seen exerting mass effect in the form of the compression of the underlying lateral ventricles with mild dilatation of the rest of the cerebral ventricles.\n\nA patch of high T1 & T2 WI signal is seen at left frontal subcortical region likely post interventional sequel",
+    "pixel_stats": {
+        "mean": 29.13428497314453,
+        "std": 43.68015398471607,
+        "min": 0,
+        "max": 230
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

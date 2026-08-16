@@ -1,0 +1,25 @@
+{
+    "filename": "T1 - Supratentorial ependymoma frontal 065.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 281,
+        "y": 171
+    },
+    "point_normalized": {
+        "x": 0.5632750769518576,
+        "y": 0.33499571692168495
+    },
+    "location": [
+        "frontal"
+    ],
+    "location_str": "frontal",
+    "description": "Large mass centered on the anterior corpus callosum extending into both frontal lobes. It has cystic and enhancing components with a small focus of calcification. Superiorly there is a small a fluid- fluid level suggestive of intratumoural hemorrhage. Anterior horns of the lateral ventricles are effaced but there is no hydrocephalus.",
+    "pixel_stats": {
+        "mean": 31.949981689453125,
+        "std": 42.57888528563933,
+        "min": 0,
+        "max": 200
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

@@ -1,0 +1,25 @@
+{
+    "filename": "T1C+ - Medulloblastoma ventricle 007.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 251,
+        "y": 330
+    },
+    "point_normalized": {
+        "x": 0.4942184177453983,
+        "y": 0.6464396955139728
+    },
+    "location": [
+        "ventricle"
+    ],
+    "location_str": "ventricle",
+    "description": "Occupying the 4th ventricle, there is a solid mass that seems to arise from the cerebellar vermis, with low signal on T1, high signal on T2 and FLAIR, and patchy contrast enhancement. It also presents with high signal on DWI.",
+    "pixel_stats": {
+        "mean": 30.012737274169922,
+        "std": 56.34092174573092,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

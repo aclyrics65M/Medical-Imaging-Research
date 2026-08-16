@@ -1,0 +1,23 @@
+{
+    "filename": "T2 - Trigeminal schwannoma 008.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 222,
+        "y": 338
+    },
+    "point_normalized": {
+        "x": 0.43375884528727243,
+        "y": 0.6609928802861409
+    },
+    "location": [],
+    "location_str": "",
+    "description": "",
+    "pixel_stats": {
+        "mean": 40.58149719238281,
+        "std": 49.583370817991295,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

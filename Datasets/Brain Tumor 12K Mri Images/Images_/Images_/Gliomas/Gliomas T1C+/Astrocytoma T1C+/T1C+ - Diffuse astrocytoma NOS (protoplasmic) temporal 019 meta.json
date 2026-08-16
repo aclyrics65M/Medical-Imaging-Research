@@ -1,0 +1,25 @@
+{
+    "filename": "T1C+ - Diffuse astrocytoma NOS (protoplasmic) temporal 019.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 163,
+        "y": 231
+    },
+    "point_normalized": {
+        "x": 0.3193758703664937,
+        "y": 0.4534638105563893
+    },
+    "location": [
+        "temporal"
+    ],
+    "location_str": "temporal",
+    "description": "A large right temporal lobe mass is present without convincing enhancement. The central portions are of very high T2 signal and attenuate on FLAIR in an ill-defined fashion (T2-FLAIR mismatch).\n\nMR spectroscopy demonstrates elevation of choline and myo-inositol.",
+    "pixel_stats": {
+        "mean": 48.218299865722656,
+        "std": 56.651051154216105,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

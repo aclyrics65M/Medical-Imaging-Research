@@ -1,0 +1,25 @@
+{
+    "filename": "T1 - Oligodendroglioma falx 028.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 268,
+        "y": 219
+    },
+    "point_normalized": {
+        "x": 0.5252652252238954,
+        "y": 0.4281077837231455
+    },
+    "location": [
+        "falx"
+    ],
+    "location_str": "falx",
+    "description": "Large predominantly cortically based lesion within the left cingulate gyrus, with marked cortical expansion demonstrating homogeneous T1 hypointensity to grey matter and high T2/FLAIR signal. The lesion demonstrates facilitated diffusion, with no contrast enhancement or elevated CBV on perfusion imaging. MR spectroscopy demonstrates elevation of the choline/creatine ratio, with depression of the NAA peak.\n\nThere is associated mass effect with rightward deviation of the falx, effacement of the third and left lateral ventricles. The corpus callosum is depressed, with scalloping of its superior margin.\n\nConclusion: Features most likely represent a low-grade infiltrative oligodendroglioma or astrocytoma, with no features to suggest high-grade component.",
+    "pixel_stats": {
+        "mean": 41.83005905151367,
+        "std": 46.52543437989425,
+        "min": 0,
+        "max": 159
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

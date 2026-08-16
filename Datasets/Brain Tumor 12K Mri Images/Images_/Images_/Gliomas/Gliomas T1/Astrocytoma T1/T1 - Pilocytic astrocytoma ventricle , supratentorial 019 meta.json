@@ -1,0 +1,26 @@
+{
+    "filename": "T1 - Pilocytic astrocytoma ventricle , supratentorial 019.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 135,
+        "y": 189
+    },
+    "point_normalized": {
+        "x": 0.22892888590400237,
+        "y": 0.37073473667770157
+    },
+    "location": [
+        "ventricle",
+        "supratentorial"
+    ],
+    "location_str": "ventricle supratentorial",
+    "description": "A large uni-loculated cystic lesion within the deep white matter of the right frontoparietal region of the brain has smooth enhancing walls and an eccentric mural nodule within the right-inferior wall of the cyst which is predominantly isointense to grey matter on T1, hyperintense on T2 heterogeneously enhancing. There is a mass effect causing near-complete effacement of the right lateral ventricle with a midline shift towards the left side. No significant perilesional edema.\n\nLarge right frontoparietal cystic mass with an eccentric enhancing mural nodule. Differentials include: pilocytic astrocytoma, glioneuronal tumor (e.g. ganglioglioma/gangliocytoma), supratentorial ependymoma or perhaps a hemangioblastoma.",
+    "pixel_stats": {
+        "mean": 56.71067428588867,
+        "std": 57.1971676549127,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

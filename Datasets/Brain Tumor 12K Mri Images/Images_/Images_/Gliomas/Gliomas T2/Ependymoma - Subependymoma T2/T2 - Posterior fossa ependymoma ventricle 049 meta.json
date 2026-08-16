@@ -1,0 +1,25 @@
+{
+    "filename": "T2 - Posterior fossa ependymoma ventricle 049.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 253,
+        "y": 323
+    },
+    "point_normalized": {
+        "x": 0.49540767712553613,
+        "y": 0.6333900512503308
+    },
+    "location": [
+        "ventricle"
+    ],
+    "location_str": "ventricle",
+    "description": "There is a solid frond-like mass occupying and expanding the inferior aspect of the fourth ventricle, with the tumor extending through the right foramen of Luschka and inferiorly through the foramen of Magendie and causing mild hydrocephalus. The caudal extent of the tumor reaches the level of C1-C2. This tumor has low T1 signal and increased T2/FLAIR signal, with heterogeneous though not intense contrast enhancement, and multiple small susceptibility foci consistent with microhemorrhages. It does not cause restricted diffusion compared to the brain parenchyma. There is a mass effect with anterior displacement of the medulla oblongata on the right. Associated cerebellar descent below the foramen magnum. The remainder of the brain appears normal, there is no transependymal edema surrounding the hydrocephalus. No evidence of leptomeningeal/CSF seeding within the brain or imaged upper cervical spine.",
+    "pixel_stats": {
+        "mean": 39.98728942871094,
+        "std": 47.15910540625979,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

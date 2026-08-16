@@ -1,0 +1,25 @@
+{
+    "filename": "T2 - Anaplastic astrocytoma NOS frontal 006.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 236,
+        "y": 194
+    },
+    "point_normalized": {
+        "x": 0.461537567768033,
+        "y": 0.37908650875709743
+    },
+    "location": [
+        "frontal"
+    ],
+    "location_str": "frontal",
+    "description": "A well defined CSF intensity ovoid lesion at the right frontal lobe with extensive surrounding edema. The lesion shows faint peripheral enhancement, however, the dural coverings of the lobe show linear enhancement.\n\nSignificant mass effect with midline shifting and subfalcine herniation.",
+    "pixel_stats": {
+        "mean": 38.255245208740234,
+        "std": 61.18512464166739,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

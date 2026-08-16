@@ -1,0 +1,26 @@
+{
+    "filename": "T1C+ - Pilocytic astrocytoma ventricle , temporal 030.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 252,
+        "y": 224
+    },
+    "point_normalized": {
+        "x": 0.4925843752465301,
+        "y": 0.43883118138859106
+    },
+    "location": [
+        "ventricle",
+        "temporal"
+    ],
+    "location_str": "ventricle temporal",
+    "description": "Mass centered on the third ventricle, occluding the foramen of Monro and reaching down to the sella turcica. The mass has cystic and intensively enhancing vascular components.\nHydrocephalus of the lateral ventricles. VP shunt via left parieto-temporal approach, crosses through the left ventricular trigone, its tip apparently in the left ambient cistern.",
+    "pixel_stats": {
+        "mean": 27.55666732788086,
+        "std": 40.43105476849271,
+        "min": 0,
+        "max": 250
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

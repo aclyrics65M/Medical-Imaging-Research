@@ -1,0 +1,25 @@
+{
+    "filename": "T2 - Central neurocytoma ventricle 085.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 278,
+        "y": 273
+    },
+    "point_normalized": {
+        "x": 0.5654754747643901,
+        "y": 0.5364255016148437
+    },
+    "location": [
+        "ventricle"
+    ],
+    "location_str": "ventricle",
+    "description": "There is a large mass in the left ventricle comprising soft tissue, cystic foci of CSF density, and coarse linear/serpentine calcifications. The soft tissue component barely enhances post-contrast. The mass extends a soft tissue tendril though the foramen of Monro into the third ventricle. There is marked obstructive hydrocephalus, with leftward bowing of the septum pellucidum. Pronounced mass effect, manifesting as diffuse effacement of the sulci and basal cisterns, and bilateral tonsillar herniation.\n\nThe differential diagnosis is mainly of central neurocytoma or ependymoma (less likely, given the location).",
+    "pixel_stats": {
+        "mean": 50.84547805786133,
+        "std": 64.59994132507806,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

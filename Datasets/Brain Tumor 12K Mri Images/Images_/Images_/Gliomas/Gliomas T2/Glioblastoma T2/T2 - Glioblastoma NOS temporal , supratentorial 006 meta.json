@@ -1,0 +1,26 @@
+{
+    "filename": "T2 - Glioblastoma NOS temporal , supratentorial 006.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 141,
+        "y": 266
+    },
+    "point_normalized": {
+        "x": 0.2768907653959187,
+        "y": 0.5207886130056977
+    },
+    "location": [
+        "temporal",
+        "supratentorial"
+    ],
+    "location_str": "temporal supratentorial",
+    "description": "MRI demonstrates an intra-axial mass involving the right temporal lobe, predominantly hypointense on T1 and hyperintense on T2, exhibiting a heterogeneous and peripheral enhancement in the post-contrast study.\n\nMidline shift, cerebral edema and marked mass effect, especially upon the atrium, are noted.\n\nAlso, hyperintense areas involving supratentorial white matter on T2 and FLAIR weighted imaging, probably secondary to microangiopathy and/or radiotherapy.",
+    "pixel_stats": {
+        "mean": 40.96158218383789,
+        "std": 53.591220347828404,
+        "min": 0,
+        "max": 246
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

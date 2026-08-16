@@ -1,0 +1,26 @@
+{
+    "filename": "T1 - Multicompartmental trigeminal schwannoma middle cranial fossa , temporal 017.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 200,
+        "y": 227
+    },
+    "point_normalized": {
+        "x": 0.3571887261700952,
+        "y": 0.4466212451256235
+    },
+    "location": [
+        "middle cranial fossa",
+        "temporal"
+    ],
+    "location_str": "middle cranial fossa temporal",
+    "description": "Extensive extra-axial lesion centered in the right middle cranial fossa, with well-circumscribed margins and lobulated morphology, showing heterogeneous low attenuation and avid enhancement with small cystic areas.\n\nThe lesion exerts mass effect upon the temporal lobe and causes smooth scalloped remodeling of the right greater sphenoid wing, sphenoid body, the lesser sphenoid wing and right sphenoid sinus. There is distortion of the foramen rotundum and vidian canal.\n\nAnteriorly, the lesion extends into the superior aspect of the right orbital cavity through a widened superior orbital fissure, acquiring a dumbbell morphology. The optic nerve is mildly displaced and compromised, with moderate proptosis.\n\nPosteriorly, the lesion obliterates the right prepontine cistern, exerting compressive effect and contralateral displacement of the pons.",
+    "pixel_stats": {
+        "mean": 32.72261428833008,
+        "std": 48.049517556981876,
+        "min": 0,
+        "max": 240
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

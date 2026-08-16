@@ -1,0 +1,26 @@
+{
+    "filename": "T1C+ - Tentorial meningioma posterior fossa , tentorium cerebelli 001.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 190,
+        "y": 360
+    },
+    "point_normalized": {
+        "x": 0.3732992728291465,
+        "y": 0.7047772704528833
+    },
+    "location": [
+        "posterior fossa",
+        "tentorium cerebelli"
+    ],
+    "location_str": "posterior fossa tentorium cerebelli",
+    "description": "A posterior fossa extra-axial mass demonstrates low SI on T1 and intermediate SI on T2 and avidly enhancing post-Gad administration. The mass shows no restriction on DWI. The mass is broad-based on the right tentorium cerebelli with a small portion shows supratentorial extension, compressing adjacent right cerebellar hemisphere and right occipital lobe. A characteristic dural tail sign is demonstrated on post-Gad sequences.\n\nPartial empty sella turcica.\n\nProminent arachnoid herniation pit on right occipital bone.",
+    "pixel_stats": {
+        "mean": 23.197006225585938,
+        "std": 33.98454369853546,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

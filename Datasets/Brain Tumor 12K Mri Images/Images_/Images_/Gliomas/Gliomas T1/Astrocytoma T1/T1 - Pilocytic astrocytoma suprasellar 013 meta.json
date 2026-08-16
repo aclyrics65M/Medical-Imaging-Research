@@ -1,0 +1,25 @@
+{
+    "filename": "T1 - Pilocytic astrocytoma suprasellar 013.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 268,
+        "y": 206
+    },
+    "point_normalized": {
+        "x": 0.5236311827250272,
+        "y": 0.4038070676925842
+    },
+    "location": [
+        "suprasellar"
+    ],
+    "location_str": "suprasellar",
+    "description": "A mass with intermediate attenuation in the suprasellar and hypothalamic region demonstrates vivid contrast enhancement. It is located between the internal carotid arteries and the basilar artery.",
+    "pixel_stats": {
+        "mean": 58.31133270263672,
+        "std": 42.89914296736021,
+        "min": 14,
+        "max": 198
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

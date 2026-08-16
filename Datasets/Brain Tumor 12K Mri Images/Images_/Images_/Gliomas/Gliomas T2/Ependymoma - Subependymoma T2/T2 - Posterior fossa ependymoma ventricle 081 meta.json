@@ -1,0 +1,25 @@
+{
+    "filename": "T2 - Posterior fossa ependymoma ventricle 081.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 254,
+        "y": 354
+    },
+    "point_normalized": {
+        "x": 0.4991110632602788,
+        "y": 0.6928453642671089
+    },
+    "location": [
+        "ventricle"
+    ],
+    "location_str": "ventricle",
+    "description": "MRI of the brain demonstrates a large heterogeneous mass centered in the fourth ventricle and herniating out of the left foramen of Luschka. It is mostly isointense to the adjacent cerebellum on T1 weighted images, hyperintense on T2 (with areas of higher signal / cystic change), and without significant restricted diffusion. Post contrast images demonstrate vivid but heterogeneous contrast enhancement.\n\nThere is no surrounding edema, and although the fourth ventricle is effaced there are no features to suggest significant hydrocephalus on the images provided.",
+    "pixel_stats": {
+        "mean": 51.129695892333984,
+        "std": 45.05586020088912,
+        "min": 0,
+        "max": 239
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

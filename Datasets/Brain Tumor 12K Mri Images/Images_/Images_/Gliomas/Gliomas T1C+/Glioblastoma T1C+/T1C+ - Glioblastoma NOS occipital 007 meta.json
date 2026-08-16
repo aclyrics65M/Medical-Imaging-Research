@@ -1,0 +1,25 @@
+{
+    "filename": "T1C+ - Glioblastoma NOS occipital 007.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 298,
+        "y": 348
+    },
+    "point_normalized": {
+        "x": 0.5897264076878814,
+        "y": 0.6822297603979468
+    },
+    "location": [
+        "occipital"
+    ],
+    "location_str": "occipital",
+    "description": "A large left occipital mass with peripheral irregular enhancement and central non-enhancement and extensive surrounding edema.",
+    "pixel_stats": {
+        "mean": 25.07904052734375,
+        "std": 38.13643608698661,
+        "min": 0,
+        "max": 250
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

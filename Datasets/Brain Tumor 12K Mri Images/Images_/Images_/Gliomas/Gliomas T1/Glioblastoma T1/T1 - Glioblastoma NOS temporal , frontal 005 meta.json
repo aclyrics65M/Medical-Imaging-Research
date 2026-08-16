@@ -1,0 +1,26 @@
+{
+    "filename": "T1 - Glioblastoma NOS temporal , frontal 005.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 351,
+        "y": 233
+    },
+    "point_normalized": {
+        "x": 0.687035432611854,
+        "y": 0.45571629759919224
+    },
+    "location": [
+        "temporal",
+        "frontal"
+    ],
+    "location_str": "temporal frontal",
+    "description": "A left temporal lobe poorly marginated, hypodense lesion is seen and demonstrates a contrast enhancing rim.\n\nThe periphery of the lesion appears to extend into the left frontal lobe superiorly. A further 5mm rim contrast enhancing focus is shown in the left frontal lobe further superiorly.\n\nExtensive surrounding vasogenic edema results in sulci effacement, effacement of the left Sylvan fissure and of the ventricular system. Associated 8 mm right sided midline shift.\n\nIn the posterior fossa, there is a retrocerebellar hypodensity shown most consistent with an arachnoid cyst.\n\nNo other intra or extra-axial mass, collection or acute focal abnormality is identified.\n\nNo suspicious bony lesion.\n\nLeft temporal poorly marginated, hypodense and rim contrast enhancing lesion is thought most in keeping with a high-grade astrocytoma. Extensive surrounding vasogenic edema.\n\nRetrocerebellar arachnoid cyst.",
+    "pixel_stats": {
+        "mean": 37.35841751098633,
+        "std": 43.486708843051886,
+        "min": 0,
+        "max": 241
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

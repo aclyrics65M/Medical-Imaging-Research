@@ -1,0 +1,25 @@
+{
+    "filename": "T1 - Ganglioglioma temporal 021.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 219,
+        "y": 244
+    },
+    "point_normalized": {
+        "x": 0.42885671779066764,
+        "y": 0.4784125154802496
+    },
+    "location": [
+        "temporal"
+    ],
+    "location_str": "temporal",
+    "description": "The right mesial temporal lobe, involving the medial aspect of the hippocampal head and the amygdala, is expanded by an ill-defined mass with increased T2 signal. No enhancement, blood products or calcification. Increased DWI signal may represent T2-shine-through (no ADC available, unfortunately).\n\nThe differential diagnosis is primarily between a DNET and other low-grade cortical tumors (e.g. ganglioglioma/gangliocytoma).",
+    "pixel_stats": {
+        "mean": 52.8491096496582,
+        "std": 56.137415153192705,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

@@ -1,0 +1,26 @@
+{
+    "filename": "T2 - Petroclival meningioma cerebellopontine angle , temporal 009.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 294,
+        "y": 275
+    },
+    "point_normalized": {
+        "x": 0.5872123190531942,
+        "y": 0.5398864847112206
+    },
+    "location": [
+        "cerebellopontine angle",
+        "temporal"
+    ],
+    "location_str": "cerebellopontine angle temporal",
+    "description": "Vividly enhancing T2 isointense mass centered at the left petrous apex/cerebellopontine angle shows bony erosion at the base of the posterior clinoid processes and subtle erosive change also extending to the petrous apex. Mild cortical hyperostosis of the left petrous temporal bone.The porous acousticus is not widened.The left mastoid air cells and tympanic cavity are clear.Partial opacification of the left sphenoid sinus.",
+    "pixel_stats": {
+        "mean": 44.57569885253906,
+        "std": 51.62432468635688,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

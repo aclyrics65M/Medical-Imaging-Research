@@ -1,0 +1,25 @@
+{
+    "filename": "T1C+ - Pineal germinoma pineal 034.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 254,
+        "y": 303
+    },
+    "point_normalized": {
+        "x": 0.4991025396410459,
+        "y": 0.5931687718361446
+    },
+    "location": [
+        "pineal"
+    ],
+    "location_str": "pineal",
+    "description": "A large enhancing mass is centered on the pineal region. It is heterogeneous with areas of cystic change. There is marked compression of the tectum with resulting obstructive hydrocephalus. A little surrounding edema is also present.",
+    "pixel_stats": {
+        "mean": 60.6239013671875,
+        "std": 71.4925047589469,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

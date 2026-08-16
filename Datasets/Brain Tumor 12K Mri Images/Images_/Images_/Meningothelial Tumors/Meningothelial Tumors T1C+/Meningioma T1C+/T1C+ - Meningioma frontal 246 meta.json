@@ -1,0 +1,25 @@
+{
+    "filename": "T1C+ - Meningioma frontal 246.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 109,
+        "y": 316
+    },
+    "point_normalized": {
+        "x": 0.2017679702288848,
+        "y": 0.6175262303016545
+    },
+    "location": [
+        "frontal"
+    ],
+    "location_str": "frontal",
+    "description": "A somewhat hyperdense enhancing mass is located peripherally in the right frontal region with extensive vasogenic edema.",
+    "pixel_stats": {
+        "mean": 62.299617767333984,
+        "std": 72.40194322185135,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

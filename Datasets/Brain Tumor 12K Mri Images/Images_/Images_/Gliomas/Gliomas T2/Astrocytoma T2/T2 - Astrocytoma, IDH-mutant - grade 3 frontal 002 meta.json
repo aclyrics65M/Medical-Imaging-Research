@@ -1,0 +1,25 @@
+{
+    "filename": "T2 - Astrocytoma, IDH-mutant - grade 3 frontal 002.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 207,
+        "y": 148
+    },
+    "point_normalized": {
+        "x": 0.40598012280651186,
+        "y": 0.2900255201952952
+    },
+    "location": [
+        "frontal"
+    ],
+    "location_str": "frontal",
+    "description": "A right frontal lesion is present demonstrating mass-effect on the inferior aspect of the superior frontal gyrus. The lesion is T1 hypointense and T2 hyperintense with incomplete suppression, occasional areas of central irregular low signal and a peripheral high rim on FLAIR. The lesion demonstrates no enhancement, is well defined and there is no surrounding edema. Whilst the distinction between intra and extra-axial location is somewhat difficult, a cortically-based tumor arising from the middle frontal gyrus is strongly favored. No significant diffusion restriction. No intrinsic or surrounding gradient susceptibility cerebral blood volume (CBV) is not elevated and spectroscopy is equivocal. No additional lesions identified.\n\nConclusion: The lesion is favored to represent a low-grade cortically-based tumor such as a DNET, diffuse astrocytoma or oligoastrocytoma.",
+    "pixel_stats": {
+        "mean": 52.03635787963867,
+        "std": 57.90482659104855,
+        "min": 11,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

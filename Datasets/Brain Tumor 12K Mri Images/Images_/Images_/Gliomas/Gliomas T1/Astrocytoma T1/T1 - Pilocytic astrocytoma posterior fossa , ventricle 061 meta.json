@@ -1,0 +1,26 @@
+{
+    "filename": "T1 - Pilocytic astrocytoma posterior fossa , ventricle 061.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 224,
+        "y": 332
+    },
+    "point_normalized": {
+        "x": 0.4402950152827455,
+        "y": 0.6517900464830436
+    },
+    "location": [
+        "posterior fossa",
+        "ventricle"
+    ],
+    "location_str": "posterior fossa ventricle",
+    "description": "In the posterior fossa, an intra-axial lesion of rounded morphology is identified within the right cerebellar hemisphere, with defined edges and heterogeneous, thin septa in its anterior portion. It is cystic, predominantly hypointense in T1 and hyperintense in T2 with suppression in FLAIR, without restriction to diffusion or artifact on susceptibility-weighted imaging. It has mass effect displacing the vermis and left cerebellar hemiphere towards the left with partial compression of the fourth ventricle but without hydrocephalus.\n\nIn addition, it has bone remodeling in the right occipital region.",
+    "pixel_stats": {
+        "mean": 43.42644500732422,
+        "std": 56.0746312011561,
+        "min": 7,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

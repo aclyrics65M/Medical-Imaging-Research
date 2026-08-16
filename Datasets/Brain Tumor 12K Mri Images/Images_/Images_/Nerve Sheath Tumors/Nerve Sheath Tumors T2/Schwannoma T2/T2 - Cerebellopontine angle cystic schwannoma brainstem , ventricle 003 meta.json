@@ -1,0 +1,26 @@
+{
+    "filename": "T2 - Cerebellopontine angle cystic schwannoma brainstem , ventricle 003.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 221,
+        "y": 276
+    },
+    "point_normalized": {
+        "x": 0.4214914703366345,
+        "y": 0.5392510417469734
+    },
+    "location": [
+        "brainstem",
+        "ventricle"
+    ],
+    "location_str": "brainstem ventricle",
+    "description": "The mass in the right cerebellar angle broadens the right porus acusticus, measuring about 49 x 42 mm. The mass shows a circumscribed and lobulated appearance, consisting of both tissue and a prominent cyst, with no restricted diffusion. After gadolinium injection, the tissue lesion shows dark on SWI and enhanced. The mass causes edema in the adjacent parenchymal brain and compression of the brainstem and fourth ventricle, resulting in the enlargement of the bilateral lateral ventricles and the third ventricle.",
+    "pixel_stats": {
+        "mean": 39.055294036865234,
+        "std": 51.54357102217665,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

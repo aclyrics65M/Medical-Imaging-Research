@@ -1,0 +1,23 @@
+{
+    "filename": "T2 - Jugular foramen schwannoma 002.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 292,
+        "y": 296
+    },
+    "point_normalized": {
+        "x": 0.5742865001899434,
+        "y": 0.5784680617198118
+    },
+    "location": [],
+    "location_str": "",
+    "description": "Extra-axial mass lesion located in the cistern bulb left of the cerebellum apparently extending into the jugular foramen. Slightly heterogeneous signal in T2, post gadolinium enhancement, with tiny likely cystic areas in between. The mass exerts minimal mass effect on the left middle cerebellar peduncle.",
+    "pixel_stats": {
+        "mean": 38.579978942871094,
+        "std": 51.826761164148294,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

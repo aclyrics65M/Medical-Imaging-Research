@@ -1,0 +1,25 @@
+{
+    "filename": "Meningioma infratentorial 002.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 238,
+        "y": 403
+    },
+    "point_normalized": {
+        "x": 0.4635130830048311,
+        "y": 0.7881077717550607
+    },
+    "location": [
+        "infratentorial"
+    ],
+    "location_str": "infratentorial",
+    "description": "Extra-axial infratentorial lesion at the level of the right cerebellar hemisphere in its posterior medial portion, round shape, homogeneous signal, which behaves hyperintense on T2 and FLAIR, with homogeneous enhancement after contrast administration. The lesion is seen inseparable from the straight venous sinus, straight sinus, and confluence of sinuses.",
+    "pixel_stats": {
+        "mean": 43.924842834472656,
+        "std": 47.98573469748182,
+        "min": 0,
+        "max": 245
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

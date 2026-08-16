@@ -1,0 +1,26 @@
+{
+    "filename": "T1 - Hemorrhagic glioblastoma occipital , tentorium cerebelli 010.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 194,
+        "y": 391
+    },
+    "point_normalized": {
+        "x": 0.37983544282461956,
+        "y": 0.7667092866621898
+    },
+    "location": [
+        "occipital",
+        "tentorium cerebelli"
+    ],
+    "location_str": "occipital tentorium cerebelli",
+    "description": "Large lesion measuring up to 45mm located in the right occipital lobe. Intrinsic areas of increased T1 signal consistent with hemorrhage. It is abutting the medial aspect of the right transverse sinus and torcula but no evidence of extension into the dural venous sinuses. There is intrinsic and peripheral enhancement especially at the inferior aspect close to the tentorium cerebelli. Extensive surrounding edema with increased T2/FLAIR signal.\n\nOccipital horn of the right lateral ventricle is compressed. Remaining ventricles remain patent and no hydrocephalus.\n\nConclusion: Large hemorrhagic lesion in the right occipital lobe with appearance consistent with high grade glioma or hemorrhagic metastasis.",
+    "pixel_stats": {
+        "mean": 49.21823501586914,
+        "std": 49.9483255769352,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

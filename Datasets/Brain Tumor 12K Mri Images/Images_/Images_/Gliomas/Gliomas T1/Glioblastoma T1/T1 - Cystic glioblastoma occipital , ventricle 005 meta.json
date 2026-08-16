@@ -1,0 +1,26 @@
+{
+    "filename": "T1 - Cystic glioblastoma occipital , ventricle 005.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 310,
+        "y": 306
+    },
+    "point_normalized": {
+        "x": 0.6215301339285715,
+        "y": 0.5991148653884686
+    },
+    "location": [
+        "occipital",
+        "ventricle"
+    ],
+    "location_str": "occipital ventricle",
+    "description": "A rounded ring-like structure (with peripheral hyperdense rim and hypodense center) measuring 4.8 x 5.3 cm (axial image), surrounded by prominent vasogenic edema and significant mass effect on the surroundings (effacement of the adjacent cortical sulci, obliteration of the atrium & occipital horn of the left lateral ventricle, obliteration of the quadrigeminal cistern, and 8 mm midline shift to the right side) is seen in the left parietal region. The lesion shows questionable extension along the splenium of the corpus callosum.  These findings are highly suggestive of an aggressive neoplastic lesion (high-grade glioma). Another possible differential is brain abscess which is, however, less likely. For further evaluation with MRI brain.",
+    "pixel_stats": {
+        "mean": 24.278175354003906,
+        "std": 42.259524514286674,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

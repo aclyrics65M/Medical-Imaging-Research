@@ -1,0 +1,23 @@
+{
+    "filename": "T1C+ - Pilocytic astrocytoma 049.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 226,
+        "y": 242
+    },
+    "point_normalized": {
+        "x": 0.4419290577816138,
+        "y": 0.473049618582127
+    },
+    "location": [],
+    "location_str": "",
+    "description": "Periventricular cystic/solid mass. Marked leukopathy of the corpus callosum, probably resulting from irradiation.",
+    "pixel_stats": {
+        "mean": 33.12709045410156,
+        "std": 31.698408238157363,
+        "min": 0,
+        "max": 246
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

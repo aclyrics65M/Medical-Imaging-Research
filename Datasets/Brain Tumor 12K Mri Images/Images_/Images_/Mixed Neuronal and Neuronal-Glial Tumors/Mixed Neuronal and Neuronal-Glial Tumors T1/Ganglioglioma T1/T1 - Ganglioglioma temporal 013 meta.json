@@ -1,0 +1,25 @@
+{
+    "filename": "T1 - Ganglioglioma temporal 013.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 186,
+        "y": 339
+    },
+    "point_normalized": {
+        "x": 0.3634950178359369,
+        "y": 0.6642552929103959
+    },
+    "location": [
+        "temporal"
+    ],
+    "location_str": "temporal",
+    "description": "Scan was obtained at an outside institution and digitized from printed film, thus the lack of stacks and somewhat degraded image quality.  MRI demonstrates a right temporal lobe mass which is isointense to brain on T1, hyperintense on T2 and FLAIR, has no restricted diffusion or calcification. A solid nodule vividly enhances.",
+    "pixel_stats": {
+        "mean": 58.4161262512207,
+        "std": 61.144245008145624,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

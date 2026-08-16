@@ -1,0 +1,26 @@
+{
+    "filename": "T1C+ - Acoustic schwannoma cerebellopontine angle , ventricle 029.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 185,
+        "y": 311
+    },
+    "point_normalized": {
+        "x": 0.3618609753370686,
+        "y": 0.6074666437012419
+    },
+    "location": [
+        "cerebellopontine angle",
+        "ventricle"
+    ],
+    "location_str": "cerebellopontine angle ventricle",
+    "description": "A round, homogeneous extra-axial mass centered on the right cerebellopontine angle displaces the pons and the middle cerebral peduncle to the left and distorts but does not efface the fourth ventricle. The mass enhances homogeneously and vividly. There is minimal extension into the right porus acusticus and minimal widening of the right internal auditory canal compared to the left. No underlying hyperostosis. No other enhancing lesions identified.\n\nNo hydrocephalus. No intra or extra axial hemorrhage. No evidence of acute ischemia.\n\nConclusion: Appearances of the right cerebellar pontine angle mass are those of either a meningioma or acoustic neuroma. On the basis of this CT it is difficult to distinguish between the two.",
+    "pixel_stats": {
+        "mean": 37.669063568115234,
+        "std": 32.28782182307725,
+        "min": 0,
+        "max": 243
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

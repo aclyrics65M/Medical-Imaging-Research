@@ -1,0 +1,26 @@
+{
+    "filename": "T1C+ - Oligodendroglioma NOS parietal , occipital 021.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 289,
+        "y": 352
+    },
+    "point_normalized": {
+        "x": 0.5644822451967338,
+        "y": 0.6879205410432001
+    },
+    "location": [
+        "parietal",
+        "occipital"
+    ],
+    "location_str": "parietal occipital",
+    "description": "A sharply defined zone of abnormal slightly heterogeneous signal in the left parietal lobe extends to involve the medial cortex of the superior parietal lobule. Inferiorly it abuts and distorts the cingulate gyrus. Superiorly it is significantly posterior to the precentral gyrus and slightly posterior to the left post central gyrus. Posterior and laterally it extends to and distorts the left intraparietal sulcus. It extends to within 1 cm of the parieto-occipital fissure postero-medially, slightly posteriorly bowing it. It exhibits no restricted diffusion and no pathological contrast enhancement. It does show slightly elevated choline to creatine ratio, reduced NAA and a few small lactate peaks. It shows reduced relative cerebral blood volume (CBV) and relative cerebral blood flow (CBF) on perfusion studies.",
+    "pixel_stats": {
+        "mean": 46.1859016418457,
+        "std": 52.89702648665704,
+        "min": 0,
+        "max": 249
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

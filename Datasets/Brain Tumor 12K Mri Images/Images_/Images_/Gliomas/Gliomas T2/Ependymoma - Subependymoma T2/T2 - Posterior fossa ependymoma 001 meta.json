@@ -1,0 +1,23 @@
+{
+    "filename": "T2 - Posterior fossa ependymoma 001.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 252,
+        "y": 324
+    },
+    "point_normalized": {
+        "x": 0.4942184177453983,
+        "y": 0.6361077664192897
+    },
+    "location": [],
+    "location_str": "",
+    "description": "An ill-defined mass posterior to the medulla is vaguely seen, with a single flec of calcium.",
+    "pixel_stats": {
+        "mean": 40.86296081542969,
+        "std": 43.42289762900671,
+        "min": 0,
+        "max": 229
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

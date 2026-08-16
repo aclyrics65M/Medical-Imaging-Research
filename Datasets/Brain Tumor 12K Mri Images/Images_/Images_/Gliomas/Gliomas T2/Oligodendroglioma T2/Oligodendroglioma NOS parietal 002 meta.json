@@ -1,0 +1,25 @@
+{
+    "filename": "Oligodendroglioma NOS parietal 002.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 172,
+        "y": 333
+    },
+    "point_normalized": {
+        "x": 0.33663632859748815,
+        "y": 0.650967340393373
+    },
+    "location": [
+        "parietal"
+    ],
+    "location_str": "parietal",
+    "description": "There is a irregular intra-axial lesion with ill defined border locate on right parietal lobe. The lesion is heterogeneous in nature & showing low T1 signal with high T2 signal.  The lesion is not enhanced by the contrast.\n\nThe is no diffuse restriction on DWI signal. There is a increase signal on ADC suggestive of previous infarction.\n\nThere is no evidence of edema nor mass effect.",
+    "pixel_stats": {
+        "mean": 39.976524353027344,
+        "std": 58.372520689201735,
+        "min": 0,
+        "max": 252
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

@@ -1,0 +1,26 @@
+{
+    "filename": "T1 - Pilocytic astrocytoma ventricle , brainstem 046.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 224,
+        "y": 357
+    },
+    "point_normalized": {
+        "x": 0.4376081826974386,
+        "y": 0.6988255045270776
+    },
+    "location": [
+        "ventricle",
+        "brainstem"
+    ],
+    "location_str": "ventricle brainstem",
+    "description": "There is a large partially cystic mass in the right cerebellar hemisphere. The solid component minimally enhances with a focal region demonstrating more prominent ring enhancement. The fourth ventricle is effaced, and the lateral ventricles are enlarged. There is also marked mass effect on the brainstem with the prepontine and perimesencephalic cisterns obliterated.",
+    "pixel_stats": {
+        "mean": 28.049129486083984,
+        "std": 46.16796355532792,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

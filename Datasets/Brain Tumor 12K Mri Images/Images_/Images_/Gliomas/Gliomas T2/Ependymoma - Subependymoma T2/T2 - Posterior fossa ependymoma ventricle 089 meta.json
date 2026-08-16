@@ -1,0 +1,25 @@
+{
+    "filename": "T2 - Posterior fossa ependymoma ventricle 089.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 253,
+        "y": 305
+    },
+    "point_normalized": {
+        "x": 0.49549012428164163,
+        "y": 0.5982864993920711
+    },
+    "location": [
+        "ventricle"
+    ],
+    "location_str": "ventricle",
+    "description": "Selected images from an MRI of the brain demonstrate an enhancing passing though the left foramen of Luschka, appearing to arrise from the roof of the 4th ventricle.",
+    "pixel_stats": {
+        "mean": 20.180999755859375,
+        "std": 43.854838025592755,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

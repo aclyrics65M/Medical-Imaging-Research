@@ -1,0 +1,26 @@
+{
+    "filename": "T1 - Posterior fossa meningioma infratentorial , ventricle 005.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 306,
+        "y": 322
+    },
+    "point_normalized": {
+        "x": 0.6004311801718357,
+        "y": 0.6289134514988879
+    },
+    "location": [
+        "infratentorial",
+        "ventricle"
+    ],
+    "location_str": "infratentorial ventricle",
+    "description": "Well-defined extra-axial infratentorial space-occupying lesion, measuring about 3.5 x 3.6 x 3.8 cm, isointense on T1 and hyperintense on T2 and FLAIR, with intense homogeneous enhancement and dural tail sign on post-contrast T1 sequences. A mass effect is noted on the left cerebellar hemisphere and the 4th ventricle with tonsillar herniation. No significant hydrocephalus.\n\nAxial and coronal T2 show CSF cleft sign indicating extra-axial lesion.",
+    "pixel_stats": {
+        "mean": 37.79762268066406,
+        "std": 60.295366847455625,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

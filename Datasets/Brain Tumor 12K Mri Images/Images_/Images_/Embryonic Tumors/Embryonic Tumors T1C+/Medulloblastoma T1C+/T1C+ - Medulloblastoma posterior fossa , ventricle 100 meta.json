@@ -1,0 +1,26 @@
+{
+    "filename": "T1C+ - Medulloblastoma posterior fossa , ventricle 100.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 308,
+        "y": 362
+    },
+    "point_normalized": {
+        "x": 0.6053333076684406,
+        "y": 0.708799976501102
+    },
+    "location": [
+        "posterior fossa",
+        "ventricle"
+    ],
+    "location_str": "posterior fossa ventricle",
+    "description": "The CT images show a slightly hyperdense large left posterior fossa mass that causes distortion of the fourth ventricle and CSF cisterns and obstructive hydrocephalus. Also there are small areas on necrosis. No calcifications seen. The mass enhances homogenously following contrast administration.",
+    "pixel_stats": {
+        "mean": 22.839813232421875,
+        "std": 34.239480369607584,
+        "min": 0,
+        "max": 242
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

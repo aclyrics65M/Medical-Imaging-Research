@@ -1,0 +1,26 @@
+{
+    "filename": "T1 - Ependymoma intraventricular , ventricle 023.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 247,
+        "y": 305
+    },
+    "point_normalized": {
+        "x": 0.486048205251057,
+        "y": 0.5980482036054453
+    },
+    "location": [
+        "intraventricular",
+        "ventricle"
+    ],
+    "location_str": "intraventricular ventricle",
+    "description": "Large size heterogeneous intraventricular mass within the fourth ventricle unilaterally extending into the left foramen of Luschka with areas of internal hemorrhage and areas of restriction.\n\nThe mass shows heterogeneous enhancement in the post-contrast study.\n\nSupratentorial hydrocephalus with periventricular interstitial edema is noted.\n\nCompression of mass on the posterior aspect of the medulla is evident.",
+    "pixel_stats": {
+        "mean": 23.374183654785156,
+        "std": 46.92485395459812,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

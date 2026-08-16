@@ -1,0 +1,25 @@
+{
+    "filename": "T1 - Normal MRI brain brainstem 067.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 247,
+        "y": 250
+    },
+    "point_normalized": {
+        "x": 0.48278012025332045,
+        "y": 0.48941274553149117
+    },
+    "location": [
+        "brainstem"
+    ],
+    "location_str": "brainstem",
+    "description": "There are no abnormal focal areas of altered signal intensity in the cerebral hemispheres, brainstem or cerebellum. Appearance and intensity of brain parenchyma is normal. Ventricular system and cisternal spaces appear normal. No evidence of intracranial space occupying lesion or obvious vascular anomaly is detected. There is no shift of the midline structures.",
+    "pixel_stats": {
+        "mean": 45.605770111083984,
+        "std": 61.09237865458987,
+        "min": 5,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

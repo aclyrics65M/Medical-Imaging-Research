@@ -1,0 +1,26 @@
+{
+    "filename": "T2 - Intracranial ependymoma cerebellopontine angle , ventricle 007.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 231,
+        "y": 322
+    },
+    "point_normalized": {
+        "x": 0.45336735527369165,
+        "y": 0.6305474939977562
+    },
+    "location": [
+        "cerebellopontine angle",
+        "ventricle"
+    ],
+    "location_str": "cerebellopontine angle ventricle",
+    "description": "T2 hyperintense and T1 hypointense lesion centered in right cerebellopontine angle. The lesion contains central cystic areas as well. There is avid post-contrast enhancement as demonstrated on post-contrast images. There is no diffusion restriction. The lesion appears to be arising from the roof of the fourth ventricle and exiting through the foramen of Luschka and thereafter displacing the brainstem and cerebellum. There is also mild dilatation of the ventricular system and T2/FLAIR periventricular hyperintensities suggesting raised intracranial pressure.",
+    "pixel_stats": {
+        "mean": 26.006954193115234,
+        "std": 52.916781835966574,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

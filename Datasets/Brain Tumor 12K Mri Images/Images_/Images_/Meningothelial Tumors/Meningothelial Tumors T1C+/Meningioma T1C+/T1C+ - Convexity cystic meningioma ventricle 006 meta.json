@@ -1,0 +1,25 @@
+{
+    "filename": "T1C+ - Convexity cystic meningioma ventricle 006.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 164,
+        "y": 248
+    },
+    "point_normalized": {
+        "x": 0.2897146419837103,
+        "y": 0.48614466053375466
+    },
+    "location": [
+        "ventricle"
+    ],
+    "location_str": "ventricle",
+    "description": "Large extra-axial mass with a broad dural base at the right temporoparietal region. It is of homogeneous texture and well-circumscribed margins. It is isointense to grey matter on T1, hyperintense on T2 and FLAIR. It exerts a mass effect in the form of compressing underlying brain parenchyma, right lateral ventricle, and midline shift to the left side and compression upon the right crus of the midbrain. It is associated with an adjacent cystic lesion that shows intermediate signal on T1, incomplete suppression on FLAIR and free diffusion.",
+    "pixel_stats": {
+        "mean": 50.4994010925293,
+        "std": 38.12012257409035,
+        "min": 0,
+        "max": 193
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

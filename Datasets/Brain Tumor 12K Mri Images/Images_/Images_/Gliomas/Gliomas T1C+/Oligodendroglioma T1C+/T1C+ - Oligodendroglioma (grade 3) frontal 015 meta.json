@@ -1,0 +1,25 @@
+{
+    "filename": "T1C+ - Oligodendroglioma (grade 3) frontal 015.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 158,
+        "y": 233
+    },
+    "point_normalized": {
+        "x": 0.27624233343305815,
+        "y": 0.4565162830280491
+    },
+    "location": [
+        "frontal"
+    ],
+    "location_str": "frontal",
+    "description": "A large right frontal mass with calcification and enhancement is present. Large portions of the mass involve the cortex. Features are those of an oligodendroglial tumor.",
+    "pixel_stats": {
+        "mean": 48.98155212402344,
+        "std": 50.7091416668818,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

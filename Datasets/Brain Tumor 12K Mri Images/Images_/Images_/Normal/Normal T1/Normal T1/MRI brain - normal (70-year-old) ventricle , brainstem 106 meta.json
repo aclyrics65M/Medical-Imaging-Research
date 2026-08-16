@@ -1,0 +1,26 @@
+{
+    "filename": "MRI brain - normal (70-year-old) ventricle , brainstem 106.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 259,
+        "y": 246
+    },
+    "point_normalized": {
+        "x": 0.5103632000410151,
+        "y": 0.4825418244666947
+    },
+    "location": [
+        "ventricle",
+        "brainstem"
+    ],
+    "location_str": "ventricle brainstem",
+    "description": "Ventricular system symmetric and of normal width.\nFourth ventricle normal and not compressed.\nSulci and basal cisterns are normal.\nBilateral 7th and 8th nerve complex is normal.\nThe brainstem is normal.\nNo evidence of a space-occupying lesion, no pathologic enhancement.\nThe brain tissue is normal.\nThe paranasal sinuses are clear.",
+    "pixel_stats": {
+        "mean": 22.825550079345703,
+        "std": 31.979387035798368,
+        "min": 0,
+        "max": 121
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

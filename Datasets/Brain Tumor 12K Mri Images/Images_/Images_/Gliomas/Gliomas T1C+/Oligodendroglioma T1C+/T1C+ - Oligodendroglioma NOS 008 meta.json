@@ -1,0 +1,23 @@
+{
+    "filename": "T1C+ - Oligodendroglioma NOS 008.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 141,
+        "y": 239
+    },
+    "point_normalized": {
+        "x": 0.2768907653959187,
+        "y": 0.4656147155428632
+    },
+    "location": [],
+    "location_str": "",
+    "description": "CT demonstrates an ill-defined region of positive mass effect with calcifications.",
+    "pixel_stats": {
+        "mean": 34.33656692504883,
+        "std": 35.936298173092105,
+        "min": 0,
+        "max": 246
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

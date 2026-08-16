@@ -1,0 +1,26 @@
+{
+    "filename": "T2 - Pineal germinoma pineal , ventricle 003.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 256,
+        "y": 300
+    },
+    "point_normalized": {
+        "x": 0.5007545877408714,
+        "y": 0.5860765721051672
+    },
+    "location": [
+        "pineal",
+        "ventricle"
+    ],
+    "location_str": "pineal ventricle",
+    "description": "A large lobulated mass is centered on the pineal gland, engulfing the pineal calcifiation. It is somewhat hyperdense compared to adjacent brain. A further smaller mass is seen in the floor of the third ventricle. The midbrain is distorted, compressed and demonstrates low density suggestive of edema. Obstructive hydrocephalus is present.",
+    "pixel_stats": {
+        "mean": 37.39186096191406,
+        "std": 55.67055021384301,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

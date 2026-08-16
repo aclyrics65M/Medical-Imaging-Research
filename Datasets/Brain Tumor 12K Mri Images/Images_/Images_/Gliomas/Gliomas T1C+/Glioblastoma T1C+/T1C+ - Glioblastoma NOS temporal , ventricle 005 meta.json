@@ -1,0 +1,26 @@
+{
+    "filename": "T1C+ - Glioblastoma NOS temporal , ventricle 005.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 350,
+        "y": 210
+    },
+    "point_normalized": {
+        "x": 0.6854013901129857,
+        "y": 0.40850194246821153
+    },
+    "location": [
+        "temporal",
+        "ventricle"
+    ],
+    "location_str": "temporal ventricle",
+    "description": "Irregular hypodensity in left temporal lobe. Thickened hyperdense border which enhances with contrast. Some compression of lateral ventricle but no midline shift.\n\nNo hemorrhage or acute infarct. No extra-axial hemorrhage or collections. No bony injuries.",
+    "pixel_stats": {
+        "mean": 40.731231689453125,
+        "std": 35.46244919577498,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

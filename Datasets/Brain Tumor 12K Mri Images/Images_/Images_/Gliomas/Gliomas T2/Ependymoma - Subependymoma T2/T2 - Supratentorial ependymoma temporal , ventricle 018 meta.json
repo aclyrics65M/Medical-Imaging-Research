@@ -1,0 +1,26 @@
+{
+    "filename": "T2 - Supratentorial ependymoma temporal , ventricle 018.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 140,
+        "y": 266
+    },
+    "point_normalized": {
+        "x": 0.2501862087135553,
+        "y": 0.5211404076873202
+    },
+    "location": [
+        "temporal",
+        "ventricle"
+    ],
+    "location_str": "temporal ventricle",
+    "description": "An intra-axial cystic mass is seen in the right temporal lobe. This demonstrates enhancing rim and enhancing nodular septations. Mass effect with sulcal effacement in the right cerebral hemisphere. Effacement of the right lateral ventricle. Midline shift to the left with right subfalcine and uncal herniation. Cerebellar tonsils are anatomically positioned. No intracranial hemorrhage or cerebral surface collection.",
+    "pixel_stats": {
+        "mean": 46.69343566894531,
+        "std": 49.46938769429064,
+        "min": 0,
+        "max": 213
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

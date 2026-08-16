@@ -1,0 +1,26 @@
+{
+    "filename": "T2 - Vestibular schwannoma ventricle , vestibular 003.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 242,
+        "y": 301
+    },
+    "point_normalized": {
+        "x": 0.47052228250907824,
+        "y": 0.5887829549939178
+    },
+    "location": [
+        "ventricle",
+        "vestibular"
+    ],
+    "location_str": "ventricle vestibular",
+    "description": "There is a large heterogenous extra axial mass in the right CP angle which is hyperintensity in T2WI and isointensity to gray matter in T1WI. The mass demonstrates heterogenous avid and displaces and compressed the pons, midbrain and fourth ventricle.\n\nContinuation of the tumor with the vestibular nerve is apparent in axial and coronal post contrast images.\n\nIncidental finding of a partial empty sella.",
+    "pixel_stats": {
+        "mean": 31.035701751708984,
+        "std": 43.19682557431354,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

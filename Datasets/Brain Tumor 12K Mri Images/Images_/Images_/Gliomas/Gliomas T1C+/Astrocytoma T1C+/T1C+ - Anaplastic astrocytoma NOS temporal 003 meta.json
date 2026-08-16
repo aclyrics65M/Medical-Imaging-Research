@@ -1,0 +1,25 @@
+{
+    "filename": "T1C+ - Anaplastic astrocytoma NOS temporal 003.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 308,
+        "y": 334
+    },
+    "point_normalized": {
+        "x": 0.6036992651695723,
+        "y": 0.6543035234814321
+    },
+    "location": [
+        "temporal"
+    ],
+    "location_str": "temporal",
+    "description": "MRI of the brain demonstrating a left occipito-temporal mass which has high T2 signal, heterogeneous low T1 signal (cystic change? necrosis?) with only moderate ill-defined areas of enhancement.\n\nFeatures suggest a primary intermediate to high grade glial tumor.",
+    "pixel_stats": {
+        "mean": 48.96601486206055,
+        "std": 53.429844294754574,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

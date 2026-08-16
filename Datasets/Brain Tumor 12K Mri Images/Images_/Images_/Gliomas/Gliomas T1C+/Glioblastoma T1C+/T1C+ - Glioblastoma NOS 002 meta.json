@@ -1,0 +1,23 @@
+{
+    "filename": "T1C+ - Glioblastoma NOS 002.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 364,
+        "y": 276
+    },
+    "point_normalized": {
+        "x": 0.7423621598651795,
+        "y": 0.5421957266557271
+    },
+    "location": [],
+    "location_str": "",
+    "description": "Large heterogeneously enhancing mass with regions of peripheral nodularity. The adjacent cortex is thickened. Marked elevation of choline.",
+    "pixel_stats": {
+        "mean": 42.33137130737305,
+        "std": 53.337202416259395,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

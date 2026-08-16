@@ -1,0 +1,23 @@
+{
+    "filename": "T2 - Medulloblastoma 041.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 300,
+        "y": 369
+    },
+    "point_normalized": {
+        "x": 0.5873588401808896,
+        "y": 0.7236879164332475
+    },
+    "location": [],
+    "location_str": "",
+    "description": "In the left lateral cerebellar hemisphere a heterogeneous mass is present, with mixed T1 and T2 signal and only minor enhancement. DWI / ADC demonstrates profound diffusion restriction, consistent with a highly cellular tumor, most likely a SHH medulloblastoma.",
+    "pixel_stats": {
+        "mean": 22.300769805908203,
+        "std": 38.48753932120302,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

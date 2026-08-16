@@ -1,0 +1,25 @@
+{
+    "filename": "T1 - Pilocytic astrocytoma ventricle 098.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 247,
+        "y": 319
+    },
+    "point_normalized": {
+        "x": 0.48278012025332045,
+        "y": 0.6243744494057696
+    },
+    "location": [
+        "ventricle"
+    ],
+    "location_str": "ventricle",
+    "description": "There is a T2 hyperintense, heterogeneously enhancing mass centered on the right cerebellar hemisphere with superior extension into the right ambient cistern measuring 5.0 x 4.7 x. 4.7 cm. There is marked mass effect on the right cerebellum, fourth ventricle, cerebral aqueduct and midbrain/pons, with persistent obstructive hydrocephalus and prominent T2 hyperintensity of the periventricular white matter suggesting transependymal CSF flow. The mass demonstrates multiple foci of susceptibility hypointensity likely representing prominent vasculature. There is moderate surrounding edema involving the right cerebellar hemisphere, and to a lesser degree the right pons, left midbrain, and left cerebellar white matter; mild edema extends into the medulla.",
+    "pixel_stats": {
+        "mean": 39.719058990478516,
+        "std": 60.04486284023746,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

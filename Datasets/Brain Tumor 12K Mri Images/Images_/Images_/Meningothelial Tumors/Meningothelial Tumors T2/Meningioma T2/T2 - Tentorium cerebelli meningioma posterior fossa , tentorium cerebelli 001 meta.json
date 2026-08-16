@@ -1,0 +1,26 @@
+{
+    "filename": "T2 - Tentorium cerebelli meningioma posterior fossa , tentorium cerebelli 001.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 221,
+        "y": 300
+    },
+    "point_normalized": {
+        "x": 0.4214914703366345,
+        "y": 0.5890893379624556
+    },
+    "location": [
+        "posterior fossa",
+        "tentorium cerebelli"
+    ],
+    "location_str": "posterior fossa tentorium cerebelli",
+    "description": "There is a solid lesion on the right superior aspect of the posterior fossa keeping a broad base within the tentorium cerebelli, but also with a doubtful invasion of the adjacent cerebellar folia on the multiplanar reformatted images. The lesion is isointense on T1 and hyperintense to the cerebral cortex on T2; it shows a bright contrast enhancement and mild homogeneous restricted diffusion.",
+    "pixel_stats": {
+        "mean": 43.611839294433594,
+        "std": 51.938363338986456,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

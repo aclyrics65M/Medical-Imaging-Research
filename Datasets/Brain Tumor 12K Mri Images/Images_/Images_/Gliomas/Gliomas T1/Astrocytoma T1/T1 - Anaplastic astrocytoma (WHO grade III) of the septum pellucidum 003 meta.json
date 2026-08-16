@@ -1,0 +1,23 @@
+{
+    "filename": "T1 - Anaplastic astrocytoma (WHO grade III) of the septum pellucidum 003.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 243,
+        "y": 216
+    },
+    "point_normalized": {
+        "x": 0.47576301537329174,
+        "y": 0.42358579875047214
+    },
+    "location": [],
+    "location_str": "",
+    "description": "Large minimally enhancing mass arising from the septum pellucidum with edema and possible infiltration into the body of the corpus callosum. Extension down to the foramina of Munro with resultant obstructive hydrocephalus (and periventricular edema). Mass is bright on FLAIR with probable small cystic spaces. Note prominent adjacent vascularity.",
+    "pixel_stats": {
+        "mean": 56.74251937866211,
+        "std": 50.31826873615489,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

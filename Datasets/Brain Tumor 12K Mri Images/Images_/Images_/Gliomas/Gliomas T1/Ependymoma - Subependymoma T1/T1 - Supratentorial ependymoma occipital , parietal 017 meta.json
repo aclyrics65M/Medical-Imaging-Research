@@ -1,0 +1,26 @@
+{
+    "filename": "T1 - Supratentorial ependymoma occipital , parietal 017.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 300,
+        "y": 390
+    },
+    "point_normalized": {
+        "x": 0.5906269251786261,
+        "y": 0.7646751408020233
+    },
+    "location": [
+        "occipital",
+        "parietal"
+    ],
+    "location_str": "occipital parietal",
+    "description": "In the left occipital and parietal lobe a heterogeneous mass with calcification and enhancing and cystic components is present with surrounding edema.\n\nProminent senescent basal ganglia calcification is noted incidentally.",
+    "pixel_stats": {
+        "mean": 42.28605651855469,
+        "std": 40.996243988388706,
+        "min": 8,
+        "max": 240
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

@@ -1,0 +1,25 @@
+{
+    "filename": "T1 - Diffuse low grade astrocytoma frontal 005.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 263,
+        "y": 163
+    },
+    "point_normalized": {
+        "x": 0.5154609702306858,
+        "y": 0.3193418298922264
+    },
+    "location": [
+        "frontal"
+    ],
+    "location_str": "frontal",
+    "description": "There is a large 4.3 x 5.0 CM (axial x CC) hypodensity involving the left anterior frontal lobe on medial aspect, affecting both cortex and white matter.\n\nThere is marked mass effect leading to subfalcine herniation and displacement of the distal ACAs, and effacement of the frontal horns.\n\nNo enhancement can be appreciated.\n\nThere is opacification of the left frontal sinus with possible hyperdense fluid on the dependent portion.\n\nThe posterior table appears intact.\n\nNo extra axial lesion can be appreciated.\n\nComment: Differentials is between a primarily intra-axial lesion (and neoplasm will be one consideration), in which case left frontal sinus fluid would be incidental; or infection spreading from the frontal sinus resulting in marked edema and cerebritis.\n\nMRI is recommended, and should include diffusion imaging and possibly MRS.",
+    "pixel_stats": {
+        "mean": 34.70371627807617,
+        "std": 43.09079697191303,
+        "min": 0,
+        "max": 233
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

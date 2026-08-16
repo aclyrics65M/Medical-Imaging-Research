@@ -1,0 +1,25 @@
+{
+    "filename": "T2 - Diffuse astrocytoma NOS frontal 099.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 268,
+        "y": 204
+    },
+    "point_normalized": {
+        "x": 0.5268992677227637,
+        "y": 0.40032906124238493
+    },
+    "location": [
+        "frontal"
+    ],
+    "location_str": "frontal",
+    "description": "An intra-axial mass in the left frontal lobe with an indistinct margin. The mass appears as low intensity, heterogenous on T1-weighted images and high intensity, heterogenous on T2-weighted and FLAIR images. There is no evidence of diffusion restriction or dark signal on SWI, and there is no enhancement after gadolinium administration. The lesion extends into the corpus callosum and causes mild degree of midline shift to the right.",
+    "pixel_stats": {
+        "mean": 39.10508728027344,
+        "std": 33.76893124645467,
+        "min": 20,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

@@ -1,0 +1,26 @@
+{
+    "filename": "T2 - Angiomatous meningioma falcine , parietal 017.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 257,
+        "y": 281
+    },
+    "point_normalized": {
+        "x": 0.5048345534736962,
+        "y": 0.5496680502105037
+    },
+    "location": [
+        "falcine",
+        "parietal"
+    ],
+    "location_str": "falcine parietal",
+    "description": "FINDINGS: An extra-axial meningeal based complex solid/cystic lesion is seen in the para-falcine left parietal region. Moderate vasogenic edema around the lesion, mass effect over the body of corpus callosum, and right-sided midline shift of ~ 6 mm are noted. Post-contrast study shows enhancement of the solid component of the tumor as well as the adjacent dura (dural tail sign). MR spectroscopy shows elevated choline and creatine with decreased NAA and elevated alanine peak with increased alanine/NAA ratio.\n\nCONCLUSION: Left para-falcine cystic meningioma.",
+    "pixel_stats": {
+        "mean": 27.735183715820312,
+        "std": 51.69405516062174,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

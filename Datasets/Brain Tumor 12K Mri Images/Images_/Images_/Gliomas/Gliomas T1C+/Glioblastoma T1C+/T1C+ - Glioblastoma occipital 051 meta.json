@@ -1,0 +1,25 @@
+{
+    "filename": "T1C+ - Glioblastoma occipital 051.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 250,
+        "y": 286
+    },
+    "point_normalized": {
+        "x": 0.48931629024879353,
+        "y": 0.5609248005842818
+    },
+    "location": [
+        "occipital"
+    ],
+    "location_str": "occipital",
+    "description": "Noncontrast CT brain STAT: In the right parieto-occipital deep white matter a circumscribed, markedly hypodense lesion is noted with significant local mass effect and secondary vasogenic edema. Note hypodensity extending into the corpus callosum.\n\nPostcontrast: Irregular, predominantly peripheral hyperenhancement of the mass. Features also considering the involvement of the splenium of the corpus callosum are in line with a high grade glial spectrum tumor.",
+    "pixel_stats": {
+        "mean": 47.57695007324219,
+        "std": 50.72749858672233,
+        "min": 10,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

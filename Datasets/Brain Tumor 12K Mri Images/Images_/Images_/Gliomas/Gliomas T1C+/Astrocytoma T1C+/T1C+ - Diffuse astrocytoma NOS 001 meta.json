@@ -1,0 +1,23 @@
+{
+    "filename": "T1C+ - Diffuse astrocytoma NOS 001.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 321,
+        "y": 229
+    },
+    "point_normalized": {
+        "x": 0.6298439451514646,
+        "y": 0.4501616850843855
+    },
+    "location": [],
+    "location_str": "",
+    "description": "A low T1, high T2 signal mass is present on the left centered on the insular cortex with mild positive mass effect. No enhancement.",
+    "pixel_stats": {
+        "mean": 43.85844802856445,
+        "std": 43.04450417553732,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

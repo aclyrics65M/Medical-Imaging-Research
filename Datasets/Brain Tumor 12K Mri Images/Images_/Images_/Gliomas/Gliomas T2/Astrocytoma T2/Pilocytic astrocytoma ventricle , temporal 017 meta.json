@@ -1,0 +1,26 @@
+{
+    "filename": "Pilocytic astrocytoma ventricle , temporal 017.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 248,
+        "y": 238
+    },
+    "point_normalized": {
+        "x": 0.48441416275218874,
+        "y": 0.4664283505176745
+    },
+    "location": [
+        "ventricle",
+        "temporal"
+    ],
+    "location_str": "ventricle temporal",
+    "description": "Mass centered on the third ventricle, occluding the foramen of Monro and reaching down to the sella turcica. The mass has cystic and intensively enhancing vascular components.\nHydrocephalus of the lateral ventricles. VP shunt via left parieto-temporal approach, crosses through the left ventricular trigone, its tip apparently in the left ambient cistern.",
+    "pixel_stats": {
+        "mean": 20.152515411376953,
+        "std": 40.20308682187905,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

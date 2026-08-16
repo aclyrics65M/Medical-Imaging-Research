@@ -1,0 +1,25 @@
+{
+    "filename": "T1 - Trigeminal schwannoma ventricle 176.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 248,
+        "y": 272
+    },
+    "point_normalized": {
+        "x": 0.48639218196333095,
+        "y": 0.534570186683172
+    },
+    "location": [
+        "ventricle"
+    ],
+    "location_str": "ventricle",
+    "description": "A large heterogeneously enhancing mass with intralesional and peripheral hypodense cystic components. The mass has local mass effect with associated subfalcine herniation, effacement of ipsilateral lateral ventricle and early contralateral entrapment hydrocephalus. The mass is centered over the skull base with the smooth bone remodeling and expansion of Meckel's cave.",
+    "pixel_stats": {
+        "mean": 40.90928649902344,
+        "std": 40.095792453228086,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

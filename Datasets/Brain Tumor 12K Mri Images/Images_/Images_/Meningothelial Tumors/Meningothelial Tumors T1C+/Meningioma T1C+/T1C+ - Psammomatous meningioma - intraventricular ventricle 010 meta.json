@@ -1,0 +1,25 @@
+{
+    "filename": "T1C+ - Psammomatous meningioma - intraventricular ventricle 010.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 315,
+        "y": 310
+    },
+    "point_normalized": {
+        "x": 0.6167716051605184,
+        "y": 0.6071545883592224
+    },
+    "location": [
+        "ventricle"
+    ],
+    "location_str": "ventricle",
+    "description": "Within the trigone of the left lateral ventricle, and involving or bulging into the adjacent brain is a lobulated mass which is slightly hypderdense pre-contrast and demonstrates vivid homogeneous contrast enhancement.",
+    "pixel_stats": {
+        "mean": 32.88374328613281,
+        "std": 51.286451410368436,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

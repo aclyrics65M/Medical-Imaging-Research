@@ -1,0 +1,26 @@
+{
+    "filename": "T1C+ - Trigeminal schwannoma middle cranial fossa , ventricle 010.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 303,
+        "y": 207
+    },
+    "point_normalized": {
+        "x": 0.5922609676774945,
+        "y": 0.4048850679891932
+    },
+    "location": [
+        "middle cranial fossa",
+        "ventricle"
+    ],
+    "location_str": "middle cranial fossa ventricle",
+    "description": "There is a large mass arising from the left middle cranial fossa displacing brain superiorly and demonstrating a CSF cleft within the limits of CT. Small calcifications are demonstrated at the peripheries of this mass lesion, which is internally heterogeneous, with a suggestion of a thin slightly hyperdense capsule. No surrounding edema. There is no associated hyperostosis, with the left middle cranial fossa remodeled around the inferior aspect of the lesion lesion. There is marked thinning of the left lateral wall of sphenoid sinus and anterior wall of the left carotid canal, as well as deficient left clinoid processes and dorsum sellae. The floor of the left middle cranial fossa is depressed and thinned, with deficient medial wall of the left foramen ovale. The left optic canal is remodeled medially and narrowed. The left orbital apex is also remodeled/narrowed. No bony destruction. The sella is not depressed. The left lateral ventricle is distorted by the mass and there is dilatation of the right lateral ventricle. Mild periventricular hypodensity is noted. There is crowding of cerebral sulci.",
+    "pixel_stats": {
+        "mean": 29.461257934570312,
+        "std": 47.45105110731054,
+        "min": 0,
+        "max": 226
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

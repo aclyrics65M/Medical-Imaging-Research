@@ -1,0 +1,25 @@
+{
+    "filename": "T1C+ - Oligodendroglioma NOS temporal 003.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 352,
+        "y": 212
+    },
+    "point_normalized": {
+        "x": 0.7058662712989812,
+        "y": 0.41729926305521065
+    },
+    "location": [
+        "temporal"
+    ],
+    "location_str": "temporal",
+    "description": "A relatively well circumscribed mass involves the temporal lobe and insular cortex, without convincing enhancement, and minimal restricted diffusion.",
+    "pixel_stats": {
+        "mean": 39.773590087890625,
+        "std": 45.61900545716467,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

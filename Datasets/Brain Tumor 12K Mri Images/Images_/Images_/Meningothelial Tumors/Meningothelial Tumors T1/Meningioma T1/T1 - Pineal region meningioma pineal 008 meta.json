@@ -1,0 +1,25 @@
+{
+    "filename": "T1 - Pineal region meningioma pineal 008.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 249,
+        "y": 309
+    },
+    "point_normalized": {
+        "x": 0.4877400053676282,
+        "y": 0.6048737332156339
+    },
+    "location": [
+        "pineal"
+    ],
+    "location_str": "pineal",
+    "description": "A large well circumscribed mass is located in the pineal region. It is slightly hyperdense on precontrast imaging and demonstrates vivid contrast enhancement. It severely distorts the midbrain, compressing the aqueduct with marked obstructive hydrocephalus. A focus of increased density, probably calcium is seen immediately below the mass, possibly representing displaced pineal calcifications.",
+    "pixel_stats": {
+        "mean": 61.440460205078125,
+        "std": 79.98155430579313,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

@@ -1,0 +1,25 @@
+{
+    "filename": "T2 - Diffuse astrocytoma NOS (protoplasmic) frontal 015.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 165,
+        "y": 186
+    },
+    "point_normalized": {
+        "x": 0.3226439553642302,
+        "y": 0.3656991088116233
+    },
+    "location": [
+        "frontal"
+    ],
+    "location_str": "frontal",
+    "description": "A sizable mass appears to be intra-axial, within the right frontal lobe. It does not have contrast enhancement or calcification but is profoundly hypoattenuating without definite cystic components. It exerts little positive mass effect despite its size and there is, perhaps, thinning of the overlying bone, both features suggesting the lesion is longstanding and indolent.\n\nIt most likely represents a low-grade adult-type glioma. Although unlikely, this lesion could represent an extra-axial cystic lesion (e.g. cystic meningioma). MRI is required for further characterization.",
+    "pixel_stats": {
+        "mean": 44.49058532714844,
+        "std": 43.79211442432968,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

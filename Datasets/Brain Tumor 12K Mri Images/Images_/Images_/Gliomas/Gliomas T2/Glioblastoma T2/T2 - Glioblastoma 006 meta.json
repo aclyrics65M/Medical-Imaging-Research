@@ -1,0 +1,23 @@
+{
+    "filename": "T2 - Glioblastoma 006.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 212,
+        "y": 305
+    },
+    "point_normalized": {
+        "x": 0.4141503353008532,
+        "y": 0.5961134442781435
+    },
+    "location": [],
+    "location_str": "",
+    "description": "A mass adjacent to the right trigone is present with central heterogenous hyperdensity surrounded by edema. It demonstrates peripheral contrast enhancement and moderate localized mass effect.",
+    "pixel_stats": {
+        "mean": 26.058185577392578,
+        "std": 32.584110139909086,
+        "min": 0,
+        "max": 212
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

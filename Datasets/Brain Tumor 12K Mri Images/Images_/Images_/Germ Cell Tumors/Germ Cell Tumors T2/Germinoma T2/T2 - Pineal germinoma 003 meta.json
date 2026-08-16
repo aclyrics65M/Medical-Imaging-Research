@@ -1,0 +1,23 @@
+{
+    "filename": "T2 - Pineal germinoma 003.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 249,
+        "y": 289
+    },
+    "point_normalized": {
+        "x": 0.48639218196333095,
+        "y": 0.5656340175154915
+    },
+    "location": [],
+    "location_str": "",
+    "description": "",
+    "pixel_stats": {
+        "mean": 49.42451095581055,
+        "std": 56.535037499231045,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

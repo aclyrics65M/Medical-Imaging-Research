@@ -1,0 +1,26 @@
+{
+    "filename": "T1 - Astrocytoma NOS - WHO grade 2 frontal , spinal 013.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 214,
+        "y": 323
+    },
+    "point_normalized": {
+        "x": 0.419052462797458,
+        "y": 0.632363096081679
+    },
+    "location": [
+        "frontal",
+        "spinal"
+    ],
+    "location_str": "frontal spinal",
+    "description": "Right high frontal subcortical space-occupying lesion. It elicits a low signal on T1 and a high signal on T2 WI with rather a low signal on FLAIR WI giving the characteristic T2/FLAIR mismatch. No diffusion restriction or post-contrast enhancement. Thin rim of surrounding edema signal. MRS showed mild elevation of the Choline/creatin ratio, preserved NAA peak, and absence of lipid/lactate. MRI Perfusion showed low rCBV. Diffusion tensor imaging and fiber tractography showed the 2-D cartography color-coded maps revealed near total loss of the related cranial ends of the right corticospinal tract. The 3 D tractography revealed evident focal attenuation of the related cranial margins of the right corticospinal tract in relation to the mentioned mass lesion. Preserved girth, color density and directionality of the rest of the right cortio-spinal tract as compared to the left side.\n\nConclusion: Findings are impressive of diffuse astrocytoma grade 2.",
+    "pixel_stats": {
+        "mean": 36.27876281738281,
+        "std": 45.70338746620836,
+        "min": 0,
+        "max": 231
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

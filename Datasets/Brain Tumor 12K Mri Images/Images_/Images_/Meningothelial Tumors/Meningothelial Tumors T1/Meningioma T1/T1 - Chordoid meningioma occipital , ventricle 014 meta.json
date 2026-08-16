@@ -1,0 +1,26 @@
+{
+    "filename": "T1 - Chordoid meningioma occipital , ventricle 014.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 340,
+        "y": 296
+    },
+    "point_normalized": {
+        "x": 0.6657928801265665,
+        "y": 0.5800737361178944
+    },
+    "location": [
+        "occipital",
+        "ventricle"
+    ],
+    "location_str": "occipital ventricle",
+    "description": "A large left parieto-occipital extra-axial cystic space occupying lesion is seen; it elicits heterogeneous bright T2/FLAIR signals and low T1 signal (with areas iso-intense to the grey matter) and shows internal areas of diffusion restriction. The lesion exerts mass effect in the form of compression of the underlying cortical sulci, compression of the body of the left lateral ventricle, and midline shift. The lesion shows intense post-contrast enhancement after contrast administration, with a dural tail.",
+    "pixel_stats": {
+        "mean": 47.057029724121094,
+        "std": 44.5528144489271,
+        "min": 13,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

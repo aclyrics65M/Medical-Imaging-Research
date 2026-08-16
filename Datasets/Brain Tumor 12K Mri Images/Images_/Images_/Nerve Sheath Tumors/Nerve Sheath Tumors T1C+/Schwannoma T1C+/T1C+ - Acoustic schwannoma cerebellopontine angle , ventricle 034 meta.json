@@ -1,0 +1,26 @@
+{
+    "filename": "T1C+ - Acoustic schwannoma cerebellopontine angle , ventricle 034.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 291,
+        "y": 303
+    },
+    "point_normalized": {
+        "x": 0.5785839952692661,
+        "y": 0.5931744442096262
+    },
+    "location": [
+        "cerebellopontine angle",
+        "ventricle"
+    ],
+    "location_str": "cerebellopontine angle ventricle",
+    "description": "The MRI sequences demonstrate a solid/cystic mass of the left cerebellopontine angle measuring (5x3x 3 cm) of low signal intensity on T1WI, heterogeneous high signal intensity on T2WI, and FLAIR with heterogeneous enhancement mainly of the solid component on postcontrast sequences. Mild extension into an enlarged ipsilateral internal auditory canal. A mass effect is noted on the midbrain, left cerebellar hemisphere as well as the 4th ventricle. Moderate dilatation of the 3rd, and lateral ventricle with mild periventricular interstitial edema, indicating obstructive hydrocephalus.",
+    "pixel_stats": {
+        "mean": 32.510921478271484,
+        "std": 24.39510222602654,
+        "min": 0,
+        "max": 177
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

@@ -1,0 +1,25 @@
+{
+    "filename": "T1C+ - Glioblastoma - early frontal 004.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 241,
+        "y": 282
+    },
+    "point_normalized": {
+        "x": 0.4729758652601109,
+        "y": 0.5521134540520793
+    },
+    "location": [
+        "frontal"
+    ],
+    "location_str": "frontal",
+    "description": "Swelling of right frontal posterior cingulate gyrus with T2/FLAIR hyperintensity centered on cortical and subcortical region.  A small focus of restricted diffusion. No definite enhancement.",
+    "pixel_stats": {
+        "mean": 32.36146545410156,
+        "std": 35.917247657265484,
+        "min": 0,
+        "max": 230
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

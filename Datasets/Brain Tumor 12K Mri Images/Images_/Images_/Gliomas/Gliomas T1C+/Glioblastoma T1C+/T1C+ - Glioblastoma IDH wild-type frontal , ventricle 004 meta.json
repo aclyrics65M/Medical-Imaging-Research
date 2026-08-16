@@ -1,0 +1,26 @@
+{
+    "filename": "T1C+ - Glioblastoma IDH wild-type frontal , ventricle 004.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 212,
+        "y": 176
+    },
+    "point_normalized": {
+        "x": 0.4141503353008532,
+        "y": 0.3445843718555727
+    },
+    "location": [
+        "frontal",
+        "ventricle"
+    ],
+    "location_str": "frontal ventricle",
+    "description": "Mltiple peripherally enhancing lesions with central hypodensity in the right frontal lobe. The largest lesions measures 2.9 x 2.2 x 1.7cm with multiple smaller lesions superiorly. Significant surrounding vasogenic edema. There is effacement of the frontal horn of the right lateral ventricle, subfalcine herniation and right-to-left midline shift of 13mm at the level of the septum pellucidum. No tonsillar or uncal herniation. The left ventricle is not dilated\n\nNo other areas of abnormal contrast enhancement. Mastoid air cells and paranasal sinuses are clear.\n\nConclusion: Multiple peripherally enhancing lesions in the right frontal lobe resulting in significant mass effect. In the setting of fever, the findings are suspicious for cerebral abscesses. The differential includes metastatic lesions and a primary brain tumor. MRI is recommended to further evaluate.",
+    "pixel_stats": {
+        "mean": 26.85887908935547,
+        "std": 40.685354683006466,
+        "min": 0,
+        "max": 226
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

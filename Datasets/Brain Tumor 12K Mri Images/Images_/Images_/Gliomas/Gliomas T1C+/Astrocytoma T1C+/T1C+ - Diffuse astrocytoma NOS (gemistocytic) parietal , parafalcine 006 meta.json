@@ -1,0 +1,26 @@
+{
+    "filename": "T1C+ - Diffuse astrocytoma NOS (gemistocytic) parietal , parafalcine 006.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 211,
+        "y": 308
+    },
+    "point_normalized": {
+        "x": 0.41251629280198493,
+        "y": 0.6021616779534017
+    },
+    "location": [
+        "parietal",
+        "parafalcine"
+    ],
+    "location_str": "parietal parafalcine",
+    "description": "Fiducial markers identified at bifrontal regions.\n\nA large cortical-based mass is present within the right parietal lobe, involving the right postcentral and superior parietal gyri. The mass has ill defined margin. It is predominantly solid and demonstrates multiloculated cystic component in its medial aspect in the parafalcine region. Mass also demonstrates susceptibility artefacts indicating the presence of either calcification or blood products. Minimal patchy enhancement is noted after contrast administration.\n\nDespite its large size, the mass incites minimal vasogenic edema. Positive mass effect is exerted onto the adjacent right lateral ventricle but no midline shift is noted. The postero-medial margin of the mass is close to the superior sagittal sinus, the sinus however still maintains its normal flow void and does not appear to be encased or compressed by the mass.\n\nThe rest of the brain is unremarkable.\n\nConclusion: Large cortical based mass within right parietal lobe with involvement of the right postcentral gyrus. Appearance is in keeping with a neoplastic lesion, primary tumor favored over secondary. It is likely to be at least anaplastic astrocytoma and probably glioblastoma multiforme.",
+    "pixel_stats": {
+        "mean": 25.971607208251953,
+        "std": 33.49416708610626,
+        "min": 0,
+        "max": 250
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

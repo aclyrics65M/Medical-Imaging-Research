@@ -1,0 +1,26 @@
+{
+    "filename": "T1C+ - Transitional meningioma parietal , occipital 012.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 223,
+        "y": 335
+    },
+    "point_normalized": {
+        "x": 0.43702693028500894,
+        "y": 0.656873733564703
+    },
+    "location": [
+        "parietal",
+        "occipital"
+    ],
+    "location_str": "parietal occipital",
+    "description": "Right posterior parietal-occipital large extra-axial space-occupying lesion. It measures 10 x 10 cm in max axial dimensions. It elicits a low signal on T1 WI and a heterogeneous signal on T2 WI, being predominantly of high signal with internal foci of low signal. It shows non-homogenous post-contrast enhancement. The mass is surrounded by peritumoral cysts, prominent vessels, and vasogenic edema signal. The mass exerts a positive mass effect in the form of lateral displacement of the parietal lobe and compression of the right lateral ventricle with contralateral midline shift.",
+    "pixel_stats": {
+        "mean": 48.58746337890625,
+        "std": 60.45879211096369,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

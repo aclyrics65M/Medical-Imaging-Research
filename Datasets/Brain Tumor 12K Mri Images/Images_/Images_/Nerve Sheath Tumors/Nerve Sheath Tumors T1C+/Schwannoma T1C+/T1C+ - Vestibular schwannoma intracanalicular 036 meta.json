@@ -1,0 +1,25 @@
+{
+    "filename": "T1C+ - Vestibular schwannoma intracanalicular 036.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 275,
+        "y": 310
+    },
+    "point_normalized": {
+        "x": 0.5383375652148416,
+        "y": 0.6080623925178726
+    },
+    "location": [
+        "intracanalicular"
+    ],
+    "location_str": "intracanalicular",
+    "description": "Left cerebellopontine solid mass lesion, with homogeneous texture, smooth regular surface, globular in shape and epicentered on internal auditory meatus. It shows homogeneous low signal on T1 and high signal on T2 and FLAIR. Homogeneous post-contrast enhancement is noted. Foci of blooming artifact on SWI are noted reflecting intratumoural microhemorrhages.\n\nIt shows widening of left internal auditory canal with intracanalicular component. No cystic changes. No associated hyperostosis or thickened/enhanced dural tail.\n\nIt exerts mass effect in the form of compression of left side of brain stem and left cerebellar hemisphere.",
+    "pixel_stats": {
+        "mean": 50.01365280151367,
+        "std": 59.1751747111564,
+        "min": 8,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

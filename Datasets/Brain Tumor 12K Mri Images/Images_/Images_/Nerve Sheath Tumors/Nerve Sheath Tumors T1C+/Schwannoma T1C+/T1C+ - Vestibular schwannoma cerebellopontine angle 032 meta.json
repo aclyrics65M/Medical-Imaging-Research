@@ -1,0 +1,25 @@
+{
+    "filename": "T1C+ - Vestibular schwannoma cerebellopontine angle 032.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 294,
+        "y": 321
+    },
+    "point_normalized": {
+        "x": 0.5790558098679678,
+        "y": 0.6291347114649365
+    },
+    "location": [
+        "cerebellopontine angle"
+    ],
+    "location_str": "cerebellopontine angle",
+    "description": "There is a mass lesion located in the left cerebellopontine angle, extending into the internal acoustic meatus.\n\nThe lesion is hypointense on T1-weighted imaging and demonstrates heterogeneous T2 hyperintensity. Multiple cystic components are present, possibly representing central necrosis. There are also areas of signal dropout on SWI.\n\nThe lesion shows marked but somewhat heterogeneous contrast enhancement, which may reflect neoangiogenesis.",
+    "pixel_stats": {
+        "mean": 40.54402160644531,
+        "std": 47.04090951430602,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

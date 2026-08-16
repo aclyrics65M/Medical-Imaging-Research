@@ -1,0 +1,26 @@
+{
+    "filename": "T2 - Medulloblastoma ventricle , supratentorial 001.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 316,
+        "y": 369
+    },
+    "point_normalized": {
+        "x": 0.6184056476593867,
+        "y": 0.7232680485948122
+    },
+    "location": [
+        "ventricle",
+        "supratentorial"
+    ],
+    "location_str": "ventricle supratentorial",
+    "description": "CT with I.V contrast was done and revealed a left cerebellar mass lesion with intense post-contrast enhancement and small cystic areas associated with mild to moderate perilesional edema causing compression of the fourth ventricle, supratentorial hydrocephalus, trans ependymal cerebrospinal fluid (CSF) permeation and cerebellar tonsillar herniation.",
+    "pixel_stats": {
+        "mean": 38.05563735961914,
+        "std": 43.3141683294774,
+        "min": 8,
+        "max": 221
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

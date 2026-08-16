@@ -1,0 +1,26 @@
+{
+    "filename": "T2 - Multicentric glioblastoma frontal , parietal 001.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 313,
+        "y": 224
+    },
+    "point_normalized": {
+        "x": 0.6371583959122469,
+        "y": 0.4387120366119669
+    },
+    "location": [
+        "frontal",
+        "parietal"
+    ],
+    "location_str": "frontal parietal",
+    "description": "Right frontal lobe mass infiltrating the corpus callosum and crossing the midline.\n\nAt least two smaller similar left frontal lesions.\n\nSignificant perilesional white matter edema with respect to both lesions and in the right parietal lobe near the vertex.",
+    "pixel_stats": {
+        "mean": 26.341995239257812,
+        "std": 46.52927451128337,
+        "min": 0,
+        "max": 252
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

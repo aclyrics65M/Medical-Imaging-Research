@@ -1,0 +1,26 @@
+{
+    "filename": "T1C+ - Glioblastoma temporal , ventricle 036.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 183,
+        "y": 334
+    },
+    "point_normalized": {
+        "x": 0.3602269328382004,
+        "y": 0.6536056485669665
+    },
+    "location": [
+        "temporal",
+        "ventricle"
+    ],
+    "location_str": "temporal ventricle",
+    "description": "At the right parieto-temporal region, there is a mass hypointense in T1 and hyper-isointense in T2 and FLAIR,  with irregular thick margins, central necrosis and surrounded by vasogenic edema.\n\nLow signal foci are seen in GRE sequence consistent with hemosiderin deposits. The solid/marginal component has intermediate signal in DWI and low ADC value reflecting restricted diffusion.\n\nThis lesion generates mass effect over the right ventricle almost collapsing it. It has intense and irregular enhancement of the margins. Also, there are some peripheral flow voids consistent with neovascularization.",
+    "pixel_stats": {
+        "mean": 33.18316650390625,
+        "std": 54.557229785409916,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

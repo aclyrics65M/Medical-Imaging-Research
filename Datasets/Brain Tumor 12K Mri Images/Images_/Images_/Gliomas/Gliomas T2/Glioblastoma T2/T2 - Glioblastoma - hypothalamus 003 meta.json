@@ -1,0 +1,23 @@
+{
+    "filename": "T2 - Glioblastoma - hypothalamus 003.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 252,
+        "y": 220
+    },
+    "point_normalized": {
+        "x": 0.4942184177453983,
+        "y": 0.4311943091358275
+    },
+    "location": [],
+    "location_str": "",
+    "description": "Contrast-enhanced MRI of the brain reveals a lobulated mass centered in the hypothalamus. There is avid, somewhat heterogeneous enhancement, similar to the pituitary gland. The mass effaces the optic and infundibular recesses, and dorsally displaces the mammillary bodies.\n\nAssociated with the mass is expansile, non-enhancing T2/FLAIR signal abnormality. This is observed in the left, greater than in the right, prechiasmatic optic nerves, the optic chiasm, and optic tracts back to the expected location of the lateral geniculate nuclei. Signal abnormality is also seen expanding the right thalamus, right insular cortex, right mesodiencephalic junction, anterior pons, and encasing the mammillothalamic tracts and columns of the fornices. The signal abnormality has subtle but probable continuity, suggesting multifocal tumor.\n\nThere is patchy diffusion restriction associated with the pontine signal abnormality, but no significant hemorrhage or calcification is seen on SWI.",
+    "pixel_stats": {
+        "mean": 49.6608772277832,
+        "std": 54.416269406740625,
+        "min": 6,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

@@ -1,0 +1,25 @@
+{
+    "filename": "T1C+ - Ganglioglioma temporal 019.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 320,
+        "y": 182
+    },
+    "point_normalized": {
+        "x": 0.6557890364923443,
+        "y": 0.35584676343594535
+    },
+    "location": [
+        "temporal"
+    ],
+    "location_str": "temporal",
+    "description": "A left temporal lobe mass with heterogeneous on T1W and T2W, microcystic components and foci of low signal on SWI (blood products or calcification). No restriction diffusion. No definite contrast enhancement.",
+    "pixel_stats": {
+        "mean": 41.202125549316406,
+        "std": 45.7919834373877,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

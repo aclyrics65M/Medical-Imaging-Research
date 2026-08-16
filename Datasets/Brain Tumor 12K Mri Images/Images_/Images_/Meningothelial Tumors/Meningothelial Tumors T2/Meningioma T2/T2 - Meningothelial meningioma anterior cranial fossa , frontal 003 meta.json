@@ -1,0 +1,26 @@
+{
+    "filename": "T2 - Meningothelial meningioma anterior cranial fossa , frontal 003.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 307,
+        "y": 170
+    },
+    "point_normalized": {
+        "x": 0.6118857769600844,
+        "y": 0.3338666527969863
+    },
+    "location": [
+        "anterior cranial fossa",
+        "frontal"
+    ],
+    "location_str": "anterior cranial fossa frontal",
+    "description": "Well-defined extra-axial hyperdense lesion measuring about 4.5 x 4.5 cm in the left anterior cranial fossa. A few small calcifications are seen in it. Mild hyperostosis of the underlying left orbital bone is noted. Moderate vasogenic edema in the left frontal lobe, pressure effects on the frontal horn of the left lateral ventricle and contralateral midline shift measuring 4.0 mm are also noted. No recent major territorial infarction or intracranial hemorrhage.",
+    "pixel_stats": {
+        "mean": 33.322322845458984,
+        "std": 55.05289233666534,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

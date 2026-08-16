@@ -1,0 +1,25 @@
+{
+    "filename": "T2 - Posterior fossa ependymoma brainstem 014.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 244,
+        "y": 325
+    },
+    "point_normalized": {
+        "x": 0.47787799275671566,
+        "y": 0.6356311810794155
+    },
+    "location": [
+        "brainstem"
+    ],
+    "location_str": "brainstem",
+    "description": "Extra-axial right cerebllopontine angle mass with the PICA running though it invaginates out of/into the lateral foramen of Luschka. It demonstrates modest heterogeneous enhancement and facilitated diffusion.\n\nEpendymoma is by far the most likely diagnosis.  An exophytic brainstem glioma is unlikely (e.g. pilomyxoid astrocytomas). It is definitely not an epidermoid cyst nor an unusual medulloblastoma.",
+    "pixel_stats": {
+        "mean": 26.267433166503906,
+        "std": 49.98541685412412,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

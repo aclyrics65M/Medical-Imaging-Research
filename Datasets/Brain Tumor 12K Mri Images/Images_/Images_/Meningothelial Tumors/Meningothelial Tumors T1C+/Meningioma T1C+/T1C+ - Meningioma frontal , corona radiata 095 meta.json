@@ -1,0 +1,26 @@
+{
+    "filename": "T1C+ - Meningioma frontal , corona radiata 095.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 291,
+        "y": 153
+    },
+    "point_normalized": {
+        "x": 0.571018415192207,
+        "y": 0.30047090922636605
+    },
+    "location": [
+        "frontal",
+        "corona radiata"
+    ],
+    "location_str": "frontal corona radiata",
+    "description": "There is a left frontal extra-axial mass that demonstrates fairly homogeneous enhancement with associated effusion, suggesting hypercellularity. There are numerous serpentine flow voids along the superior and posterior margins of the of the mass which likely originate from the left greater than right anterior cerebral arteries. There is a large region of hyperintense T2/FLAIR signal in the left corona radiata and centrum semiovale, which likely represents cerebral edema. There is a midline shift and rightward displacement of the interhemispheric fissure. There is regional mass effect with compression of the bilateral lateral ventricles and anterior aspect of the third ventricle. There is mild mass effect on the cerebral peduncles and posterior displacement of the anterior body of the corpus callosum. There is encephalomalacia/gliosis in the left frontal and temporal lobes.",
+    "pixel_stats": {
+        "mean": 26.49502182006836,
+        "std": 37.97521874870071,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

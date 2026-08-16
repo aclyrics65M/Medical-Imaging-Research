@@ -1,0 +1,25 @@
+{
+    "filename": "T2 - Glioblastoma NOS occipital 008.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 294,
+        "y": 341
+    },
+    "point_normalized": {
+        "x": 0.5759205426888118,
+        "y": 0.6666779885579126
+    },
+    "location": [
+        "occipital"
+    ],
+    "location_str": "occipital",
+    "description": "MRI brain demonstrates a left occipital lobe intra-axial mixed solid and cystic lesion associated with vasogenic edema and mass effect.",
+    "pixel_stats": {
+        "mean": 34.6171989440918,
+        "std": 46.34397419137533,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

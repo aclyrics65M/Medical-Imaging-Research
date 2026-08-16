@@ -1,0 +1,23 @@
+{
+    "filename": "T1C+ - Pilocytic astrocytoma 044.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 198,
+        "y": 266
+    },
+    "point_normalized": {
+        "x": 0.3880056553189609,
+        "y": 0.5196141636597685
+    },
+    "location": [],
+    "location_str": "",
+    "description": "A cystic lesion with an eccentric mural nodule is centered on the internal capsule on the right, with surrounding minor vasogenic edema.",
+    "pixel_stats": {
+        "mean": 33.67842102050781,
+        "std": 41.90219548976273,
+        "min": 0,
+        "max": 219
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

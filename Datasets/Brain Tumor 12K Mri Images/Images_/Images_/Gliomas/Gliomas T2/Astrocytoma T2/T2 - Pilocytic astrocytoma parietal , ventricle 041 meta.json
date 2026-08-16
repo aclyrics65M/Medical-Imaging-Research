@@ -1,0 +1,26 @@
+{
+    "filename": "T2 - Pilocytic astrocytoma parietal , ventricle 041.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 309,
+        "y": 355
+    },
+    "point_normalized": {
+        "x": 0.6036992651695723,
+        "y": 0.6942751514536186
+    },
+    "location": [
+        "parietal",
+        "ventricle"
+    ],
+    "location_str": "parietal ventricle",
+    "description": "Centered within left parietal white matter are 2 closely adjacent cystic regions that demonstrate incomplete suppression of their contents on FLAIR, with a thin T2 hypointense wall containing some susceptibility artefact. Following contrast administration there a few foci of linear enhancement at the margins, plus a punctate enhancing focus immediately inferior. Lesions are surrounded by white matter T2 hyperintensity that tracks inferiorly to abut the lateral wall of the left lateral ventricle trigone, but does not extend into the subcortical U fibers or involve overlying cortex.\n\nThere is no cerebral blood volume (CBV) increase. MR spectroscopy in voxels covering with the non-enhancing portions wall demonstrates mild choline elevation in NAA reduction with large lipid lactate peak. Spectroscopy performed within the white matter abnormality only demonstrate a lipid lactate peak with no choline elevation.\n\nElsewhere in the brain, incidental note is made of a left superior frontal gyrus developmental venous anomaly. There is no hydrocephalus.",
+    "pixel_stats": {
+        "mean": 53.699249267578125,
+        "std": 58.375524835036735,
+        "min": 11,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

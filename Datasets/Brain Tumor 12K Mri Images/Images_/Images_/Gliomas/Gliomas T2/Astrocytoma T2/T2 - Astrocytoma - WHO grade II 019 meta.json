@@ -1,0 +1,23 @@
+{
+    "filename": "T2 - Astrocytoma - WHO grade II 019.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 133,
+        "y": 306
+    },
+    "point_normalized": {
+        "x": 0.260550340407236,
+        "y": 0.5985588418863417
+    },
+    "location": [],
+    "location_str": "",
+    "description": "Large right hemispheric mass with ventricular invasion and transtentorial uncal herniation. Moderate focal contrast enhancement on T1.",
+    "pixel_stats": {
+        "mean": 52.08498764038086,
+        "std": 52.76469605591601,
+        "min": 0,
+        "max": 245
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

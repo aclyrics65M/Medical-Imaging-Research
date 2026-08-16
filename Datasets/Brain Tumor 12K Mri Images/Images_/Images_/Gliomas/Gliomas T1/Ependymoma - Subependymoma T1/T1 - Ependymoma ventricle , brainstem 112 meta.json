@@ -1,0 +1,26 @@
+{
+    "filename": "T1 - Ependymoma ventricle , brainstem 112.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 258,
+        "y": 316
+    },
+    "point_normalized": {
+        "x": 0.5040226727386079,
+        "y": 0.6207432390045465
+    },
+    "location": [
+        "ventricle",
+        "brainstem"
+    ],
+    "location_str": "ventricle brainstem",
+    "description": "There is a well-defined midline mass filling expanding and obstructing the fourth ventricle, displacing and compressing the cerebellum and brainstem, resulting in mild dilatation of third and lateral ventricles, it shows a slight heterogenous enhancement, mainly hypointense on T1WI and slightly hyperintense on T2WI with multiple small cystic components and foci of blooming artifacts (hemorrhage vs calcifications). There is slight extension of the mass through the left foramen of Luschka and foraminal of Magendi.\n\nAppearances are suggestive of ependymoma.\n\nOther imaging findings:\n\nmild-left pachymeningeal thickening and enhancement\n\nmild-hyperintense periventricular T2/FLAIR signal, mostly due to edema\n\nright lateral ventricular shunt\n\nleft-sided subdural fluid signal intensity that may represent minimal chronic subdural hematoma\n\nCavum septum pellucidum with caval vergae (anatomical variant)\n\nWhole spine MRI was done to rule out drop metastasis, no evidence of metastasis was seen.",
+    "pixel_stats": {
+        "mean": 24.457504272460938,
+        "std": 50.25001239672437,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

@@ -1,0 +1,26 @@
+{
+    "filename": "T1 - Cerebellopontine angle meningioma cerebellopontine angle , temporal 006.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 215,
+        "y": 236
+    },
+    "point_normalized": {
+        "x": 0.3963116956699956,
+        "y": 0.46181558886916263
+    },
+    "location": [
+        "cerebellopontine angle",
+        "temporal"
+    ],
+    "location_str": "cerebellopontine angle temporal",
+    "description": "Right hypervascular mass is in the region of cerebellopontine angle extending transtentorially to the temporal region, this mass produces compression of the midbrain and cerebellar structures.",
+    "pixel_stats": {
+        "mean": 59.71442794799805,
+        "std": 63.62044188926152,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

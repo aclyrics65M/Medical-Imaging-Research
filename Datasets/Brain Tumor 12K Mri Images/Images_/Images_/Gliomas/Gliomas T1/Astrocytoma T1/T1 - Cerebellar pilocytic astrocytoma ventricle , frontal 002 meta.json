@@ -1,0 +1,26 @@
+{
+    "filename": "T1 - Cerebellar pilocytic astrocytoma ventricle , frontal 002.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 227,
+        "y": 334
+    },
+    "point_normalized": {
+        "x": 0.4355351432818667,
+        "y": 0.655143248249892
+    },
+    "location": [
+        "ventricle",
+        "frontal"
+    ],
+    "location_str": "ventricle frontal",
+    "description": "Right cerebellar mass lesion with suspected mural nodular area in cerebellum hemisphere.  With defined mass lesion with cerebellum, pons, mesencephalon, superior cerebellar peduncle pushing, right pontocerebellar corner system and depression on the IV. ventricle, constriction in the ambient-quadrigeminal system, minimal tonsillar herniation. A few  nonspecific hyperintense focuses in the periventricular white matter in the right frontal lobe",
+    "pixel_stats": {
+        "mean": 37.079769134521484,
+        "std": 53.53038242249905,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

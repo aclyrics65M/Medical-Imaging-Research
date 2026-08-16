@@ -1,0 +1,26 @@
+{
+    "filename": "T1C+ - Vestibular schwannoma cerebellopontine angle , ventricle 013.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 229,
+        "y": 325
+    },
+    "point_normalized": {
+        "x": 0.4500992702759551,
+        "y": 0.6438202636361747
+    },
+    "location": [
+        "cerebellopontine angle",
+        "ventricle"
+    ],
+    "location_str": "cerebellopontine angle ventricle",
+    "description": "There is a large well-defined extra-axial complex mass in the right cerebellopontine angle (CPA) cistern, centered in the internal auditory canal (IAC), which is low signal intensity to grey matter on T1-weighted MR image, and heterogeneous hyperintensity on T2 WI.\n\nAxial contrast-enhanced T1 WI reveals the irregular enhancement of the mass. It shows multiple internal non-enhancing cystic changes. DWI revealed no diffusion restriction of the tumor. There is a disproportionately small amount of edema, given the size of the mass. The lesion measures 4.0 x 3.8 x 3.4 cm.\n\nThe tumor extends from the medial aspect of the IAC, which is enlarged and continues through the porus acusticus into the cerebellopontine angle cistern. A sizable mixed tissue component is present more medially in the CPA, with irregular necrotic or cystic zones interspersed with more cellular tissue.\n\nThis mass exerts a mass effect on the right side of the pons, the ipsilateral middle cerebellar peduncle, and the anteromedial part of the right cerebellar hemisphere. The fourth ventricle is compressed and displaced to the left side, and consequently, there is dilatation of the supratentorial ventricular system. There is a widening of the CPA cistern posterior to the tumor, indicating its extra-axial origin.",
+    "pixel_stats": {
+        "mean": 23.96143341064453,
+        "std": 43.98659563023396,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

@@ -1,0 +1,25 @@
+{
+    "filename": "T2 - Anaplastic astrocytoma NOS ventricle 008.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 308,
+        "y": 262
+    },
+    "point_normalized": {
+        "x": 0.6036992651695723,
+        "y": 0.512765938322276
+    },
+    "location": [
+        "ventricle"
+    ],
+    "location_str": "ventricle",
+    "description": "Selected images from an MRI demonstrate a multifocal mass extendign both across the corpus callosum and subependymally around the trigone of the left lateral ventricle.\n\nContrast enhanced T1 sequences (not shown) demonstrated no significant enhancement.",
+    "pixel_stats": {
+        "mean": 39.57367706298828,
+        "std": 53.654140530966096,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

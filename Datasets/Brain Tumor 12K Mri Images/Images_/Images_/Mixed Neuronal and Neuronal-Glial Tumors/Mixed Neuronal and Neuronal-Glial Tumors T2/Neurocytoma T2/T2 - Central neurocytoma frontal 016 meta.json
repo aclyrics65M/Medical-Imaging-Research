@@ -1,0 +1,25 @@
+{
+    "filename": "T2 - Central neurocytoma frontal 016.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 251,
+        "y": 271
+    },
+    "point_normalized": {
+        "x": 0.4925843752465301,
+        "y": 0.5308709015667918
+    },
+    "location": [
+        "frontal"
+    ],
+    "location_str": "frontal",
+    "description": "Central midline irregular heterogeneous solid lesion is seen attached to the septum pellucidum and associated with multiple variable size cysts giving a bubbly appearance. The largest cysts are extending to frontal horns of both lateral ventricles. The lesion displays predominantly iso- to low signal on T2, isointense signal on T1, no diffusion restriction on DWI and heterogeneous enhancement on post contrast images. There is dilatation of both lateral ventricles mostly due to obstruction at level of foramina of Monroe. The 3rd and 4th ventricles are unremarkable.",
+    "pixel_stats": {
+        "mean": 37.92671203613281,
+        "std": 61.838584895988014,
+        "min": 0,
+        "max": 250
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

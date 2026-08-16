@@ -1,0 +1,26 @@
+{
+    "filename": "T1 - Pilocytic astrocytoma - third ventricle suprasellar , ventricle 003.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 256,
+        "y": 229
+    },
+    "point_normalized": {
+        "x": 0.5023886302397397,
+        "y": 0.44839144952156085
+    },
+    "location": [
+        "suprasellar",
+        "ventricle"
+    ],
+    "location_str": "suprasellar ventricle",
+    "description": "There is a suprasellar heterogeneous mass enlarging and obstructing the third ventricle, compressing the mesencephalon and the cerebral peduncles, and displacing without invading the basilar artery and the circle of Willis' vessels. It shows a high T2 signal that suppresses partially on FLAIR, no calcifications or acute hemorrhage are seen. The lesion obstructs the interventricular foramina and the proximal cerebral aqueduct promoting a chronic obstructive hydrocephalus.",
+    "pixel_stats": {
+        "mean": 28.306896209716797,
+        "std": 38.936058098219654,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

@@ -1,0 +1,26 @@
+{
+    "filename": "T1C+ - Petroclival meningioma petroclival , cavernous sinus 001.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 286,
+        "y": 242
+    },
+    "point_normalized": {
+        "x": 0.5653482470213012,
+        "y": 0.47582409488616706
+    },
+    "location": [
+        "petroclival",
+        "cavernous sinus"
+    ],
+    "location_str": "petroclival cavernous sinus",
+    "description": "A large, left sided, exctra-axial, petroclival homogeneously enhancing mass lesion is seen, which measures (4.7X3.7X5.0 cm). The left ambient cistern is effaced by the lesion, which also invades the left Meckel's cave and compresses the left side of brain stem. Besides, there is evidence of the left cavernous sinus invasion along with encasement of the ipsilateral internal carotid artery (not invaded- its signal void is preserved). There is, also, significant contralateral displacement of the basilar artery. There is significant compression on the brain stem with contralateral right-ward displacement. No gross evidence of hydrocephalus. Dural tail sign is also seen.\n\nGiven the above mentioned appearances, petroclival meningioma is highly likely.",
+    "pixel_stats": {
+        "mean": 51.40693283081055,
+        "std": 49.95309909070398,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

@@ -1,0 +1,26 @@
+{
+    "filename": "T1 - Ependymoma - infratentorial ventricle , tentorial 011.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 263,
+        "y": 311
+    },
+    "point_normalized": {
+        "x": 0.5154609702306858,
+        "y": 0.6093049415124687
+    },
+    "location": [
+        "ventricle",
+        "tentorial"
+    ],
+    "location_str": "ventricle tentorial",
+    "description": "A large heterogeneous 4th ventricle mass lesion with mixed solid and cystic portions is seen filling the 4th ventricle and extending through the left lateral foramen of Luschka. The lesion shows heterogeneous predominantly isointense T1 and hyperintense T2 signal of its solid compartment. The cystic component shows heterogeneous, predominantly hypointense T1 and hyperintense T2 signal. Small foci of hypointensity on all pulse sequences are seen at the right inferior lateral aspect of the lesion that could be calcification. The lesion measures 5 x 4.5 x 4 cm in its main axial and CC diameters, compressing the pons and left middle cerebellar peduncle. The lesion is seen compressing the 4th ventricle with moderate rather symmetrical hydrocephalus.\n\nMR spectroscopy of the lesion shows elevated choline with depression of the neuronal markers; NAA and creatine as well as elevation of the lipid/lactate.\n\nNo supra-tentorial mass lesion or parenchymal area of abnormal signal intensity. Partial empty sella. No sellar or juxta sellar masses. Normal cortical sulci. Mild bilateral maxillary sinusitis.",
+    "pixel_stats": {
+        "mean": 38.587860107421875,
+        "std": 50.39524871312159,
+        "min": 8,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

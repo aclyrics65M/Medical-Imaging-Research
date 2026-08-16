@@ -1,0 +1,26 @@
+{
+    "filename": "T1C+ - Trigeminal schwannoma trigeminal , cerebellopontine angle 224.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 200,
+        "y": 210
+    },
+    "point_normalized": {
+        "x": 0.3929077828155657,
+        "y": 0.4101616843363802
+    },
+    "location": [
+        "trigeminal",
+        "cerebellopontine angle"
+    ],
+    "location_str": "trigeminal cerebellopontine angle",
+    "description": "Multiplanar and multiaxial MR imaging confirmed the presence of a large right trigeminal schwannoma.\n\nTypical intermediate-to-low T1 signal intensity and associated intermediate-to-high T2 signal intensity. Heterogeneous appearance on SWI, suggesting intralesional hemorrhage. No evidence of diffusion restriction, with shine-through artifact. Avid heterogeneous post-contrast enhancement.\nThe lesion presents as a tri-lobular extra-axial space-occupying lesion straddling the posterior and middle cranial fossae and the right infratemporal fossa. Specifically, the lesion straddles the right cerebellopontine angle (CPA) cistern, arising from the nerve root entry zone to Meckel's cave and further extends into the right infratemporal fossa and masticator space.\nIt is multifocal, consisting of preganglionic, ganglionic, and postganglionic segments, with consequent trilobular shape. There is no intracanalicular extension within the right internal auditory canal (IAC). Significant asymmetric mass effect on the midbrain, pons, and superior medulla with no associated edema or ischemia. Mass effect on the third ventricle and Sylvian aqueduct; however, no obstructive hydrocephalus. Displacement and asymmetry of the optic chiasm and hypothalamus.\nDisplacement of the basilar artery towards the left, draping of the right posterior cerebral artery (PCA) and the right posterior communicating artery (PCom). No vascular encasement or regional thrombosis.\nAbutment to the right petrous intracranial internal carotid artery within the infratemporal fossa; however, with no encasement or thrombosis.\nCystic component present within the infratemporal fossa.\n\nThe lesion measures:\nCisternal:          30.1x 30.8x 39.5 mm's (oblique ap x oblique width x craniocaudal)\nRight temporal: 29.3x 27.8x 30.1 mm's (oblique ap x oblique width x craniocaudal.)\nInfratemporal:   23.7x 19.1x 17.4 mm's ( oblique ap x oblique width x craniocaudal).\n\nContrast-enhanced MR Imaging of the brain is otherwise normal. Specifically, no vestibular schwannomas bilaterally, no meningiomas and a normal left cavernous sinus.",
+    "pixel_stats": {
+        "mean": 16.2308349609375,
+        "std": 28.780044892592457,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

@@ -1,0 +1,26 @@
+{
+    "filename": "T1 - Oligodendroglioma (grade 3) frontal , ventricle 040.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 299,
+        "y": 151
+    },
+    "point_normalized": {
+        "x": 0.5857247976820213,
+        "y": 0.29556878172976125
+    },
+    "location": [
+        "frontal",
+        "ventricle"
+    ],
+    "location_str": "frontal ventricle",
+    "description": "Left frontal T2/FLAIR heterogenous mass contains foci of intrinsic T1 hyperintensity and susceptibility low signal. Phase-contrast images suggest both calcification and hemorrhage within the lesion. Definite localization of the mass is difficult to delineate, however, an impression is that the mass is extra-axial at least in part with some intra-axial component. Multiple flow voids within the mass are consistent with abnormal vessels. Heterogenous enhancement of the mass with adjacent dural enhancement post-contrast. A rim of T2/FLAIR non-enhancing hyperintensity surrounding the mass. Low ADC values within the enhancing components, measuring around 680 x 10-6 mm2/s.\n\nAssociated positive mass effect on the ipsilateral lateral ventricle and adjacent brain structures, leading to subfalcine herniation to the right and 12mm midline shift rightwards. No hydrocephalus. MRA (not shown) demonstrates displacement of the anterior cerebral arteries to the right by the mass. Otherwise, no aneurysm, vascular malformation or high-grade stenosis identified. No additional intracranial enhancing lesion is seen. The remainder of the brain is unremarkable.\n\nConclusion: Large left frontal mass is most likely intra-axial and most likely represents a highly cellular oligodendroglioma (likely anaplastic).",
+    "pixel_stats": {
+        "mean": 45.911033630371094,
+        "std": 49.63262377875852,
+        "min": 0,
+        "max": 231
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

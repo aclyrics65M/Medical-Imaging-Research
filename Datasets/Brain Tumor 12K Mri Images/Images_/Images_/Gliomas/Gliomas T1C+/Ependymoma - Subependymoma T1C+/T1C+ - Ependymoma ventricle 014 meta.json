@@ -1,0 +1,25 @@
+{
+    "filename": "T1C+ - Ependymoma ventricle 014.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 247,
+        "y": 306
+    },
+    "point_normalized": {
+        "x": 0.48278012025332045,
+        "y": 0.5980482036054453
+    },
+    "location": [
+        "ventricle"
+    ],
+    "location_str": "ventricle",
+    "description": "Image quality is suboptimal due to marked susceptibility artifact associated with orthodontic braces.\n\nThere is an enhancing mass in the fourth ventricle which extends laterally through the left foramen of Luschka into the left perimedullary cistern and left CPA cistern. There is also questionable extension in the midline inferiorly through the foramen of Magendie.\n\nThere is obstructive hydrocephalus with enlargement of the third and lateral ventricle with dilatation of the rostral portion of the fourth ventricle and cerebral aqueduct.",
+    "pixel_stats": {
+        "mean": 16.255088806152344,
+        "std": 30.725723621332197,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

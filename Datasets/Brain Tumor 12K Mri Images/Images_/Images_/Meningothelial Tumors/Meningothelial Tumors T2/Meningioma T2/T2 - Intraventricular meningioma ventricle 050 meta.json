@@ -1,0 +1,25 @@
+{
+    "filename": "T2 - Intraventricular meningioma ventricle 050.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 308,
+        "y": 258
+    },
+    "point_normalized": {
+        "x": 0.6053333076684406,
+        "y": 0.507693583520825
+    },
+    "location": [
+        "ventricle"
+    ],
+    "location_str": "ventricle",
+    "description": "Selected MRI sequences show a well-defined round mass centered within the trigone of the left lateral ventricle.  The mass is isointense to gray matter on T1 and T2-weighted images, and exhibits homogeneous enhancement.  Perilesional white matter edema and obstructive hydrocephalus are seen.",
+    "pixel_stats": {
+        "mean": 46.56568908691406,
+        "std": 59.0058969956085,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

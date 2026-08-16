@@ -1,0 +1,25 @@
+{
+    "filename": "T1 - Posterior fossa ependymoma ventricle 021.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 253,
+        "y": 305
+    },
+    "point_normalized": {
+        "x": 0.4942184177453983,
+        "y": 0.59707797217161
+    },
+    "location": [
+        "ventricle"
+    ],
+    "location_str": "ventricle",
+    "description": "Pre and post contrast scans were performed.  There is a lesion with lobulated margins filling the inferior aspect of the fourth ventricle, extending into the foramen of Magendie.  Lesion has a focal cystic areas within it and demonstrates heterogeneous enhancement, with non enhancement of the focal cystic areas of large areas of solid enhancement.  Moderate restriced diffusion, similar to the adjacent cerebellar hemisphere (on ADC) with a component of T2 shine through. The lesion measures 17 x 31 x 29 mm.  There is obstructive hydrocephalus and effacement of the cortical sulci.  No further abnormal enhancement is identified.",
+    "pixel_stats": {
+        "mean": 48.81108474731445,
+        "std": 49.978955965389474,
+        "min": 2,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

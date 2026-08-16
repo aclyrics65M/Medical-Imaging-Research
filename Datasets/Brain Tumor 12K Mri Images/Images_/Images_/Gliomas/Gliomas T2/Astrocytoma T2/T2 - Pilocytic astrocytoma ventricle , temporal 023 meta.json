@@ -1,0 +1,26 @@
+{
+    "filename": "T2 - Pilocytic astrocytoma ventricle , temporal 023.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 214,
+        "y": 310
+    },
+    "point_normalized": {
+        "x": 0.419052462797458,
+        "y": 0.6086297545335853
+    },
+    "location": [
+        "ventricle",
+        "temporal"
+    ],
+    "location_str": "ventricle temporal",
+    "description": "8.4 cm solid-cystic mass centered on the trigone of the right lateral ventricle. This has a lobulated avidly enhancing 4 cm solid component which is closely related to the choroid plexus. The mass extends into the right temporal and parietal lobes.\n\nResultant midline shift.",
+    "pixel_stats": {
+        "mean": 60.16886901855469,
+        "std": 65.50420280269864,
+        "min": 10,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

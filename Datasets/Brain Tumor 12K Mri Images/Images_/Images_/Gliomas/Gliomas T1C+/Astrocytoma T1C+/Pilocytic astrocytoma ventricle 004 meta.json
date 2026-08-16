@@ -1,0 +1,25 @@
+{
+    "filename": "Pilocytic astrocytoma ventricle 004.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 248,
+        "y": 247
+    },
+    "point_normalized": {
+        "x": 0.486048205251057,
+        "y": 0.4824113953723238
+    },
+    "location": [
+        "ventricle"
+    ],
+    "location_str": "ventricle",
+    "description": "Selected images of MRI showing a mixed solid-cystic tumor involving the right cerebral peduncle and thalamus compressing the third ventricle and causing midline shift. The tumor shows mild high signal on T2 and iso signal on T1 when compared to the adjacent brain. Contrast enhancement is vivid involving the solid components and the cysts' wall.",
+    "pixel_stats": {
+        "mean": 20.690452575683594,
+        "std": 34.371277733966174,
+        "min": 0,
+        "max": 211
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

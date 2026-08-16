@@ -1,0 +1,25 @@
+{
+    "filename": "T1 - Acoustic schwannoma ventricle 007.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 220,
+        "y": 316
+    },
+    "point_normalized": {
+        "x": 0.43375884528727243,
+        "y": 0.6193191241915185
+    },
+    "location": [
+        "ventricle"
+    ],
+    "location_str": "ventricle",
+    "description": "Right cerebellopontine space occupying lesion exhibiting low signal on T1, high signal on T2 and FLAIR with avid enhancement on the post contrast study. There is also extension into the internal auditory canal (intracannilucular extension) and compression on the adjacent brain stem and 4th ventricle, with resultant of hydrocephalus more proximally.",
+    "pixel_stats": {
+        "mean": 40.93479919433594,
+        "std": 62.50831358244555,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

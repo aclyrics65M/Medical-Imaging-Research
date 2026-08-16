@@ -1,0 +1,23 @@
+{
+    "filename": "T2 - Basal ganglia germinoma 001.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 294,
+        "y": 243
+    },
+    "point_normalized": {
+        "x": 0.5787641820027873,
+        "y": 0.4774808268789619
+    },
+    "location": [],
+    "location_str": "",
+    "description": "There is a multi-nodular lesion located on left thalamus/putamen area best seen on T2 image. The lesion shows low T1 signal with enhancement after admission of contrast. The lesion has high T2 signal with multi-cystic nodular appearance.",
+    "pixel_stats": {
+        "mean": 36.2131233215332,
+        "std": 48.77730535118878,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

@@ -1,0 +1,26 @@
+{
+    "filename": "T2 - Medulloblastoma posterior fossa , ventricle 105.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 250,
+        "y": 340
+    },
+    "point_normalized": {
+        "x": 0.4872037965268336,
+        "y": 0.6655545843399406
+    },
+    "location": [
+        "posterior fossa",
+        "ventricle"
+    ],
+    "location_str": "posterior fossa ventricle",
+    "description": "A large posterior fossa solid mass that occupies and expands 4th ventricle measures about 4 x 3.2 x 4.7 cm in its various dimensions. It shows hypointense signal at T1WI, heterogeneous bright signal at T2WI, showing cystic areas of degeneration, and restricted diffusion in DWI. It is bulging through foramen of Magendie. It is associated with moderate supratentorial hydrocephalus with periventricular CSF transependymal permeation and surrounded by mild cerebellar edema.",
+    "pixel_stats": {
+        "mean": 57.95854949951172,
+        "std": 56.2395107949789,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

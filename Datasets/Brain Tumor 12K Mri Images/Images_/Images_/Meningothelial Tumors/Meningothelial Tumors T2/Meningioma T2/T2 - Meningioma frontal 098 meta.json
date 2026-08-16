@@ -1,0 +1,25 @@
+{
+    "filename": "T2 - Meningioma frontal 098.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 128,
+        "y": 228
+    },
+    "point_normalized": {
+        "x": 0.20440030835783132,
+        "y": 0.44641132990653826
+    },
+    "location": [
+        "frontal"
+    ],
+    "location_str": "frontal",
+    "description": "Right frontal extra-axial lesion demonstrates all the typical features of a cerebral meningioma: extra-axial location, splaying of the cerebral cortical gray matter, medial displaced cortical veins, homogeneous enhancement with enhanced dural tail and finally localized hyperostosis of the overlying calvarium. Minimal mass effect upon the right lateral ventricular body.",
+    "pixel_stats": {
+        "mean": 39.79853820800781,
+        "std": 46.43617258548602,
+        "min": 0,
+        "max": 253
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

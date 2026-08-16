@@ -1,0 +1,25 @@
+{
+    "filename": "T2 - Vestibular schwannoma brainstem 014.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 281,
+        "y": 288
+    },
+    "point_normalized": {
+        "x": 0.5497758627069195,
+        "y": 0.5642723175108937
+    },
+    "location": [
+        "brainstem"
+    ],
+    "location_str": "brainstem",
+    "description": "A large left cerebellar pontine angle mass measuring 3 cm in diameter is demonstrated with extension into the internal acoustic meatus, with central non-enhancing components.\n\nThere is marked mass effect on the brainstem with encephalomalacia of the left cerebellar peduncle.",
+    "pixel_stats": {
+        "mean": 44.24026107788086,
+        "std": 51.84774515207903,
+        "min": 7,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

@@ -1,0 +1,25 @@
+{
+    "filename": "T2 - Cystic meningioma frontal 018.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 195,
+        "y": 195
+    },
+    "point_normalized": {
+        "x": 0.38146948532348784,
+        "y": 0.38217303416977944
+    },
+    "location": [
+        "frontal"
+    ],
+    "location_str": "frontal",
+    "description": "There is a 42 x 51 x 63 mm large extra-axial dural based high convexity frontal mass with multiple cystic components in the right side.\n\nAreas of marked restriction on DWI images (solid component) are seen.\n\nMarked vasogenic edematous changes and mass effect on the ipsilateral frontal horn are also noted.\n\nNo evidence of obvious midline shift and subfalcine herniation is depicted.",
+    "pixel_stats": {
+        "mean": 32.21107482910156,
+        "std": 41.64186422689349,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

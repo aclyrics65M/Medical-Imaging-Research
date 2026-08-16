@@ -1,0 +1,23 @@
+{
+    "filename": "T2 - Glioblastoma NOS 003.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 328,
+        "y": 275
+    },
+    "point_normalized": {
+        "x": 0.6412822426435425,
+        "y": 0.5384340204975392
+    },
+    "location": [],
+    "location_str": "",
+    "description": "Frontoparietal solitary ring-enhancing lesion demonstrating peripheral diffusion restriction with associated surrounding edema and a slight midline shift.",
+    "pixel_stats": {
+        "mean": 31.97225570678711,
+        "std": 48.00741453187922,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

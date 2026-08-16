@@ -1,0 +1,26 @@
+{
+    "filename": "T1C+ - Mixed subependymoma and ependymoma posterior fossa , ventricle 008.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 254,
+        "y": 325
+    },
+    "point_normalized": {
+        "x": 0.4990815127728367,
+        "y": 0.6358864939864862
+    },
+    "location": [
+        "posterior fossa",
+        "ventricle"
+    ],
+    "location_str": "posterior fossa ventricle",
+    "description": "Posterior fossa heterogenous mass is located within the fourth ventricle and appears to arise from the posterior aspect of the medulla.\n\nThe mass has speckled calcifications and heterogeneously enhances.",
+    "pixel_stats": {
+        "mean": 47.123600006103516,
+        "std": 53.10146710785408,
+        "min": 0,
+        "max": 249
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

@@ -1,0 +1,25 @@
+{
+    "filename": "T2 - Posterior fossa ependymoma supratentorial 092.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 253,
+        "y": 295
+    },
+    "point_normalized": {
+        "x": 0.4958524602442666,
+        "y": 0.5784396936190261
+    },
+    "location": [
+        "supratentorial"
+    ],
+    "location_str": "supratentorial",
+    "description": "There is a well-defined iso- to hypointense mass on T1W and an isointense mass on T2W with areas of necrosis and old hemorrhage (hemosiderin deposition) located in the midline fourth ventricular region.\n\nThe mass extends through the foramina of Luschka and Magendie, compressing the dorsal side of the pons and medulla.\n\nSuperior extension of the mass toward the aqueduct of Sylvius is present, leading to supratentorial hydrocephalus with periventricular interstitial edema.\n\nAreas of restriction on the DWI sequence are visible in the solid portion of the mass.\n\nAfter contrast administration, patchy enhancement of the solid part of the mass is seen.",
+    "pixel_stats": {
+        "mean": 31.9638671875,
+        "std": 51.61535612644746,
+        "min": 0,
+        "max": 251
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

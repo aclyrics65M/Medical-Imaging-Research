@@ -1,0 +1,26 @@
+{
+    "filename": "T2 - Suprasellar optic pathway pilocytic astrocytoma suprasellar , ventricle 009.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 252,
+        "y": 232
+    },
+    "point_normalized": {
+        "x": 0.49110761155337596,
+        "y": 0.45491061486334394
+    },
+    "location": [
+        "suprasellar",
+        "ventricle"
+    ],
+    "location_str": "suprasellar ventricle",
+    "description": "Fairly defined intensely enhancing lesion is seen in the suprasellar region, which involves optic chiasma. Small cystic area seen in the inferior aspect of lesion. Superiorly, the lesion is extending into third ventricle.\n\nPost operative and post VP shunt status.",
+    "pixel_stats": {
+        "mean": 36.84587478637695,
+        "std": 51.3514459407891,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

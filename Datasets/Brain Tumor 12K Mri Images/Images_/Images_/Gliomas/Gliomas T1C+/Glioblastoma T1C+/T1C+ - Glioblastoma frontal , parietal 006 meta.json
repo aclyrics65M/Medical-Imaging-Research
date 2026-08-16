@@ -1,0 +1,26 @@
+{
+    "filename": "T1C+ - Glioblastoma frontal , parietal 006.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 283,
+        "y": 177
+    },
+    "point_normalized": {
+        "x": 0.5650122546911869,
+        "y": 0.3496737437774686
+    },
+    "location": [
+        "frontal",
+        "parietal"
+    ],
+    "location_str": "frontal parietal",
+    "description": "There is a large, intra-axial, peripherally enhancing (with a centrally non-enhancing component), thick-walled mass lesion centered within the left frontal lobe with marked surrounding vasogenic edema (reaching up to the left parietal and right frontal regions). The mass lesion crosses the midline in the form of an invasion of the corpus callosum. Mass effects manifest as effacement of the adjacent sulci and frontal horns of both lateral ventricles and a midline shift towards the right.\n\nTwo small ring-enhancing lesions are seen adjacent to the large one. Two enhancing foci are seen in the right frontal lobe.",
+    "pixel_stats": {
+        "mean": 39.5094108581543,
+        "std": 52.831995681574966,
+        "min": 0,
+        "max": 227
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

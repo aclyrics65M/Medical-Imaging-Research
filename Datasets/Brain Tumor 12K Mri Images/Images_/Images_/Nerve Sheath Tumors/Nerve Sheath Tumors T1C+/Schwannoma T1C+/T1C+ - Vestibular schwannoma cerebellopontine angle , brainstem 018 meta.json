@@ -1,0 +1,26 @@
+{
+    "filename": "T1C+ - Vestibular schwannoma cerebellopontine angle , brainstem 018.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 208,
+        "y": 304
+    },
+    "point_normalized": {
+        "x": 0.40761416530538014,
+        "y": 0.5964425292073627
+    },
+    "location": [
+        "cerebellopontine angle",
+        "brainstem"
+    ],
+    "location_str": "cerebellopontine angle brainstem",
+    "description": "Well defined extra-axial solid appearing mass lesion at the right cerebellopontine angle extending into the right internal acoustic meatus. The lesion is compressing the adjacent brainstem and 4th ventricle resulting in mild triventricular hydrocephalus.\n\nThe mass lesion exhibits intermediate signals in the T1 heterogenous signal on T2/FlAIR images. Vivid enhancement on the T1 post-contrast images. No diffusion restriction on DWI and its corresponding ADC map.\nThe lesion shows blooming artifact on T2*GRE suggesting calcification/hemorrhage.",
+    "pixel_stats": {
+        "mean": 60.97673416137695,
+        "std": 67.91030935139358,
+        "min": 10,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

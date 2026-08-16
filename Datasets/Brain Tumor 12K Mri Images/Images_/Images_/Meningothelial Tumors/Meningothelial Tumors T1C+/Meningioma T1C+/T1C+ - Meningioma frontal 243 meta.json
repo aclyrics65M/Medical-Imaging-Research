@@ -1,0 +1,25 @@
+{
+    "filename": "T1C+ - Meningioma frontal 243.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 235,
+        "y": 232
+    },
+    "point_normalized": {
+        "x": 0.461537567768033,
+        "y": 0.4542808193390685
+    },
+    "location": [
+        "frontal"
+    ],
+    "location_str": "frontal",
+    "description": "The CT examination shows the presence of a roundish formation in the right frontal lobe, with contrast impregnation. Even though the characteristics are not typical of metastases, the clinical history of breast cancer needs to be further investigated.",
+    "pixel_stats": {
+        "mean": 28.764995574951172,
+        "std": 42.1307171551166,
+        "min": 0,
+        "max": 243
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

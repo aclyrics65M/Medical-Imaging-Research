@@ -1,0 +1,26 @@
+{
+    "filename": "T2 - Meningioma ventricle , brainstem 035.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 322,
+        "y": 280
+    },
+    "point_normalized": {
+        "x": 0.643261797785701,
+        "y": 0.5473928861405291
+    },
+    "location": [
+        "ventricle",
+        "brainstem"
+    ],
+    "location_str": "ventricle brainstem",
+    "description": "There is a 7 x 6.3 x 8 cm lobulated hypervascular extra-axial mass seen in the left ambient/crural cistern. The mass exerting transtentorial hernia, 1 cm tonsillar hernia, and 1.3 cm midline shift to the right side with entrapment of right lateral ventricle. The mass displaces the brainstem to the right side left temporal lobe superiorly and the left cerebellar hemisphere inferiorly. No abnormal intra-axial signal alteration. It shows low T2 signal intensity with internal extensive flow voids and feeding vessels. It demonstrates avid enhancement with dural tail enhancement. It reveals internal intermediate restricted diffusion. There is a small extension to the occipital horn of the left lateral ventricle.\n\nLarge left extra-axial hypervascular mass exerting herniation syndrome, Picture highly suggestive of meningioma.",
+    "pixel_stats": {
+        "mean": 41.86372756958008,
+        "std": 45.81024184923499,
+        "min": 0,
+        "max": 199
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}

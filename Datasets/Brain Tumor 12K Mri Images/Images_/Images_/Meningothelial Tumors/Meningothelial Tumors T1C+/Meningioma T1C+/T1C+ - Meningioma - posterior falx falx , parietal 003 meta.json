@@ -1,0 +1,26 @@
+{
+    "filename": "T1C+ - Meningioma - posterior falx falx , parietal 003.jpg",
+    "width": 512,
+    "height": 512,
+    "point": {
+        "x": 266,
+        "y": 307
+    },
+    "point_normalized": {
+        "x": 0.521997140226159,
+        "y": 0.6005276354545334
+    },
+    "location": [
+        "falx",
+        "parietal"
+    ],
+    "location_str": "falx parietal",
+    "description": "A large homogeneously enhancing lesion closely adherent to the posterior falx, eccentric to the left, is demonstrated, with moderate restricted diffusion. This lesion appears extraaxial. There is continued mass effect on the splenium of the corpus callosum, with bright T2/flair signal extending through splenium into the parietal white matter bilaterally. It is superior to the internal cerebral veins and vein of Galen. Inferior sagittal sinus is closely apposed to it superiorly. There is mass effect on the confluence of the vein of Galen and ISS. There is effacement of the trigones bilaterally without significant temporal horns enlargement.",
+    "pixel_stats": {
+        "mean": 44.01191711425781,
+        "std": 53.79643446621984,
+        "min": 0,
+        "max": 255
+    },
+    "credits": "Granted by Fernando Belomé Feltrin\nUSE TO SAVE LIVES!!!\n\nSupport the project, donate any amount to PayPal account fernando2rad@gmail.com"
+}
