@@ -1,0 +1,9 @@
+{
+  "negative_class": "Normal",
+  "positive_class": "Embryonic Tumors",
+  "image_size": 224,
+  "hybrid_threshold": 0.43999999999999995,
+  "handcrafted_dim": 6117,
+  "deep_embedding_dim": 1280,
+  "hybrid_dim": 7397
+}
