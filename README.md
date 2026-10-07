@@ -2,6 +2,8 @@
 A repository of the materials used for medical imaging research collaboration
 Includes: Research articles and Kaggle datasets
 
+<img width="1000" height="667" alt="image" src="https://github.com/user-attachments/assets/d0558ab7-61b3-4393-af69-07c88b1dd935" />
+
 ## Datasets:
 
 https://www.kaggle.com/code/polomarco/brats20-3dunet-3dautoencoder
