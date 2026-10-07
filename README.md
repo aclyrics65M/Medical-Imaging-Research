@@ -2,25 +2,25 @@
 A repository of the materials used for medical imaging research collaboration
 Includes: Research articles and Kaggle datasets
 
-# Datasets:
+## Datasets:
 
 https://www.kaggle.com/code/polomarco/brats20-3dunet-3dautoencoder
 https://www.kaggle.com/datasets/fernando2rad/brain-tumor-12k-mri-images-w-masks-meta-and-bbox
 https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri
 https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
 
-# Outline of Medical Imaging Research
+## Outline of Medical Imaging Research
 Goal: Conduct open-source research with the purpose of forming a research paper.
 Meeting link: https://meet.google.com/zkt-urjy-fnm
 
-# Question:
+## Question:
 How can we predict the presence of brain tumors, utilizing a hybrid approach of computer vision, machine learning, and deep learning?
 “Which model provides the best accuracy for tumor classification?”
 
-# Hypothesis:
+## Hypothesis:
 Utilizing a hybrid approach of computer vision, machine learning, and deep learning, we will be able to create a high accuracy machine learning model to detect the presence of brain tumors.
 
-# Methodology:
+## Methodology:
 Independent variable - a given model
 Dependent variable - model accuracy
 “Which model provides the best accuracy for tumor classification?”
