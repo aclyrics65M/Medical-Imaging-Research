@@ -1,0 +1,3 @@
+Research articles for Model 2: GLCM + Wavelets -> Random Forest
+
+GLCM: Gray-Level Co-occurrence Matrix
