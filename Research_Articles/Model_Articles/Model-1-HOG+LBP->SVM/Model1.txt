@@ -1,0 +1,5 @@
+Research articles for Model 1 - HOG + LBP -> SVM
+
+HOG: Histogram of Oriented Gradients
+LBP: Local Binary Pattern
+SVM: Support Vector Machine
