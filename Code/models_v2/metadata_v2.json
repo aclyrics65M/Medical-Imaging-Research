@@ -1,0 +1,14 @@
+{
+  "negative_class": "Normal",
+  "positive_class": "Embryonic Tumors",
+  "img_size": 224,
+  "seg_size": 256,
+  "selected_model": "Early fusion",
+  "late_fusion_dl_weight": 0.36,
+  "final_threshold": 0.546062194481434,
+  "threshold_f1": 0.51,
+  "threshold_youden": 0.546062194481434,
+  "threshold_high_sensitivity": 0.905,
+  "seed": 42,
+  "segmentation_available": true
+}
