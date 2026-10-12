@@ -1,0 +1,3 @@
+Research articles for Model 5: Efficient Net Transfer Learning
+
+EfficientNet: A family of convolutional neural networks (CNNs) for computer vision published by researchers at Google AI in 2019.
