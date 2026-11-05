@@ -1,0 +1,35 @@
+01  Bibliographic record
+Article title[Full title]Authors[Names / affiliations]Year / venue[Year; journal or conference; volume/pages]DOI / URL[DOI and stable link]Article type[Original research / review / methods / clinical validation]Review details[Reviewer; date reviewed; paper ID]Full citation[IEEE / Vancouver / APA formatted reference]
+02  Executive summary
+Central research question
+[What problem is being solved, in 2 - 3 sentences?]Main contributions and findings
+[Write a 150 - 250-word synthesis in your own words. Include the method, evidence, principal result, and takeaway.]One-sentence takeaway
+[The most important conclusion and why it matters.]03  Scientific context and objectives
+[Clinical or technical motivation; relevant prior work; limitations of existing methods; explicit research aims or hypotheses.]04  Data, imaging modalities, and study design
+Imaging task[Classification / detection / segmentation / registration / reconstruction]Clinical target[Tumor type, anatomical region, patient population]Modality / sequence[MRI T1, T1ce, T2, FLAIR; CT; PET; etc.]Dataset / source[BraTS / institutional / public; accession details]Sample size[Patients / scans / slices / sites / class distribution]Ground truth[Annotation source, expert raters, label protocol]Splits / validation[Train / validation / test; patient-level split; external cohort]Ethics / leakage[IRB, consent, de-identification, leakage safeguards]
+05  Methods and computational pipeline
+Preprocessing and augmentation
+[Normalization, registration, resampling, skull stripping, denoising, ROI extraction, augmentation, and potential leakage.]Model architecture / algorithm
+[Classical CV features, SVM/RF, U-Net/nnU-Net, transformers, CNNs, hybrid models, postprocessing; inputs and outputs.]Training and implementation
+[Loss function, optimizer, learning rate, batch size, epochs, cross-validation, hardware, software, seeds, hyperparameters.]Mathematical formulation
+[Key equations, objective functions, notation, assumptions, and computational complexity. Add equations in Word as needed.]06  Experimental protocol and evaluation
+[Baselines; ablations; statistical tests; confidence intervals; external validation; inference time; robustness checks.]07  Results and quantitative evidence
+Record only metrics actually reported. Note whether results are per-class, per-patient, per-slice, or aggregated.Primary metrics[Dice / IoU / Hausdorff95 / sensitivity / specificity / precision / accuracy / AUC]Best reported result[Metric, value, dataset, class, test setting]Baseline comparison[Baseline value, improvement, and fairness of comparison]Uncertainty[SD / CI / p-value / repeated runs; not reported if absent]Efficiency[Parameters / FLOPs / runtime / memory, if available]Failure modes[Small lesions, class imbalance, domain shift, artifacts]
+Results interpretation
+[What do the tables and figures actually demonstrate? Distinguish reported evidence from author claims.]08  Figures, visualizations, and tables
+Insert appropriately cited excerpts or your own recreated figures. Record figure number, source page, and interpretation.Figure / table 1
+[Insert MRI image, mask overlay, architecture diagram, confusion matrix, ROC curve, or results table here.][Caption / source / interpretation:]Figure / table 2
+[Insert MRI image, mask overlay, architecture diagram, confusion matrix, ROC curve, or results table here.][Caption / source / interpretation:]09  Critical appraisal
+Strengths
+[Novelty, methodological rigor, dataset quality, clinical relevance, transparency.]Limitations and threats to validity
+[Bias, confounding, overfitting, external validity, annotation quality, reproducibility, missing comparisons.]10  Clinical and translational significance
+[Potential diagnostic/clinical utility, workflow integration, interpretability, safety, generalizability, and deployment barriers.]11  Reproducibility checklist
+Code / weights[Available? Repository URL, license, commit/version]Data / annotations[Available? Access constraints and licenses]Training details[Sufficient to replicate? Missing details]Evaluation protocol[Patient-level split? Public test? Independent validation?]Replicability judgment[High / moderate / low, with explanation]
+12  Research relevance and extensions
+Connection to brain tumor segmentation research
+[How does this paper compare with HOG/LBP/GLCM/wavelets, SVM/RF, EfficientNet, U-Net, or hybrid CV/ML/DL approaches?]Potential experiments / implementation ideas
+[Specific, testable ideas; required datasets, metrics, baselines, and feasibility.]Future directions proposed by authors vs. your own
+[Separate author-proposed next steps from your original suggestions.]13  Conclusions and follow-up notes
+[Overall assessment, evidence-supported conclusions, open questions, and papers to read next.]Reading and action log
+Key terminology[Definitions and acronyms to revisit]Related references[Citations and DOI links to follow]Action items[Reproduce / compare / implement / discuss]Priority / rating[High / medium / low; rationale]
+Citation integrity: paraphrase faithfully, attribute borrowed figures, verify all numerical values against the paper, and distinguish observations from speculation.
