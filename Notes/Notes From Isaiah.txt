@@ -7,3 +7,7 @@ By hand, code 1 python project, using 1 of the algorithms (HOG by itself) start 
 New plan:
 
 The 8 models should be created using single-algorithm methods, so we my accurately attribute algorithm strength and how much they contribute to each model.
+
+
+
+Models 1 3 5 7
