@@ -1,0 +1,107 @@
+{
+    "experiment_id": "RF-01_Raw_Pixel_Baseline",
+    "model_name": "Random Forest",
+    "model_number": 2,
+    "task": "Binary Brain Tumor Classification",
+    "experiment_status": "Exploratory baseline",
+    "timestamp_utc": "2026-11-24T00:43:30.468312+00:00",
+    "random_seed": 42,
+    "total_images": 11520,
+    "training_images": 8037,
+    "validation_images": 1768,
+    "testing_images": 1715,
+    "testing_evaluated": false,
+    "preprocessing": {
+        "initial_image_size": [
+            224,
+            224
+        ],
+        "feature_image_size": [
+            64,
+            64
+        ],
+        "feature_type": "Flattened pixel intensities",
+        "number_of_features": 4096,
+        "use_clahe": false,
+        "normalization": "1st-99th percentile clipping",
+        "intensity_range": [
+            0.0,
+            1.0
+        ]
+    },
+    "partitioning": {
+        "method": "Filename-based series grouping",
+        "patient_independence_verified": false,
+        "duplicate_content_audit_completed": false,
+        "split_manifest_sha256": "f895f2ff3826962ef1c99ab213e683c2441c2c4a227e11469a03d9e588a1c362"
+    },
+    "hyperparameters": {
+        "bootstrap": true,
+        "ccp_alpha": 0.0,
+        "class_weight": "balanced_subsample",
+        "criterion": "gini",
+        "max_depth": null,
+        "max_features": "sqrt",
+        "max_leaf_nodes": null,
+        "max_samples": null,
+        "min_impurity_decrease": 0.0,
+        "min_samples_leaf": 2,
+        "min_samples_split": 2,
+        "min_weight_fraction_leaf": 0.0,
+        "n_estimators": 200,
+        "n_jobs": -1,
+        "oob_score": false,
+        "random_state": 42,
+        "verbose": 0,
+        "warm_start": false
+    },
+    "training_time_seconds": 6.665992699970957,
+    "feature_extraction_time_seconds": 97.67150949995266,
+    "average_tree_depth": 46.95,
+    "average_tree_leaves": 165.0,
+    "default_threshold": 0.5,
+    "optimized_threshold": 0.9500000000000001,
+    "threshold_selection_dataset": "Validation",
+    "threshold_selection_metric": "Balanced Accuracy",
+    "training_metrics": {
+        "Accuracy": 1.0,
+        "Balanced Accuracy": 1.0,
+        "Precision": 1.0,
+        "Sensitivity": 1.0,
+        "Specificity": 1.0,
+        "F1-score": 1.0,
+        "MCC": 1.0,
+        "ROC-AUC": 1.0,
+        "Average Precision": 1.0,
+        "False Positive Rate": 0.0,
+        "False Negative Rate": 0.0
+    },
+    "validation_metrics": {
+        "Accuracy": 0.7828054298642534,
+        "Balanced Accuracy": 0.5016392399019639,
+        "Precision": 0.7991850989522701,
+        "Sensitivity": 0.9723796033994334,
+        "Specificity": 0.03089887640449438,
+        "F1-score": 0.8773162939297123,
+        "MCC": 0.007930823377895517,
+        "ROC-AUC": 0.7539648120444344,
+        "Average Precision": 0.917257401800829,
+        "False Positive Rate": 0.9691011235955056,
+        "False Negative Rate": 0.02762039660056657
+    },
+    "optimized_validation_metrics": {
+        "Accuracy": 0.6730769230769231,
+        "Balanced Accuracy": 0.7154963873062354,
+        "Precision": 0.922920892494929,
+        "Sensitivity": 0.6444759206798867,
+        "Specificity": 0.7865168539325843,
+        "F1-score": 0.7589658048373644,
+        "MCC": 0.34799299581434645
+    },
+    "software_versions": {
+        "python": "3.11.7",
+        "numpy": "1.24.3",
+        "pandas": "2.1.4",
+        "scikit_learn": "1.2.2"
+    }
+}
