@@ -1,0 +1,4 @@
+Partition,Images,Percentage,Non-tumor,Tumor,MRI series groups,Tumor (%)
+Training,8037,69.77,783,7254,595,90.26
+Validation,1768,15.35,356,1412,128,79.86
+Testing,1715,14.89,58,1657,128,96.62
